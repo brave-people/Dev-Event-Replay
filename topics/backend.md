@@ -1,8 +1,8 @@
 # 백엔드 세션 다시보기
 
-> [← 행사 목록](../README.md) · 세션 244개
+> [← 행사 목록](../README.md) · 세션 252개
 
-> [2026년 (20)](#2026년) · [2025년 (59)](#2025년) · [2024년 (74)](#2024년) · [2023년 (58)](#2023년) · [2022년 (7)](#2022년) · [2021년 (17)](#2021년) · [2020년 (9)](#2020년)
+> [2026년 (20)](#2026년) · [2025년 (59)](#2025년) · [2024년 (77)](#2024년) · [2023년 (60)](#2023년) · [2022년 (10)](#2022년) · [2021년 (17)](#2021년) · [2020년 (9)](#2020년)
 
 ## 2026년
 
@@ -112,6 +112,7 @@
 - [Python ASGI 서버 구현기 with PyO3](https://www.youtube.com/watch?v=4xpIrtcppS0) · 민태인 · [파이콘 한국 2024](../events/2024-pycon.md) · 19분
 - [CPython 인터프리터 구조 파헤치기](https://www.youtube.com/watch?v=Yg6I4OCXYFs) · 한성민 · [파이콘 한국 2024](../events/2024-pycon.md) · 41분
 - [함수 추적 도구를 만들며 알아보는 파이썬 고성능 event-monitoring](https://www.youtube.com/watch?v=gOHg86BS3V4) · 강민철 / Kang Minchul · [파이콘 한국 2024](../events/2024-pycon.md) · 30분
+- [웹의 시작 - HTTP의 탄생과 기초를 쉽게 이해하는 시간](https://www.youtube.com/watch?v=FOAnAEXInRI) · 김정환 · [판교 퇴근길 밋업 with 인프런 #08 HTTP](../events/2024-pangyo-meetup-08.md) · 33분
 - [C++ : OOP 아닌 다른 대안은 없을까?](https://www.youtube.com/watch?v=Bmyg63_LG2I) · [if(kakaoAI)2024](../events/2024-ifkakao.md) · 29분
 - [tree-sitter와 LSP를 이용한 Language Server 개발기](https://www.youtube.com/watch?v=rMh7AhOzse0) · [if(kakaoAI)2024](../events/2024-ifkakao.md) · 21분
 - [카카오페이는 어떻게 수천만 결제를 처리할까? 우아한 결제 분산락 노하우](https://www.youtube.com/watch?v=4wGTavSyLxE) · [if(kakaoAI)2024](../events/2024-ifkakao.md) · 22분
@@ -147,6 +148,8 @@
 - [하루 1억 건 이상을 처리하는 견고한 포인트 시스템 구축하기](https://www.youtube.com/watch?v=4TxlNyMeTis) · [인프콘 2024](../events/2024-infcon.md) · 39분
 - [OpenAPI Generator 실전편: 효율적인 코드를 작성하는 법](https://www.youtube.com/watch?v=TnzPj7nIqxM) · [인프콘 2024](../events/2024-infcon.md) · 31분
 - [10년 된 레거시 PHP 모노리스 갈아엎은 후기](https://www.youtube.com/watch?v=tmQNn9R5hFM) · [인프콘 2024](../events/2024-infcon.md) · 1시간 4분
+- [내 마음대로 되지 않는 테스트코드, 꼭 작성해야 할까? - 희망편](https://www.youtube.com/watch?v=zblBEqTa_qQ) · 김명일 · [판교 퇴근길 밋업 with 인프런 #05 백엔드 테스트코드](../events/2024-pangyo-meetup-05.md) · 13분
+- [내 마음대로 되지 않는 테스트코드, 어떻게 작성해야 할까? - 현실편](https://www.youtube.com/watch?v=qQaUrk4kROk) · 김학산 · [판교 퇴근길 밋업 with 인프런 #05 백엔드 테스트코드](../events/2024-pangyo-meetup-05.md) · 25분
 - [켄트 벡의 Tidy First?](https://www.youtube.com/watch?v=IF9Uv5ceB1Q) · 안영회 · [스프링캠프 2024](../events/2024-springcamp.md) · 48분
 - [왜 나는 테스트를 작성하기 싫을까?](https://www.youtube.com/watch?v=pCE7ibRCZEI) · 조성아 · [스프링캠프 2024](../events/2024-springcamp.md) · 45분
 - [실전! MSA 개발 가이드](https://www.youtube.com/watch?v=raPJqrtGMxY) · 김용욱 · [스프링캠프 2024](../events/2024-springcamp.md) · 48분
@@ -216,6 +219,8 @@
 - [프로파일러로 시스템 성능 향상시키기](https://www.youtube.com/watch?v=tZjjqhnwtYY) · [SLASH 23](../events/2023-slash.md) · 17분
 - [실시간 시세 데이터 안전하고 빠르게 처리하기](https://www.youtube.com/watch?v=SF7eqlL0mjw) · [SLASH 23](../events/2023-slash.md) · 17분
 - [토스는 Gateway 이렇게 씁니다](https://www.youtube.com/watch?v=Zs3jVelp0L8) · [SLASH 23](../events/2023-slash.md) · 27분
+- [KotlinConf is Back! (부제: After the Party)](https://www.youtube.com/watch?v=nQvGiAWtpEA) · 박용권 · [인프런 퇴근길 밋업 #02 Kotlin with KotlinConf 2023 Global](../events/2023-inflearn-meetup-02.md) · 32분
+- [함수형 코틀린 (Recap Session)](https://www.youtube.com/watch?v=q05nIvOsdzM) · 김용욱 · [인프런 퇴근길 밋업 #02 Kotlin with KotlinConf 2023 Global](../events/2023-inflearn-meetup-02.md) · 39분
 - [어느 의 스프링 부트 따라잡기 Ver. 3](https://www.youtube.com/watch?v=1WT6oxchM9M) · 김지헌 · [스프링캠프 2023](../events/2023-springcamp.md) · 44분
 - [글로벌 서비스를 위한 Timezone/DST](https://www.youtube.com/watch?v=b0qGno4VJ8I) · 김대겸 · [스프링캠프 2023](../events/2023-springcamp.md) · 30분
 - [대규모 엔터프라이즈 시스템 개선 경험기 - 1부 - 달리는 기차의 바퀴 갈아 끼우기](https://www.youtube.com/watch?v=UwAoUshVpgM) · 임형태 · [스프링캠프 2023](../events/2023-springcamp.md) · 43분
@@ -229,6 +234,9 @@
 
 ## 2022년
 
+- [주니어 개발자의 Node.js 코드 변천사 (feat.랠릿)](https://www.youtube.com/watch?v=dRzYpXXFWKc) · 이소연 · [인프런 퇴근길 밋업 #01 Node.js](../events/2022-inflearn-meetup-01.md) · 20분
+- [Shall we NestJS?](https://www.youtube.com/watch?v=VseKP_r28Go) · 남병관 · [인프런 퇴근길 밋업 #01 Node.js](../events/2022-inflearn-meetup-01.md) · 22분
+- [Node.js에서 CPU-Intensive한 코드를 찾아내는 방법](https://www.youtube.com/watch?v=ZeRJycLzh1g) · 김경덕 · [인프런 퇴근길 밋업 #01 Node.js](../events/2022-inflearn-meetup-01.md) · 20분
 - [Java Native Memory Leak 원인을 찾아서](https://www.youtube.com/watch?v=w4fWgLgop5U) · [SLASH 22](../events/2022-slash.md) · 11분
 - [스크래핑으로 우아한 조회 경험을 만든 방법](https://www.youtube.com/watch?v=dP8S3kIQysk) · [SLASH 22](../events/2022-slash.md) · 14분
 - [애플 한 주가 고객에게 전달 되기까지](https://www.youtube.com/watch?v=UOWy6zdsD-c) · [SLASH 22](../events/2022-slash.md) · 14분
@@ -271,4 +279,4 @@
 
 ---
 
-다른 주제: [AI (489)](./ai.md) · [프론트엔드 (143)](./frontend.md) · [모바일 (118)](./mobile.md) · [인프라·DevOps (334)](./infra-devops.md) · [데이터 (171)](./data.md) · [보안 (134)](./security.md) · [게임 (128)](./game.md) · [디자인·기획 (71)](./design-product.md) · [문화·커리어 (162)](./culture-career.md) · [기타 (150)](./etc.md)
+다른 주제: [AI (489)](./ai.md) · [프론트엔드 (144)](./frontend.md) · [모바일 (121)](./mobile.md) · [인프라·DevOps (335)](./infra-devops.md) · [데이터 (171)](./data.md) · [보안 (134)](./security.md) · [게임 (128)](./game.md) · [디자인·기획 (71)](./design-product.md) · [문화·커리어 (167)](./culture-career.md) · [기타 (150)](./etc.md)

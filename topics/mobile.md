@@ -1,8 +1,8 @@
 # 모바일 세션 다시보기
 
-> [← 행사 목록](../README.md) · 세션 118개
+> [← 행사 목록](../README.md) · 세션 121개
 
-> [2025년 (23)](#2025년) · [2024년 (45)](#2024년) · [2023년 (14)](#2023년) · [2022년 (5)](#2022년) · [2021년 (10)](#2021년) · [2020년 (21)](#2020년)
+> [2025년 (23)](#2025년) · [2024년 (45)](#2024년) · [2023년 (17)](#2023년) · [2022년 (5)](#2022년) · [2021년 (10)](#2021년) · [2020년 (21)](#2020년)
 
 ## 2025년
 
@@ -81,6 +81,9 @@
 ## 2023년
 
 - [배민도 React Native 해요?: 웹개발자들이 만들어 나가는 배민커넥트앱 이야기](https://www.youtube.com/watch?v=BjX35lYqxug) · [우아콘 2023](../events/2023-woowacon.md) · 39분
+- [Flutter 엔지니어로 직무 전환한 이야기](https://www.youtube.com/watch?v=By9k4vZ__Mk) · 김종식 · [인프런 퇴근길 밋업 #03 Flutter with LINE](../events/2023-inflearn-meetup-03.md) · 26분
+- [Flutter 프로젝트에 테스트 들이붓기 (부제: 코드 신뢰성을 향상시키기 위한 테스트 사례들)](https://www.youtube.com/watch?v=_ZGcgTSuHmc) · 최연두 · [인프런 퇴근길 밋업 #03 Flutter with LINE](../events/2023-inflearn-meetup-03.md) · 25분
+- [Flutter Canvas로 어디까지 해봤니? - Flutter Canvas로 이스터에그 게임 그리기](https://www.youtube.com/watch?v=k3Q2jKKQMcg) · 조용대 · [인프런 퇴근길 밋업 #03 Flutter with LINE](../events/2023-inflearn-meetup-03.md) · 23분
 - [React Native Webview를 사용해서 React로만 앱 만들기](https://www.youtube.com/watch?v=Ecg52wAlYus) · [React Native Webview를 사용해서 React로만 앱 만들기](../events/2023-awskrug-frontend-07.md) · 52분
 - [달리는 토스 앱에 React Native 엔진 더하기](https://www.youtube.com/watch?v=6H9WQDRFZYg) · [SLASH 23](../events/2023-slash.md) · 18분
 - [레고처럼 조립하는 토스 앱](https://www.youtube.com/watch?v=zsLQQTuGiVw) · [SLASH 23](../events/2023-slash.md) · 15분
@@ -142,4 +145,4 @@
 
 ---
 
-다른 주제: [AI (489)](./ai.md) · [백엔드 (244)](./backend.md) · [프론트엔드 (143)](./frontend.md) · [인프라·DevOps (334)](./infra-devops.md) · [데이터 (171)](./data.md) · [보안 (134)](./security.md) · [게임 (128)](./game.md) · [디자인·기획 (71)](./design-product.md) · [문화·커리어 (162)](./culture-career.md) · [기타 (150)](./etc.md)
+다른 주제: [AI (489)](./ai.md) · [백엔드 (252)](./backend.md) · [프론트엔드 (144)](./frontend.md) · [인프라·DevOps (335)](./infra-devops.md) · [데이터 (171)](./data.md) · [보안 (134)](./security.md) · [게임 (128)](./game.md) · [디자인·기획 (71)](./design-product.md) · [문화·커리어 (167)](./culture-career.md) · [기타 (150)](./etc.md)

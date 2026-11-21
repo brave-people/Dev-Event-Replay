@@ -1,8 +1,8 @@
 # 인프라·DevOps 세션 다시보기
 
-> [← 행사 목록](../README.md) · 세션 334개
+> [← 행사 목록](../README.md) · 세션 335개
 
-> [2026년 (26)](#2026년) · [2025년 (97)](#2025년) · [2024년 (94)](#2024년) · [2023년 (46)](#2023년) · [2022년 (15)](#2022년) · [2021년 (18)](#2021년) · [2020년 (38)](#2020년)
+> [2026년 (26)](#2026년) · [2025년 (97)](#2025년) · [2024년 (95)](#2024년) · [2023년 (46)](#2023년) · [2022년 (15)](#2022년) · [2021년 (18)](#2021년) · [2020년 (38)](#2020년)
 
 ## 2026년
 
@@ -223,6 +223,7 @@
 - [그립의 클라우드 거버넌스와 로그 분석 혁신](https://www.youtube.com/watch?v=85odRQ74LNA) · [AWS Summit Seoul 2024](../events/2024-aws-summit.md) · 41분
 - [AWS 스토리지로 AI 및 ML 워크로드 혁신 가속화](https://www.youtube.com/watch?v=9oIElsChBCI) · [AWS Summit Seoul 2024](../events/2024-aws-summit.md) · 38분
 - [Red Hat과 AWS: ROSA를 통한 AI비즈니스 혁신](https://www.youtube.com/watch?v=QCW6Mrl5cOA) · [AWS Summit Seoul 2024](../events/2024-aws-summit.md) · 28분
+- [AWS, 그럴듯하게 운영해보기](https://www.youtube.com/watch?v=QGUdBUXwNho) · 이동규 · [인프런 퇴근길 밋업 #05 인프라 & AWS](../events/2024-inflearn-meetup-05.md) · 29분
 - [Keynote: AWS에서 .NET 애플리케이션 현대화 (영어 발표)](https://www.youtube.com/watch?v=Q4GfcT96JWo) · [.NET Conf 2024 x Seoul](../events/2024-dotnetconf.md) · 49분
 - [Native AOT와 Chiselled Ubuntu로 쉽고 빠르고 가볍게 배포하자](https://www.youtube.com/watch?v=smnKJaQINpc) · [.NET Conf 2024 x Seoul](../events/2024-dotnetconf.md) · 37분
 - [AWS에서 서버리스 .NET 앱을 개발 및 활용하기](https://www.youtube.com/watch?v=C0QAB3jE8Yo) · [.NET Conf 2024 x Seoul](../events/2024-dotnetconf.md) · 51분
@@ -361,4 +362,4 @@
 
 ---
 
-다른 주제: [AI (489)](./ai.md) · [백엔드 (244)](./backend.md) · [프론트엔드 (143)](./frontend.md) · [모바일 (118)](./mobile.md) · [데이터 (171)](./data.md) · [보안 (134)](./security.md) · [게임 (128)](./game.md) · [디자인·기획 (71)](./design-product.md) · [문화·커리어 (162)](./culture-career.md) · [기타 (150)](./etc.md)
+다른 주제: [AI (489)](./ai.md) · [백엔드 (252)](./backend.md) · [프론트엔드 (144)](./frontend.md) · [모바일 (121)](./mobile.md) · [데이터 (171)](./data.md) · [보안 (134)](./security.md) · [게임 (128)](./game.md) · [디자인·기획 (71)](./design-product.md) · [문화·커리어 (167)](./culture-career.md) · [기타 (150)](./etc.md)

@@ -3,11 +3,11 @@
 
 <!-- replay:start -->
 
-행사 132개 · 세션 2,144개
+행사 143개 · 세션 2,162개
 
 **주제별로 보기**
 
-> [AI (489)](./topics/ai.md) · [백엔드 (244)](./topics/backend.md) · [프론트엔드 (143)](./topics/frontend.md) · [모바일 (118)](./topics/mobile.md) · [인프라·DevOps (334)](./topics/infra-devops.md) · [데이터 (171)](./topics/data.md) · [보안 (134)](./topics/security.md) · [게임 (128)](./topics/game.md) · [디자인·기획 (71)](./topics/design-product.md) · [문화·커리어 (162)](./topics/culture-career.md) · [기타 (150)](./topics/etc.md)
+> [AI (489)](./topics/ai.md) · [백엔드 (252)](./topics/backend.md) · [프론트엔드 (144)](./topics/frontend.md) · [모바일 (121)](./topics/mobile.md) · [인프라·DevOps (335)](./topics/infra-devops.md) · [데이터 (171)](./topics/data.md) · [보안 (134)](./topics/security.md) · [게임 (128)](./topics/game.md) · [디자인·기획 (71)](./topics/design-product.md) · [문화·커리어 (167)](./topics/culture-career.md) · [기타 (150)](./topics/etc.md)
 
 **행사별로 보기**
 
@@ -67,24 +67,33 @@
 | AWS Community Day 2024 | [유튜브](https://www.youtube.com/playlist?list=PLX2fs3661XpPCc9wfHkc16TSs4DsNWL6R) | [18개 보기](./events/2024-awscd.md) | `클라우드` | AWSKRUG | 11. 02 ~ 03 |
 | [우아콘 2024](https://2024.woowacon.com/) | [유튜브](https://www.youtube.com/playlist?list=PLgXGHBqgT2Tu7H-ita_W0IHospr64ON_a) | [43개 보기](./events/2024-woowacon.md) | `기술일반` | 우아한형제들 | 10. 30 |
 | [파이콘 한국 2024](https://2024.pycon.kr/) | [유튜브](https://www.youtube.com/playlist?list=PLZPhyNeJvHRldfheI6KcgektEiXAIPJaY) | [38개 보기](./events/2024-pycon.md) | `파이썬` | 파이콘 한국 | 10. 26 ~ 27 |
+| [판교 퇴근길 밋업 with 인프런 #08 HTTP](https://www.inflearn.com/course/offline/%ED%8C%90%EA%B5%90-%ED%87%B4%EA%B7%BC%EA%B8%B8%EB%B0%8B%EC%97%85-%EC%9D%B8%ED%94%84%EB%9F%B0-http) | [유튜브](https://www.youtube.com/playlist?list=PLpkj8RKr48wbl8rsApCB9nWDaSK23xRpM) | [1개 보기](./events/2024-pangyo-meetup-08.md) | `기술일반` | 인프런 | 10. 23 |
 | if(kakaoAI)2024 | [Keynote](https://www.youtube.com/playlist?list=PLwe9WEhzDhwE7VWdGVegvJJ_AgUIHcndy) · [Day 1](https://www.youtube.com/playlist?list=PLwe9WEhzDhwGo3pBos0qktQcTUh_iFt7u) · [Day 2](https://www.youtube.com/playlist?list=PLwe9WEhzDhwEyBwc7Zz-zg6_GX3SGBcmg) · [Day 3](https://www.youtube.com/playlist?list=PLwe9WEhzDhwGXZ0REjCOYosGkrDkkHZKk) | [91개 보기](./events/2024-ifkakao.md) | `기술일반` | 카카오 | 10. 22 ~ 24 |
 | 2024 당근 테크 밋업 | [유튜브](https://www.youtube.com/playlist?list=PLaHcMRg2hoBryC2cZkhyEin5MrnEJhMUl) | [28개 보기](./events/2024-daangn-techmeetup.md) | `기술일반` | 당근 | 10. 07 |
+| [판교 퇴근길 밋업 - 가을 특집 with 개발바닥](https://www.inflearn.com/course/offline/%ED%8C%90%EA%B5%90-%ED%87%B4%EA%B7%BC%EA%B8%B8%EB%B0%8B%EC%97%85-%EC%9D%B8%ED%94%84%EB%9F%B0-%EA%B0%80%EC%9D%84%ED%8A%B9%EC%A7%91-%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%8B%A5) | [유튜브](https://www.youtube.com/playlist?list=PLpkj8RKr48wbl8rsApCB9nWDaSK23xRpM) | [1개 보기](./events/2024-pangyo-meetup-autumn.md) | `커리어` | 인프런 | 09. 25 |
 | Kubernetes Korea Community Day 2024 | [유튜브](https://www.youtube.com/playlist?list=PL1j_IgwZkt4PAaki3sVqOEn6SfQUuubgD) | [25개 보기](./events/2024-kcd.md) | `클라우드` | Kubernetes Korea Group | 09. 24 |
 | [SLASH 24](https://toss.im/slash-24) | [유튜브](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL) | [30개 보기](./events/2024-slash.md) | `기술일반` | 토스 | 09. 12 |
+| [판교 퇴근길 밋업 with 인프런 #07 오픈소스](https://www.inflearn.com/course/offline/%ED%8C%90%EA%B5%90-%ED%87%B4%EA%B7%BC%EA%B8%B8%EB%B0%8B%EC%97%85-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4) | [유튜브](https://www.youtube.com/playlist?list=PLpkj8RKr48wbl8rsApCB9nWDaSK23xRpM) | [1개 보기](./events/2024-pangyo-meetup-07.md) | `오픈소스` | 인프런 | 09. 11 |
+| [판교 퇴근길 밋업 with 인프런 #06 FE 테스트코드](https://www.inflearn.com/course/offline/%ED%8C%90%EA%B5%90-%ED%87%B4%EA%B7%BC%EA%B8%B8%EB%B0%8B%EC%97%85-%EC%9D%B8%ED%94%84%EB%9F%B0-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C) | [유튜브](https://www.youtube.com/playlist?list=PLpkj8RKr48wbl8rsApCB9nWDaSK23xRpM) | [1개 보기](./events/2024-pangyo-meetup-06.md) | `프론트엔드` | 인프런 | 08. 28 |
 | [FEConf 2024](https://2024.feconf.kr/) | [A Track](https://www.youtube.com/playlist?list=PLZl3coZhX98p9OOlEHtFy8Qp-1ECOH49Q) · [B Track](https://www.youtube.com/playlist?list=PLZl3coZhX98opIA5HS7eH5w-VYAswMWvc) | [10개 보기](./events/2024-feconf.md) | `프론트엔드` | FEConf | 08. 24 |
 | 인프콘 2024 | [유튜브](https://www.youtube.com/playlist?list=PLpkj8RKr48wZQXN874PP1hJkaRm6qcvZg) | [47개 보기](./events/2024-infcon.md) | `기술일반` | 인프런 | 08. 02 |
+| [판교 퇴근길 밋업 with 인프런 #05 백엔드 테스트코드](https://www.inflearn.com/course/offline/%ED%8C%90%EA%B5%90-%ED%87%B4%EA%B7%BC%EA%B8%B8%EB%B0%8B%EC%97%85-%EC%9D%B8%ED%94%84%EB%9F%B0-%EB%B0%B1%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C) | [유튜브](https://www.youtube.com/playlist?list=PLpkj8RKr48wbl8rsApCB9nWDaSK23xRpM) | [2개 보기](./events/2024-pangyo-meetup-05.md) | `백엔드` | 인프런 | 07. 24 |
 | 2024 CodeEngn Conference 20 | [유튜브](https://www.youtube.com/playlist?list=PLscYqoBID5Z5WVjsujSnEWpao4KbGA_7W) | [4개 보기](./events/2024-codeengn.md) | `보안` | 코드엔진 | - |
+| [판교 퇴근길 밋업 with 인프런 #04 사이드 프로젝트](https://www.inflearn.com/course/offline/%ED%8C%90%EA%B5%90-%ED%87%B4%EA%B7%BC%EA%B8%B8%EB%B0%8B%EC%97%85-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) | [유튜브](https://www.youtube.com/playlist?list=PLpkj8RKr48wbl8rsApCB9nWDaSK23xRpM) | [1개 보기](./events/2024-pangyo-meetup-04.md) | `커리어` | 인프런 | 06. 26 |
 | DroidKnights 2024 | [유튜브](https://www.youtube.com/playlist?list=PLu8dnNjU2FmtIUqQzv6xhnBa7wnZ3A0e0) | [14개 보기](./events/2024-droidknights.md) | `안드로이드` | DroidKnights | 06월 |
 | 데이터야놀자 2024 | [유튜브](https://www.youtube.com/playlist?list=PL7yPwpDiPFlJBI6LOmkgP3Hm5t7NTuTZF) | [11개 보기](./events/2024-datayanolja.md) | `데이터` | 데이터야놀자 | 06. 01 |
 | [스프링캠프 2024](https://springcamp.ksug.org/2024/) | [유튜브](https://www.youtube.com/playlist?list=PLdHtZnJh1KdY3gEi7EPa2AuWn5NKRVmDf) | [10개 보기](./events/2024-springcamp.md) | `백엔드` | KSUG | 05. 25 |
 | AWS Summit Seoul 2024 | [유튜브](https://www.youtube.com/playlist?list=PLORxAVAC5fUWSyuqOPMFw5VHFhvsXfJCA) | [100개 보기](./events/2024-aws-summit.md) | `클라우드` | AWS | 05. 16 ~ 17 |
+| [인프런 퇴근길 밋업 #05 인프라 & AWS](https://www.inflearn.com/course/offline/%EC%9D%B8%ED%94%84%EB%9F%B0-%ED%87%B4%EA%B7%BC%EA%B8%B8%EB%B0%8B%EC%97%85-05-%EC%9D%B8%ED%94%84%EB%9D%BC-aws) | [유튜브](https://www.youtube.com/playlist?list=PLpkj8RKr48wbl8rsApCB9nWDaSK23xRpM) | [1개 보기](./events/2024-inflearn-meetup-05.md) | `클라우드` | 인프런 | 02. 28 |
 | [.NET Conf 2024 x Seoul](https://dotnetconf.kr/2024) | [유튜브](https://www.youtube.com/playlist?list=PLFVJi7gR5oaNapfx69uag1Z6KePIbHGfA) | [17개 보기](./events/2024-dotnetconf.md) | `.NET` | 닷넷데브 | 02월 |
 
 ## 2023년
 
 | 행사 | 다시보기 | 세션 | 분류 | 주최 | 일시 |
 |---|---|---|---|---|---|
+| [인프런 퇴근길 밋업 #04 사이드프로젝트](https://www.inflearn.com/course/offline/%EC%9D%B8%ED%94%84%EB%9F%B0-%ED%87%B4%EA%B7%BC%EA%B8%B8%EB%B0%8B%EC%97%85-04-%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) | [유튜브](https://www.youtube.com/playlist?list=PLpkj8RKr48wbl8rsApCB9nWDaSK23xRpM) | [2개 보기](./events/2023-inflearn-meetup-04.md) | `커리어` | 인프런 | 11. 29 |
 | 우아콘 2023 | [유튜브](https://www.youtube.com/playlist?list=PLgXGHBqgT2TundZ81MAVHPzeYOTeII69j) | [55개 보기](./events/2023-woowacon.md) | `기술일반` | 우아한형제들 | 11. 15 |
+| [인프런 퇴근길 밋업 #03 Flutter with LINE](https://www.inflearn.com/course/offline/%EC%9D%B8%ED%94%84%EB%9F%B0-%ED%87%B4%EA%B7%BC%EA%B8%B8%EB%B0%8B%EC%97%85-03-flutter) | [유튜브](https://www.youtube.com/playlist?list=PLpkj8RKr48wbl8rsApCB9nWDaSK23xRpM) | [3개 보기](./events/2023-inflearn-meetup-03.md) | `모바일` | 인프런 | 10. 25 |
 | [파이콘 한국 2023](https://2023.pycon.kr/) | [유튜브](https://www.youtube.com/playlist?list=PLZPhyNeJvHRllQiXsJAryqWmqWrwFxY8I) | [44개 보기](./events/2023-pycon.md) | `파이썬` | 파이콘 한국 | 08. 11 ~ 13 |
 | GopherCon Korea 2023 | [유튜브](https://www.youtube.com/watch?v=WZthMW0BaNA) | [1개 보기](./events/2023-gophercon-korea.md) | `Go` | Golang Korea | 08. 05 ~ 06 |
 | 제18회 보아즈(BOAZ) 빅데이터 컨퍼런스 | [유튜브](https://www.youtube.com/playlist?list=PLThNmt_l7b6Abvmao-_XKqXMSUUocwSY6) | [9개 보기](./events/2023-boaz-18.md) | `데이터` | 보아즈 | 07. 29 |
@@ -102,6 +111,7 @@
 | NHN Cloud make IT 2023 | [유튜브](https://www.youtube.com/playlist?list=PL42XJKPNDepbuujKpiCqYk3oF3VeBZjI8) | [22개 보기](./events/2023-nhn-make-it.md) | `클라우드` | NHN Cloud | 06. 22 |
 | [SLASH 23](https://toss.im/slash-23) | [유튜브](https://www.youtube.com/playlist?list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL) | [26개 보기](./events/2023-slash.md) | `기술일반` | 토스 | - |
 | kakao tech meet 제1회 | [유튜브](https://www.youtube.com/playlist?list=PLwe9WEhzDhwF36thY2_SVoayAz_KRWv_f) | [3개 보기](./events/2023-kakao-tech-meet-1.md) | `AI` | 카카오 | 05. 11 |
+| [인프런 퇴근길 밋업 #02 Kotlin with KotlinConf 2023 Global](https://www.inflearn.com/course/offline/kotlinconf-2023-global) | [유튜브](https://www.youtube.com/playlist?list=PLpkj8RKr48wbl8rsApCB9nWDaSK23xRpM) | [2개 보기](./events/2023-inflearn-meetup-02.md) | `백엔드` | 인프런 | 04. 25 |
 | 스프링캠프 2023 | [유튜브](https://www.youtube.com/playlist?list=PLdHtZnJh1KdbR9xXyiVJ-BClLTXCw66y3) | [7개 보기](./events/2023-springcamp.md) | `백엔드` | KSUG | 04. 22 |
 | Flutter Forward Extended Korea | [유튜브](https://www.youtube.com/playlist?list=PL6RQwUkx6VTRLPlCimOmv8UeLKC9FAlzf) | [8개 보기](./events/2023-flutter-forward-extended.md) | `모바일` | Flutter Seoul | 04. 01 |
 | [DEVIEW 2023](https://deview.kr/2023) | [유튜브](https://www.youtube.com/playlist?list=PLsFtzQAC8dDcQAcSG4PNrW7-0ExDZqqJA) | [46개 보기](./events/2023-deview.md) | `기술일반` | 네이버 | 02. 27 ~ 28 |
@@ -110,6 +120,7 @@
 
 | 행사 | 다시보기 | 세션 | 분류 | 주최 | 일시 |
 |---|---|---|---|---|---|
+| [인프런 퇴근길 밋업 #01 Node.js](https://www.inflearn.com/course/inflearn-evening-meetup-2211) | [유튜브](https://www.youtube.com/playlist?list=PLpkj8RKr48wbl8rsApCB9nWDaSK23xRpM) | [3개 보기](./events/2022-inflearn-meetup-01.md) | `백엔드` | 인프런 | 11. 29 |
 | 기술 커뮤니티의 가치와 Developer Relations | [유튜브](https://www.youtube.com/watch?v=jY-HAJlfxSY) | [1개 보기](./events/2022-woowa-seminar-09.md) | `기술일반` | 우아한형제들 | 09. 29 |
 | 인프콘 2022 | [인프런](https://www.inflearn.com/course/infcon2022) | - | `기술일반` | 인프런 | 08. 26 |
 | 모두의연구소 코칭스터디 세미나 | [유튜브](https://www.youtube.com/watch?v=mxuWqUzbD6c) | [1개 보기](./events/2022-modulabs-coaching-08.md) | `파이썬` | 모두의연구소 | 08. 09 |

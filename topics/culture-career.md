@@ -1,8 +1,8 @@
 # 문화·커리어 세션 다시보기
 
-> [← 행사 목록](../README.md) · 세션 162개
+> [← 행사 목록](../README.md) · 세션 167개
 
-> [2026년 (15)](#2026년) · [2025년 (43)](#2025년) · [2024년 (37)](#2024년) · [2023년 (12)](#2023년) · [2022년 (6)](#2022년) · [2021년 (30)](#2021년) · [2020년 (19)](#2020년)
+> [2026년 (15)](#2026년) · [2025년 (43)](#2025년) · [2024년 (40)](#2024년) · [2023년 (14)](#2023년) · [2022년 (6)](#2022년) · [2021년 (30)](#2021년) · [2020년 (19)](#2020년)
 
 ## 2026년
 
@@ -93,8 +93,10 @@
 - [저는 파이썬을 가르치는 초등교사입니다.](https://www.youtube.com/watch?v=kKebMNF_o8s) · 고학능 · [파이콘 한국 2024](../events/2024-pycon.md) · 18분
 - [수학수업, 학급경영 쏠쏠한 Python 체험기](https://www.youtube.com/watch?v=L2Gmc_2TxyM) · 차민경 / cha, min gyung · [파이콘 한국 2024](../events/2024-pycon.md) · 30분
 - [오픈소스 프로젝트 - 코드 0줄부터 스타 1.7k까지](https://www.youtube.com/watch?v=xnYFgCvyff4) · 김동규 · [파이콘 한국 2024](../events/2024-pycon.md) · 29분
+- [속이 뻥뚫리는 개비스콘 : 개발바닥과 함께하는 비밀스러운 토크 콘서트](https://www.youtube.com/watch?v=uAz1ga4F38Q) · 향로,호돌맨 · [판교 퇴근길 밋업 - 가을 특집 with 개발바닥](../events/2024-pangyo-meetup-autumn.md) · 49분
 - [Dear Future CTO](https://www.youtube.com/watch?v=5KWWwsYEOyo) · [SLASH 24](../events/2024-slash.md) · 49분
 - [빠르게 성장하고 싶은 주니어 개발자를 위한 소프트 스킬 5가지](https://www.youtube.com/watch?v=JyAiWo4ghVg) · [SLASH 24](../events/2024-slash.md) · 38분
+- [함께하는 오픈소스 기여 - 100명의 개발자 분들을 도와 100개 넘는 오픈소스 PR을 만들고 세상을 함께 바꿔가는 이야기](https://www.youtube.com/watch?v=wGaq8bwQEU0) · 김인제 · [판교 퇴근길 밋업 with 인프런 #07 오픈소스](../events/2024-pangyo-meetup-07.md) · 30분
 - [실리콘밸리 개발 문화 및 서바이벌 전략](https://www.youtube.com/watch?v=3oFul4Ntw0c) · [인프콘 2024](../events/2024-infcon.md) · 26분
 - [경력이 늘수록 CS이론이 중요해지는 이유](https://www.youtube.com/watch?v=SVXWwRavAw0) · [인프콘 2024](../events/2024-infcon.md) · 40분
 - [10년 동안의 실패 이야기: 실패를 의미있는 일로 탈바꿈하는 가장 쉬운 방법](https://www.youtube.com/watch?v=nqrvHOp0gWk) · [인프콘 2024](../events/2024-infcon.md) · 38분
@@ -105,11 +107,14 @@
 - [기술 서적 집필은 처음이라: 주니어 엔지니어의 기술 공유를 통한 성장 이야기](https://www.youtube.com/watch?v=AROjxhKfv-A) · [인프콘 2024](../events/2024-infcon.md) · 19분
 - [사이드 프로젝트로 커리어 레벨업!](https://www.youtube.com/watch?v=nzH1yXXQHXg) · [인프콘 2024](../events/2024-infcon.md) · 19분
 - [컴퓨터 밑바닥에서 찾는 개발자 성장의 비밀](https://www.youtube.com/watch?v=YYu-MGHMBCM) · [인프콘 2024](../events/2024-infcon.md) · 1시간 6분
+- [성공적인 사이드 프로젝트를 위한 팀 빌딩과 문제 해결 가이드](https://www.youtube.com/watch?v=hlmxJklNtJA) · 유용태 · [판교 퇴근길 밋업 with 인프런 #04 사이드 프로젝트](../events/2024-pangyo-meetup-04.md) · 1시간 10분
 - [시니어와 주니어의 협업 다리: 온라인 및 오프라인 페어코딩의 통찰](https://www.youtube.com/watch?v=wlRz2pCbXno) · 정동진, 최재웅 · [DroidKnights 2024](../events/2024-droidknights.md) · 44분
 - [DORA와 Amazon Bedrock을 이용한 업무 문화 혁신 사례](https://www.youtube.com/watch?v=nRfu5TMALOQ) · [AWS Summit Seoul 2024](../events/2024-aws-summit.md) · 39분
 
 ## 2023년
 
+- [내 맘처럼 안되는 사이드 프로젝트 제대로 해보기](https://www.youtube.com/watch?v=-ATPFJ7HRPs) · 전정민 · [인프런 퇴근길 밋업 #04 사이드프로젝트](../events/2023-inflearn-meetup-04.md) · 22분
+- [사이드 프로젝트를 지속하게 한 네 가지 동력](https://www.youtube.com/watch?v=-ZRPqqQB2MY) · 이재영 · [인프런 퇴근길 밋업 #04 사이드프로젝트](../events/2023-inflearn-meetup-04.md) · 14분
 - [나도 누군가에게 금쪽이었다!](https://www.youtube.com/watch?v=2ufJzk9f1tE) · [우아콘 2023](../events/2023-woowacon.md) · 36분
 - [심플하게, 하지만 유용하게: 우아한테크코스 프론트엔드 커리큘럼을 만들어 나가는 여정](https://www.youtube.com/watch?v=K4WvRET1V8s) · [우아콘 2023](../events/2023-woowacon.md) · 34분
 - [어느 날 시니어가 사라졌다! 주니어 5명의 일 문화 가꾸기](https://www.youtube.com/watch?v=1M2uCsfcIso) · [우아콘 2023](../events/2023-woowacon.md) · 34분
@@ -189,4 +194,4 @@
 
 ---
 
-다른 주제: [AI (489)](./ai.md) · [백엔드 (244)](./backend.md) · [프론트엔드 (143)](./frontend.md) · [모바일 (118)](./mobile.md) · [인프라·DevOps (334)](./infra-devops.md) · [데이터 (171)](./data.md) · [보안 (134)](./security.md) · [게임 (128)](./game.md) · [디자인·기획 (71)](./design-product.md) · [기타 (150)](./etc.md)
+다른 주제: [AI (489)](./ai.md) · [백엔드 (252)](./backend.md) · [프론트엔드 (144)](./frontend.md) · [모바일 (121)](./mobile.md) · [인프라·DevOps (335)](./infra-devops.md) · [데이터 (171)](./data.md) · [보안 (134)](./security.md) · [게임 (128)](./game.md) · [디자인·기획 (71)](./design-product.md) · [기타 (150)](./etc.md)

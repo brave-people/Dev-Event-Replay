@@ -161,4 +161,4 @@
 
 ---
 
-다른 주제: [AI (489)](./ai.md) · [백엔드 (244)](./backend.md) · [프론트엔드 (143)](./frontend.md) · [모바일 (118)](./mobile.md) · [인프라·DevOps (334)](./infra-devops.md) · [데이터 (171)](./data.md) · [게임 (128)](./game.md) · [디자인·기획 (71)](./design-product.md) · [문화·커리어 (162)](./culture-career.md) · [기타 (150)](./etc.md)
+다른 주제: [AI (489)](./ai.md) · [백엔드 (252)](./backend.md) · [프론트엔드 (144)](./frontend.md) · [모바일 (121)](./mobile.md) · [인프라·DevOps (335)](./infra-devops.md) · [데이터 (171)](./data.md) · [게임 (128)](./game.md) · [디자인·기획 (71)](./design-product.md) · [문화·커리어 (167)](./culture-career.md) · [기타 (150)](./etc.md)

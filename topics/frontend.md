@@ -1,8 +1,8 @@
 # 프론트엔드 세션 다시보기
 
-> [← 행사 목록](../README.md) · 세션 143개
+> [← 행사 목록](../README.md) · 세션 144개
 
-> [2026년 (4)](#2026년) · [2025년 (27)](#2025년) · [2024년 (45)](#2024년) · [2023년 (23)](#2023년) · [2022년 (5)](#2022년) · [2021년 (16)](#2021년) · [2020년 (23)](#2020년)
+> [2026년 (4)](#2026년) · [2025년 (27)](#2025년) · [2024년 (46)](#2024년) · [2023년 (23)](#2023년) · [2022년 (5)](#2022년) · [2021년 (16)](#2021년) · [2020년 (23)](#2020년)
 
 ## 2026년
 
@@ -69,6 +69,7 @@
 - [N개의 탭, 단 하나의 웹소켓: SharedWorker](https://www.youtube.com/watch?v=SVt1-Opp3Wo) · [SLASH 24](../events/2024-slash.md) · 18분
 - [SSE 이벤트 푸쉬로 불필요한 Polling 제거하기](https://www.youtube.com/watch?v=ovGgdPPUZ2I) · [SLASH 24](../events/2024-slash.md) · 20분
 - [Yarn Plugin으로 우아하게 자동 로깅하기](https://www.youtube.com/watch?v=E7jdKomaqjI) · [SLASH 24](../events/2024-slash.md) · 13분
+- [스토리북 & 자동화 테스트와 함께 하는 컴포넌트 주도 프론트엔드 개발](https://www.youtube.com/watch?v=CBLPEeayqYo) · 김태희 · [판교 퇴근길 밋업 with 인프런 #06 FE 테스트코드](../events/2024-pangyo-meetup-06.md) · 40분
 - [Airbridge SDK팀이 순수한 Unit Testable한 코드를 작성하는 방법](https://www.youtube.com/watch?v=uROM56ya7Zo) · [FEConf 2024](../events/2024-feconf.md) · 32분
 - [브라우저를 여행하는 힙스터 개발자를 위한 웹 어셈블리 안내서](https://www.youtube.com/watch?v=Hkt6I_UZOG8) · [FEConf 2024](../events/2024-feconf.md) · 27분
 - [쉽고 편리한 E2E 테스트 자동화를 꿈꾸며...](https://www.youtube.com/watch?v=HqlCfWT3oZU) · [FEConf 2024](../events/2024-feconf.md) · 41분
@@ -170,4 +171,4 @@
 
 ---
 
-다른 주제: [AI (489)](./ai.md) · [백엔드 (244)](./backend.md) · [모바일 (118)](./mobile.md) · [인프라·DevOps (334)](./infra-devops.md) · [데이터 (171)](./data.md) · [보안 (134)](./security.md) · [게임 (128)](./game.md) · [디자인·기획 (71)](./design-product.md) · [문화·커리어 (162)](./culture-career.md) · [기타 (150)](./etc.md)
+다른 주제: [AI (489)](./ai.md) · [백엔드 (252)](./backend.md) · [모바일 (121)](./mobile.md) · [인프라·DevOps (335)](./infra-devops.md) · [데이터 (171)](./data.md) · [보안 (134)](./security.md) · [게임 (128)](./game.md) · [디자인·기획 (71)](./design-product.md) · [문화·커리어 (167)](./culture-career.md) · [기타 (150)](./etc.md)
