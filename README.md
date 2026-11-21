@@ -1,5 +1,12 @@
-# Dev-Event-Replay
-🎉🎈 개발자 {웨비나, 컨퍼런스, 해커톤} 행사를 다시 봅시다.
+<div align=center>
+
+![Dev-Event-Replay](./static/banner.png)
+
+</div>
+
+<div align="right">
+   🗓️ 다가오는 행사는 <a href="https://github.com/brave-people/Dev-Event">Dev-Event</a>에서
+</div>
 
 <!-- replay:start -->
 
@@ -192,3 +199,17 @@
 | AWS Community Day 2020 | [유튜브](https://www.youtube.com/playlist?list=PLORxAVAC5fUVaQBVL8vrhywy2QlwU_Vo6) | [15개 보기](./events/2020-aws-community-day.md) | `클라우드` | AWSKRUG | 01. 21 |
 
 <!-- replay:end -->
+
+<br />
+<br />
+<div align=center>
+   <hr />
+   <h3> 용감한 친구들 with 남송리 삼번지 </h3>
+   <hr />
+</div>
+
+<div align=right>
+
+[![Hits](https://hits.sh/github.com/brave-people/Dev-Event-Replay.svg?style=flat-square&color=2db400&labelColor=443731&label=visit)](https://hits.sh/github.com/brave-people/Dev-Event/)
+
+</div>
