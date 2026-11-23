@@ -1,8 +1,8 @@
 # 데이터 세션 다시보기
 
-> [← 행사 목록](../README.md) · 세션 171개
+> [← 행사 목록](../README.md) · 세션 501개
 
-> [2026년 (16)](#2026년) · [2025년 (49)](#2025년) · [2024년 (46)](#2024년) · [2023년 (18)](#2023년) · [2022년 (11)](#2022년) · [2021년 (15)](#2021년) · [2020년 (16)](#2020년)
+> [2026년 (33)](#2026년) · [2025년 (67)](#2025년) · [2024년 (53)](#2024년) · [2023년 (78)](#2023년) · [2022년 (124)](#2022년) · [2021년 (101)](#2021년) · [2020년 (37)](#2020년) · [2019년 (7)](#2019년) · [2018년 (1)](#2018년)
 
 ## 2026년
 
@@ -12,6 +12,14 @@
 - [옮기는 것보다 증명이 어렵다: 클레임 검색 색인을 CDC 로 바꾸고 검증한 기록](https://www.youtube.com/watch?v=L_yUxc_980A) · [if(kakao)26](../events/2026-ifkakao.md) · 20분
 - [폴링으로 잘 돌아가는데, 왜 바꿨을까: 카카오워크 검색 색인 파이프라인의 CDC 전환기](https://www.youtube.com/watch?v=mRhHzQhTy-A) · [if(kakao)26](../events/2026-ifkakao.md) · 23분
 - [Dagster Asset으로 만드는 검증 가능한 데이터 파이프라인](https://www.youtube.com/watch?v=LfH2oAtPcLs) · 박래철 · [PyCon Korea 2026](../events/2026-pycon.md) · 18분
+- [Sleep&Sleep 채널 통합 데이터 대시보드](https://www.youtube.com/watch?v=yVuK4udOC9s) · 스초생 팀 · [제24회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2026-boaz-24.md) · 10분
+- [HEART](https://www.youtube.com/watch?v=yzd4ZS24pRw) · Cachemere 팀 · [제24회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2026-boaz-24.md) · 12분
+- [LOCAL : LOcal Contrastive Anatomical Learning for Abdominal CT Segmentation](https://www.youtube.com/watch?v=O1Zw8UB3fiE) · [제24회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2026-boaz-24.md) · 15분
+- [POOKIE : AI 활용 역량 진단 서비스](https://www.youtube.com/watch?v=SRkCN1Fy6Yo) · FOURKEY 팀 · [제24회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2026-boaz-24.md) · 11분
+- [삼진어묵 매출 및 광고매체 성과 모니터링 대시보드](https://www.youtube.com/watch?v=ZEN58yQcpSw) · 고객님잠깐만요 팀 · [제24회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2026-boaz-24.md) · 9분
+- [conmate 공모전 협업 관리AI 에이전트 플랫폼](https://www.youtube.com/watch?v=hxNUjZcsGuE) · conmate 팀 · [제24회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2026-boaz-24.md) · 11분
+- [HummingBlocks 서버리스 데이터 인프라 구축기: 오프라인 로그부터 실시간 대시보드까지](https://www.youtube.com/watch?v=lklcuwKnlVo) · 배불록 팀 · [제24회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2026-boaz-24.md) · 11분
+- [미술대학 입시 포트폴리오를 위한 온톨로지 플랫폼](https://www.youtube.com/watch?v=sPFk4QIi1yc) · TripleS 팀 · [제24회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2026-boaz-24.md) · 8분
 - [전환율은 틀렸다](https://www.youtube.com/watch?v=Qs8YqYAS4vg) · 박진수 · [데이터야놀자 2026](../events/2026-datayanolja.md) · 26분
 - [A/B테스트만으로는 부족합니다 - CRM 실험으로 이해하는 베이지안 최적화](https://www.youtube.com/watch?v=8-nDivx4lS4) · 이병헌 · [데이터야놀자 2026](../events/2026-datayanolja.md) · 23분
 - [당신의 인사이트는 안녕하신가요? - 데이터에 속아본 사람들의 이야기 - 그 중엔 저도 있습니다.](https://www.youtube.com/watch?v=XGg6niKq21Q) · 정상욱 · [데이터야놀자 2026](../events/2026-datayanolja.md) · 18분
@@ -21,7 +29,16 @@
 - [도메인은 바뀌어도 데이터는 남는다. 바이오에서 핀테크, 반도체까지 Python으로 문제를 정의하는 법](https://www.youtube.com/watch?v=Zn-GPngY9Dk) · 김경서 · [파이콘 부산 2026](../events/2026-pycon-busan.md) · 25분
 - [Pandas 3 0, 드디어!](https://www.youtube.com/watch?v=8iMyjBEkSDg) · 한상곤 · [파이콘 부산 2026](../events/2026-pycon-busan.md) · 24분
 - [From Movements to Matches Using Python and Dynamic Time Warping](https://www.youtube.com/watch?v=N8c6g7Krr2U) · Melisa Krisna · [파이콘 부산 2026](../events/2026-pycon-busan.md) · 29분
+- [데이터의 가치를 서비스로: 통합 데이터 플랫폼 기반 서비스 확장 전략](https://www.youtube.com/watch?v=EtwZ9ty3YR0) · kt cloud Data플랫폼팀 김종민 · [kt cloud summit 2026](../events/2026-kt-cloud-summit.md) · 17분
+- [pgvector 검색 최적화](https://www.youtube.com/watch?v=n3_LY7YFCwE) · [당근 DB 밋업 1회](../events/2026-daangn-db-1.md) · 33분
 - [코끼리를 냉장고에 집어넣기: PG\_VECTOR](https://www.youtube.com/watch?v=YqrKl1J9Qlc) · 윤명식 · [.NET Universe 2026](../events/2026-dotnet-universe.md) · 28분
+- [OnLog: Real-time Edge - to - Cloud Data Pipeline for Smart Factory](https://www.youtube.com/watch?v=bNJVo81NgtY) · [제23회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2026-boaz-23.md) · 12분
+- [디저트 큐레이팅 플랫폼을 위한 데이터 기반 의사결정 프로세스 구축](https://www.youtube.com/watch?v=ir_hXas8Y7s) · 픽미 팀 · [제23회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2026-boaz-23.md) · 9분
+- [헬퍼잇 : 020 일거리 서비스 사용자 행동 분석](https://www.youtube.com/watch?v=5yfd9BfGjIY) · 셋이어때 팀 · [제23회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2026-boaz-23.md) · 10분
+- [실시간 투표 커뮤니티 서비스 기반 데이터 파이프라인 구축 및 성능 검증](https://www.youtube.com/watch?v=DOLY41upC1U) · If Lab 팀 · [제23회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2026-boaz-23.md) · 10분
+- [Omni, 모든 콘텐츠를 운영을 하나로 연결하는 AI 서비스](https://www.youtube.com/watch?v=OvGoE-c6i-E) · SimAI 팀 · [제23회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2026-boaz-23.md) · 11분
+- [데이터 기반 독립출판사•서점 경영지원 대시보드](https://www.youtube.com/watch?v=u2lYXhxQ5QM) · 북적북적 팀 · [제23회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2026-boaz-23.md) · 9분
+- [분산환경 주문 이벤트 처리 플랫폼](https://www.youtube.com/watch?v=0jI2prARYWs) · 백 투 더 엔지 팀 · [제23회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2026-boaz-23.md) · 8분
 
 ## 2025년
 
@@ -44,10 +61,13 @@
 - [PySpark Python UDF 2배 빠르게 만들기](https://www.youtube.com/watch?v=xV4R_pmZsZg) · 권혁진 · [PyCon Korea 2025](../events/2025-pycon.md) · 21분
 - [10년 이상의 파이콘 데이터로 DuckDB와 벡터 임베딩을 활용하여 기술 트랜드 인사이트 찾기](https://www.youtube.com/watch?v=I8Gdmfn3M7Q) · 박조은 · [PyCon Korea 2025](../events/2025-pycon.md) · 43분
 - [파이썬으로 수집한 데이터로 기업을 해석하다](https://www.youtube.com/watch?v=BhF7dmBnPNk) · 김영현 · [PyCon Korea 2025](../events/2025-pycon.md) · 30분
+- [아라보아: 장기적 성장을 위한 DDDM 환경 구축](https://www.youtube.com/watch?v=FHQtwloId1U) · 아라보아즈 팀 · [제22회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2025-boaz-22.md) · 22분
+- [Fitbnb: 취향에 딱 맞는 에어비앤비 큐레이션 프로젝트](https://www.youtube.com/watch?v=5-AeHMfTmO8) · GO-DIVA 팀 · [제22회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2025-boaz-22.md) · 18분
+- [Oatter 사용자 행동 분석 및 주요 KPI 대시보드](https://www.youtube.com/watch?v=0CZpPnd8Zfs) · 시시각각 팀 · [제22회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2025-boaz-22.md) · 10분
 - [조직의 생산성을 높이는 Process Mining](https://www.youtube.com/watch?v=L4Qk4kLY8zs) · [Toss Makers Conference 25 · Engineering Day](../events/2025-tmc.md) · 23분
-- [중앙에서 Data Mesh로 Data Ownership 강화를 위한 변화](https://www.youtube.com/watch?v=P00wKMrqBwE) · [Toss Makers Conference 25 · Engineering Day](../events/2025-tmc.md) · 26분
-- [로그 자동화로 생산성 혁신하기](https://www.youtube.com/watch?v=n_NQfjznKYc) · [Toss Makers Conference 25 · Engineering Day](../events/2025-tmc.md) · 15분
-- [ScyllaDB 토스뱅크 Online Feature Store](https://www.youtube.com/watch?v=dvijQIfYYb0) · [Toss Makers Conference 25 · Engineering Day](../events/2025-tmc.md) · 21분
+- [중앙에서 Data Mesh로 Data Ownership 강화를 위한 변화](https://www.youtube.com/watch?v=P00wKMrqBwE) · [Toss Makers Conference 25 · Engineering Day](../events/2025-tmc.md) · 26분
+- [로그 자동화로 생산성 혁신하기](https://www.youtube.com/watch?v=n_NQfjznKYc) · [Toss Makers Conference 25 · Engineering Day](../events/2025-tmc.md) · 15분
+- [ScyllaDB 토스뱅크 Online Feature Store](https://www.youtube.com/watch?v=dvijQIfYYb0) · [Toss Makers Conference 25 · Engineering Day](../events/2025-tmc.md) · 21분
 - [정성 데이터랑도 같이 놀자!](https://www.youtube.com/watch?v=D4vUXxZrCoI) · 허유정 · [데이터야놀자 2025](../events/2025-datayanolja.md) · 20분
 - [노코드로 데이터 분석,진짜 가능한가요?](https://www.youtube.com/watch?v=nrS7Td5VbCU) · 정다인 · [데이터야놀자 2025](../events/2025-datayanolja.md) · 21분
 - [로그 데이터로 사용자 이탈 뜯어보기: 행동 단위로 퍼널을 만들어본 PM의 분석기](https://www.youtube.com/watch?v=3RLc23xdWAk) · 김미소 · [데이터야놀자 2025](../events/2025-datayanolja.md) · 18분
@@ -60,6 +80,7 @@
 - [커뮤니티 유저 행동 분석 :어떤 사용자가 계속 들어올까?](https://www.youtube.com/watch?v=tuPo5M1UKFQ) · 팀 이글 · [데이터야놀자 2025](../events/2025-datayanolja.md) · 38분
 - [10x 빠르게 10x 싸게: Quickwit 기반 신규 로그 파이프라인](https://www.youtube.com/watch?v=E8rm1lLJGXI) · [2025 당근 플랫폼 밋업](../events/2025-daangn-platform.md) · 26분
 - [로컬 스크립트에서 하루에 한 번 돌아가는 파이프라인이 되기까지: 당근지도의 여정](https://www.youtube.com/watch?v=FU0C91z3wUw) · [2025 당근 플랫폼 밋업](../events/2025-daangn-platform.md) · 26분
+- [변화하는 RDB 데이터를 놓치지 않는 실시간 스트리밍 아키텍처 이야기](https://www.youtube.com/watch?v=deuT70ml5bQ) · [AWS Summit Seoul 2025 커뮤니티 트랙](../events/2025-aws-summit-community-track.md) · 37분
 - [모두의 데이터로 가는 길, GS리테일이 선택한 데이터 민주화 전략](https://www.youtube.com/watch?v=gCVDrKMwBKM) · [AWS Summit Seoul 2025](../events/2025-aws-summit.md) · 41분
 - [Streamlit in Snowflake:코드 몇 줄로 빠르게 완성되는 AI 데이터 앱](https://www.youtube.com/watch?v=xVbX8rqjypw) · [AWS Summit Seoul 2025](../events/2025-aws-summit.md) · 20분
 - [LG U+의 Amazon Redshift 마이그레이션을 통한 Data Warehouse 현대화 여정](https://www.youtube.com/watch?v=RsQid4WBgHc) · [AWS Summit Seoul 2025](../events/2025-aws-summit.md) · 43분
@@ -73,11 +94,26 @@
 - [생성형 AI를 활용한 데이터베이스 마이그레이션 가속화](https://www.youtube.com/watch?v=0XzG1wh8bXE) · [AWS Summit Seoul 2025](../events/2025-aws-summit.md) · 43분
 - [생성형 AI를 위한 데이터 실무자 가이드](https://www.youtube.com/watch?v=kBrEMJyAQ1E) · [AWS Summit Seoul 2025](../events/2025-aws-summit.md) · 39분
 - [추천 시스템 with DataFlow: 대규모 데이터 파이프라인 구성](https://www.youtube.com/watch?v=NqI2S53Uglc) · [2025 당근 GCP 밋업](../events/2025-daangn-gcp.md) · 15분
+- [데이터센터 열전달 흐름 kt cloud Liquid Cooling 전략](https://www.youtube.com/watch?v=E7DGjif7Oqg) · 이원민 (kt cloud DC기술전략팀) · [kt cloud: summit 2025](../events/2025-kt-cloud-summit.md) · 19분
+- [Leveraging Vehicle Data for Safety, Autonomy, and Business](https://www.youtube.com/watch?v=VxlO8Mdq7_8) · [Pleos 25](../events/2025-pleos.md) · 23분
+- [Unlocking the Potential of Vehicle Data](https://www.youtube.com/watch?v=rn-pioZz_zk) · [Pleos 25](../events/2025-pleos.md) · 20분
+- [Designing Transportation with Data: From Analysis to Real-time Operation](https://www.youtube.com/watch?v=htP-QyQkvQA) · [Pleos 25](../events/2025-pleos.md) · 20분
+- [LIVE에서 LIFE까지, IVS를 활용한 라이브 비디오 스트리밍!](https://www.youtube.com/watch?v=N16K06yJeok) · [AWS Unicorn Day 2025](../events/2025-aws-unicorn-day.md) · 42분
+- [스타트업을 위한 AWS의 분석 서비스 활용 방법 및 신규 기능 소개](https://www.youtube.com/watch?v=rnSwCdRIfMI) · [AWS Unicorn Day 2025](../events/2025-aws-unicorn-day.md) · 40분
+- [비용효율적인 데이터 분석 인프라 구축: 바닥부터 Redshift 도입까지](https://www.youtube.com/watch?v=7au_bne249o) · [AWS Unicorn Day 2025](../events/2025-aws-unicorn-day.md) · 20분
+- [RAG를 활용하여 구조화된 데이터 분석 업무 벗어나기](https://www.youtube.com/watch?v=AIgkBt31OUg) · [AWS Unicorn Day 2025](../events/2025-aws-unicorn-day.md) · 40분
+- [AWS 멀티 테넌시를 활용한 글로벌 마케팅 데이터 SaaS 구축 사례](https://www.youtube.com/watch?v=hdopF4fi27o) · [AWS Unicorn Day 2025](../events/2025-aws-unicorn-day.md) · 18분
+- [LookBack : 데이터 기반 3초 자기반성 SaaS 대시보드](https://www.youtube.com/watch?v=EE-NhThijYM) · 연말결산 팀 · [제21회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2025-boaz-21.md) · 18분
+- [Pickply : Interactive Dashboard Based on User Behavior Analysis](https://www.youtube.com/watch?v=87suJ29KDdo) · 데조영 팀 · [제21회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2025-boaz-21.md) · 16분
+- [아파트너 : 직원을 위한 기업 경영 KPI 대시보드 및 커뮤니티 서비스 활성화를 위한 분석](https://www.youtube.com/watch?v=C-RkZ2YvsFY) · Wish U 팀 · [제21회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2025-boaz-21.md) · 15분
+- [목표 관리 앱 : 챌린지로 보는 유저 행동](https://www.youtube.com/watch?v=oaDTC3EZgnc) · 보아저스 팀 · [제21회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2025-boaz-21.md) · 12분
+- [데이터 엔지니어의 오랜 숙제에 마침표, AWS에서 확인하세요: ETL 구축부터 마이그레이션, DB 확장까지](https://www.youtube.com/watch?v=Zk8KljvI_Jo) · [AWS re:Invent reCap 2025](../events/2025-aws-reinvent-recap.md) · 30분
 - [AI-Powered Application 개발을 위한 최적 데이터플랫폼, 카우치베이스](https://www.youtube.com/watch?v=uveeOCfr0XQ) · 손광락 · [.NET Conf 2025 x Seoul](../events/2025-dotnetconf.md) · 39분
 
 ## 2024년
 
 - [페어프로그래밍으로 실시간 데이터 복제 오픈소스 기여하기](https://www.youtube.com/watch?v=YYSYG5uVVK8) · 장동욱 (Debezium LAB) · [모두콘 2024](../events/2024-moducon.md) · 17분
+- [Building a robust feature platform for data-powered recommendations (GBL208)](https://www.youtube.com/watch?v=aciRo1geadk) · [AWS re:Invent 2024 한국어 강연](../events/2024-aws-reinvent-korean.md) · 19분
 - [AI와 함께하는 빅데이터 카탈로그 : 데이터 검색 및 활용의 혁신](https://www.youtube.com/watch?v=I9hfE1kpEh0) · [삼성 개발자 콘퍼런스 코리아 2024](../events/2024-sdc-korea.md) · 20분
 - [삼성 계정 개인정보는 언제나 맑음: Kafka 와 함께하는 개인정보 암호화 및 스키마 전환](https://www.youtube.com/watch?v=8gFoufW2nvQ) · [삼성 개발자 콘퍼런스 코리아 2024](../events/2024-sdc-korea.md) · 25분
 - [빅데이터 GDPR 비용반의 반으로: 데이터 구조 및 cluster scaling 최적화 경험 소개](https://www.youtube.com/watch?v=oIcDKmNhQmA) · [삼성 개발자 콘퍼런스 코리아 2024](../events/2024-sdc-korea.md) · 18분
@@ -94,6 +130,9 @@
 - [지표 통합과 탐색: KarrotMetrics와 Explorer로 가치 있는 의사결정하기](https://www.youtube.com/watch?v=I_i3jbQn_tg) · [2024 당근 테크 밋업](../events/2024-daangn-techmeetup.md) · 29분
 - [우리 동네 어디까지 좁아지는 거예요? 자연경계로 좁혀보는 우리 동네](https://www.youtube.com/watch?v=Y26O0rvyV1Q) · [2024 당근 테크 밋업](../events/2024-daangn-techmeetup.md) · 25분
 - [지역 기반으로 중고거래 검색을 샤딩하라](https://www.youtube.com/watch?v=RoPDpbcmf6k) · [2024 당근 테크 밋업](../events/2024-daangn-techmeetup.md) · 30분
+- [데이터 플랫폼 혁신: Amazon EKS로 가속화하는 아모레퍼시픽의 디지털 트랜스포메이션](https://www.youtube.com/watch?v=klfbckST7R4) · [AWS Innovate 2024](../events/2024-aws-innovate.md) · 28분
+- [데이터 환경의 현대화: 실시간 데이터를 위한 인메모리 캐싱과 NoSQL 활용 방법](https://www.youtube.com/watch?v=paf1ekkhOTs) · [AWS Innovate 2024](../events/2024-aws-innovate.md) · 26분
+- [AI를 활용하기 위해 VectorDB는 필수 인가요? RDB로 VectorDB를 만들수는 없을까요?](https://www.youtube.com/watch?v=_llkRxidpGY) · 강성욱(NOWCOM) · [lab \| up &gt; /conf/4](../events/2024-lablup-conf.md) · 30분
 - [ClickHouse로 토스증권 랭킹 서비스 구조 개선하기](https://www.youtube.com/watch?v=8P2OL7cwFEU) · [SLASH 24](../events/2024-slash.md) · 17분
 - [전천후 데이터 분석을 위한 DW 설계 및 운영하기](https://www.youtube.com/watch?v=MWDVBZycou4) · [SLASH 24](../events/2024-slash.md) · 25분
 - [오픈소스로 Hadoop 클러스터 구축하기](https://www.youtube.com/watch?v=4BcSVF4bLtU) · [SLASH 24](../events/2024-slash.md) · 21분
@@ -104,8 +143,8 @@
 - [데이터 분석가에게 가장 중요한 3가지 역량 : 주관적인, 하지만 누구나 공감 할 만한](https://www.youtube.com/watch?v=uSHaktsnu-8) · 조지헌 · [데이터야놀자 2024](../events/2024-datayanolja.md) · 18분
 - [Do you know DBT?](https://www.youtube.com/watch?v=m9lGtlxRJC4) · 김도진 · [데이터야놀자 2024](../events/2024-datayanolja.md) · 34분
 - [작년의 나를 이겨라, 운동능력은 향상되었을까?](https://www.youtube.com/watch?v=UqGspD-2k4s) · 모용호 · [데이터야놀자 2024](../events/2024-datayanolja.md) · 13분
-- [실험에 기반한 당신의 가설 검정 결과를 신뢰할 수 없는 이유](https://www.youtube.com/watch?v=1jTn9b3_-u0) · 방태모 · [데이터야놀자 2024](../events/2024-datayanolja.md) · 46분
-- [Drill Down, 분석가의 멘탈 모델](https://www.youtube.com/watch?v=0U75ZIpnUUE) · 김선영 · [데이터야놀자 2024](../events/2024-datayanolja.md) · 40분
+- [실험에 기반한 당신의 가설 검정 결과를 신뢰할 수 없는 이유](https://www.youtube.com/watch?v=1jTn9b3_-u0) · 방태모 · [데이터야놀자 2024](../events/2024-datayanolja.md) · 46분
+- [Drill Down, 분석가의 멘탈 모델](https://www.youtube.com/watch?v=0U75ZIpnUUE) · 김선영 · [데이터야놀자 2024](../events/2024-datayanolja.md) · 40분
 - [데이터를 스케치 하기](https://www.youtube.com/watch?v=ThI9ojBi-OE) · 황영 · [스프링캠프 2024](../events/2024-springcamp.md) · 45분
 - [데이터 처리도 이제는 컨테이너로, 우아한형제들의 데이터플랫폼 혁신](https://www.youtube.com/watch?v=T2mtIkQ1vbA) · [AWS Summit Seoul 2024](../events/2024-aws-summit.md) · 44분
 - [쿠팡의 Amazon Redshift 최적화 전략](https://www.youtube.com/watch?v=mcSvvOhhASs) · [AWS Summit Seoul 2024](../events/2024-aws-summit.md) · 44분
@@ -122,12 +161,45 @@
 - [BizLens로 본 교보생명의 데이터 전략 성공 스토리](https://www.youtube.com/watch?v=LIdzrwrOSpI) · [AWS Summit Seoul 2024](../events/2024-aws-summit.md) · 40분
 - [AWS에서 생성형 AI의 성공적 구축을 위한 데이터 전략](https://www.youtube.com/watch?v=3eYlY8k7REE) · [AWS Summit Seoul 2024](../events/2024-aws-summit.md) · 40분
 - [Unlocking AI : 실시간 생성형 AI Apps을 가능하게 하는 SingleStoreDB 활용 사례](https://www.youtube.com/watch?v=VMTSdKhDQGo) · [AWS Summit Seoul 2024](../events/2024-aws-summit.md) · 30분
+- [데이터센터의 지속가능한 미래를 위한 차세대 냉각 시스템](https://www.youtube.com/watch?v=xU8Re9BWZdo) · kt cloud SMUMMIT 2024 (삼화에이스 최병남 상무) · [kt cloud : summit 2024](../events/2024-kt-cloud-summit.md) · 15분
+- [\[Track 3-2\] QuickSight 활용한 의사 결정으로 달성한 비즈니스 개선 사례](https://www.youtube.com/watch?v=2lb80S18mwU) · [AWS Unicorn Day 2024](../events/2024-aws-unicorn-day.md) · 23분
 - [쉽고 효율적인 개발을 위한 NoSQL 활용법, 카우치베이스](https://www.youtube.com/watch?v=A3Nh7S7UXAM) · [.NET Conf 2024 x Seoul](../events/2024-dotnetconf.md) · 49분
+- [빠르고 쉬운 데이터 관리: Amazon DataZone과 AWS Lake Formation을 곁들인](https://www.youtube.com/watch?v=OHxU9gzVzS4) · [AWS Builders 온라인 시리즈 2024](../events/2024-aws-builders-online.md) · 29분
 
 ## 2023년
 
+- [똑같은 상품 모여라! 카탈로그 이야기](https://www.youtube.com/watch?v=rgWuzWg5_rQ) · 이재현 · [11STREET TECH TALK 2023](../events/2023-11st-techtalk.md) · 27분
+- [11번가 상품/가격/검색의 미래는?](https://www.youtube.com/watch?v=Erjskfg_f1g) · 강윤희,최정윤,임재엽,설건호 · [11STREET TECH TALK 2023](../events/2023-11st-techtalk.md) · 30분
+- [대용량의 상품을 빠르게 검색/색인 할 수 있다고?(feat. Apache Iceberg)](https://www.youtube.com/watch?v=xUpi8pXyiyk) · 김두진, 김용주 · [11STREET TECH TALK 2023](../events/2023-11st-techtalk.md) · 28분
+- [SQL 엔진을 더욱 강력하게: 비정형 데이터 분석 정상에 서다](https://www.youtube.com/watch?v=ARTrGQFMwTY) · [SK TECH SUMMIT 2023](../events/2023-sk-tech-summit.md) · 18분
+- [Spark를 활용한 반도체 비정형 Data 처리/조회 서비스 Innovation](https://www.youtube.com/watch?v=AhveK45OQDI) · [SK TECH SUMMIT 2023](../events/2023-sk-tech-summit.md) · 24분
+- [아직도 ETL 솔루션 쓰고 계신 분들에게 On-premis 기반 k8s+airflow ETL Platform(Haflow) 를 소개합니다.](https://www.youtube.com/watch?v=lYs5HcnTY9E) · [SK TECH SUMMIT 2023](../events/2023-sk-tech-summit.md) · 26분
+- [The Future is Now: 모바일 광고에서의 머신러닝](https://www.youtube.com/watch?v=rI8OXKAlKvA) · [SK TECH SUMMIT 2023](../events/2023-sk-tech-summit.md) · 22분
+- [Managed Airflow 서비스 Vane 개발기](https://www.youtube.com/watch?v=iKPQZuJykPo) · [SK TECH SUMMIT 2023](../events/2023-sk-tech-summit.md) · 22분
+- [AWS 클라우드에서 모던 데이터 플랫폼과 분석환경 구축하기](https://www.youtube.com/watch?v=pyeYNZ0OLf4) · [SK TECH SUMMIT 2023](../events/2023-sk-tech-summit.md) · 25분
+- [Data Mesh for Instant Query - Why Trino on Data Mesh?](https://www.youtube.com/watch?v=MpbLw7KtFBQ) · [SK TECH SUMMIT 2023](../events/2023-sk-tech-summit.md) · 19분
+- [SKT Modern Industrial Data Platform 기술 소개 (Tech Deep Dive)](https://www.youtube.com/watch?v=Fm_aKlIJtBk) · [SK TECH SUMMIT 2023](../events/2023-sk-tech-summit.md) · 23분
+- [안심하고 일할 수 있는 일터를 만들기 위해 안전에 진심인 사람들이 만들었습니다. : 안심(안전에 진심) 어플리케이션](https://www.youtube.com/watch?v=FkY2AyISfto) · [SK TECH SUMMIT 2023](../events/2023-sk-tech-summit.md) · 20분
+- [Emerging Memory Architecture Challenges with the Introduction of CXL](https://www.youtube.com/watch?v=tsvBKSu9nZ8) · [SK TECH SUMMIT 2023](../events/2023-sk-tech-summit.md) · 26분
 - [Kafka Streams를 활용한 이벤트 스트림 처리 삽질기](https://www.youtube.com/watch?v=YACC1t_oSlA) · [우아콘 2023](../events/2023-woowacon.md) · 39분
 - [데이터 엔지니어가 만들어가는 레거시](https://www.youtube.com/watch?v=lbsGKOnXshw) · [우아콘 2023](../events/2023-woowacon.md) · 22분
+- [가상제조기반 빅데이터를 활용한 차량의 클로저시스템을 최적설계 하기](https://www.youtube.com/watch?v=uX3_FcJPd7A) · [제3회 HMG Developer Conference](../events/2023-hmg-devcon.md) · 18분
+- [약관 기반 차량 데이터 수집 정책 배포 서비스 개발기](https://www.youtube.com/watch?v=v0Y98fwHpDI) · [제3회 HMG Developer Conference](../events/2023-hmg-devcon.md) · 20분
+- [한의학 고전 텍스트 분석하기](https://www.youtube.com/watch?v=OU4XejceaLo) · 장동엽 · [데이터야놀자 2023](../events/2023-datayanolja.md) · 24분
+- [데이터 유통 플랫폼 구축하기: 저장소를 통합하라](https://www.youtube.com/watch?v=GR7a0nHF-sg) · 오치문 · [데이터야놀자 2023](../events/2023-datayanolja.md) · 18분
+- [마케팅 행사는 처음입니다만: 데이터로 세일즈 전환율 높이기](https://www.youtube.com/watch?v=LNgqXcLauo0) · 서지혜 · [데이터야놀자 2023](../events/2023-datayanolja.md) · 34분
+- [데이터로 셀럽과 팬의 마음을 측정하기](https://www.youtube.com/watch?v=wojVWY0BrMQ) · 양세비 · [데이터야놀자 2023](../events/2023-datayanolja.md) · 33분
+- [GA4, 어떻게 '잘' 쓸 수 있을까? 데이터를 잘 보기 위한 3가지 원칙](https://www.youtube.com/watch?v=5BLxJGkXt3E) · 윤선미 · [데이터야놀자 2023](../events/2023-datayanolja.md) · 34분
+- [당신의 A/B Test를 신뢰할 수 없는 이유](https://www.youtube.com/watch?v=J4zjwJNYyPM) · 방태모 · [데이터야놀자 2023](../events/2023-datayanolja.md) · 27분
+- [모수가 충분히 크면 중심극한정리에 따라서 정규분포라고 해도 되는 거 아니에요?](https://www.youtube.com/watch?v=MyhNRK1a5to) · 추교영 · [데이터야놀자 2023](../events/2023-datayanolja.md) · 26분
+- [webR(웹어셈블리)을 이용하여 github 페이지에서 대시보드 제공하기](https://www.youtube.com/watch?v=qBJPjaDCIVo) · 김진환 · [데이터야놀자 2023](../events/2023-datayanolja.md) · 35분
+- [데이터 신뢰성 엔지니어링](https://www.youtube.com/watch?v=HmXOUj6hV60) · 김연준 · [데이터야놀자 2023](../events/2023-datayanolja.md) · 31분
+- [Streamlit으로 활용 가능한 대시보드 만들기](https://www.youtube.com/watch?v=a1e0-S2CbmM) · 성연찬 · [데이터야놀자 2023](../events/2023-datayanolja.md) · 24분
+- [레이크하우스: LLMOps를 위한 거대한 데이터 연못 만들기](https://www.youtube.com/watch?v=q793CwY5jio) · 한성민 · [데이터야놀자 2023](../events/2023-datayanolja.md) · 34분
+- [비즈니스 분석가 vs 프로덕트 분석가: 데이터 분석가의 두 얼굴](https://www.youtube.com/watch?v=N3q6jDPcQeg) · 주정민 · [데이터야놀자 2023](../events/2023-datayanolja.md) · 22분
+- [데이터 복제 오픈소스 라이브러리와 함께 성장하기](https://www.youtube.com/watch?v=3V1bah4DaBw) · 장동욱 · [데이터야놀자 2023](../events/2023-datayanolja.md) · 17분
+- [데이터로 뜯어보는 커뮤니티](https://www.youtube.com/watch?v=Uuy9BSoriag) · 조동민 · [데이터야놀자 2023](../events/2023-datayanolja.md) · 22분
+- [데이터 사이언티스트 되고 싶다면? 현직자가 알려줄게!](https://www.youtube.com/watch?v=GHlTL0TyOTQ) · 권시현 (IDT Corporation) 이지영 (사노피) · [SEF2023 Software Edu Fest](../events/2023-sef.md) · 37분
 - [로컬 환경에서 사이즈가 큰 데이터를 효과적으로 처리,분석하기 위한 전략](https://www.youtube.com/watch?v=M6YuOk4dAH4) · 오성우 · [파이콘 한국 2023](../events/2023-pycon.md) · 42분
 - [짠내나는 데이터 다루기](https://www.youtube.com/watch?v=4VpJDeqrdKc) · 박조은 · [파이콘 한국 2023](../events/2023-pycon.md) · 42분
 - [pandas와 PySpark로 데이터 워크로드 확장하기](https://www.youtube.com/watch?v=Rpsf61z4uNw) · 권혁진 · [파이콘 한국 2023](../events/2023-pycon.md) · 33분
@@ -135,18 +207,128 @@
 - [\[4부터7 팀\] 공방 301 데이터를 활용한 마케팅 방향 제시](https://www.youtube.com/watch?v=1gP8llKCFe4) · [제18회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2023-boaz-18.md) · 17분
 - [\[link-us(링커즈) 팀\] 링키드를 위한 비즈니스 대시보드](https://www.youtube.com/watch?v=yui4jEGPSvg) · [제18회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2023-boaz-18.md) · 19분
 - [\[이탈리안 BMT 팀\] 지하철 너 뭐 돼?](https://www.youtube.com/watch?v=5XDLI-oyrN8) · [제18회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2023-boaz-18.md) · 24분
+- [데이터로 고객을 움직이는 팀이 되어가는 여정](https://www.youtube.com/watch?v=1WFkXTTRnwE) · 이진형 (빅쏠) · [구름 COMMIT · 데이터로 고객을 움직이는 팀이 되어가는 여정](../events/2023-goorm-commit-0719.md) · 1시간 22분
 - [채팅+ 메시지 플랫폼의 로그기반 실시간 인사이트 시스템 구조](https://www.youtube.com/watch?v=dCa_vVbrHoQ) · 백윤수, 김재형 · [KCD Korea 2023](../events/2023-kcd.md) · 26분
 - [Data Platform on NHN Cloud](https://www.youtube.com/watch?v=smVPohvQmQQ) · [NHN Cloud make IT 2023](../events/2023-nhn-make-it.md) · 42분
 - [AI 환경에서의 Data 관리 및 저장소 설계](https://www.youtube.com/watch?v=MkDZbabUuas) · [NHN Cloud make IT 2023](../events/2023-nhn-make-it.md) · 45분
 - [은행 데이터플랫폼 오픈소스로 전환하기](https://www.youtube.com/watch?v=RjsG-zKMuX8) · [SLASH 23](../events/2023-slash.md) · 21분
+- [챗GPT와 오정보](https://www.youtube.com/watch?v=3t9nPopr0QA) · Misinformation · [Seoul R Meetup 2023](../events/2023-seoul-r-meetup.md) · 38분
+- [Snowflake: 모든 데이터 워크로드를 위한 하나의 클라우드 데이터 플랫폼](https://www.youtube.com/watch?v=Vkc23br0o1k) · 이학수 이사, 스노우플레이크 · [AWS Summit Seoul 2023](../events/2023-aws-summit.md) · 31분
+- [SOCAR는 어떻게 2만대의 차량을 운영할까?: IoT Data의 수집부터 분석까지](https://www.youtube.com/watch?v=gZElFqytfac) · [AWS Summit Seoul 2023](../events/2023-aws-summit.md) · 38분
+- [스타트업의 서버리스 기반 SaaS 데이터 처리 및 데이터웨어하우스 구축 사례](https://www.youtube.com/watch?v=zh9mKAnVnbw) · 박승균, 에이슬립 / 백재연, 매드업 · [AWS Summit Seoul 2023](../events/2023-aws-summit.md) · 39분
+- [Amazon EKS 데이터 전송 비용 절감 및 카오스 엔지니어링 적용 사례](https://www.youtube.com/watch?v=QJdp2rlADCs) · 허진수, 당근마켓 / 정영진, LG유플러스 · [AWS Summit Seoul 2023](../events/2023-aws-summit.md) · 39분
+- ["이봐, 해봤어?" 해본! 사람의 Modern Data Architecture 비밀 노트](https://www.youtube.com/watch?v=tuE29nSaphE) · 정회종, AWS / 윤영구, AWS · [AWS Summit Seoul 2023](../events/2023-aws-summit.md) · 47분
+- [실시간 CDC 데이터 처리! Modern Transactional Data Lake 구축하기](https://www.youtube.com/watch?v=G5vvPX7PtmM) · 김성민 솔루션즈 아키텍트, AWS · [AWS Summit Seoul 2023](../events/2023-aws-summit.md) · 41분
+- [모두를 위한 BI, QuickSight](https://www.youtube.com/watch?v=7V28RjcQY5s) · 민지수 솔루션즈 아키텍트, AWS / 윤기원 솔루션즈 아키텍트, AWS · [AWS Summit Seoul 2023](../events/2023-aws-summit.md) · 37분
+- [데이터 공유와 활용! 전사 데이터 거버넌스를 위한 3가지 비밀 무기](https://www.youtube.com/watch?v=FiEYV06TcBM) · 김윤건, AWS / 박성훈, AWS / 정재화, 쿠팡 · [AWS Summit Seoul 2023](../events/2023-aws-summit.md) · 38분
+- [Amazon Redshift Serverless를 활용한 LG이노텍의 데이터 분석 플랫폼 혁신 과정](https://www.youtube.com/watch?v=6f1Q7N6bERs) · [AWS Summit Seoul 2023](../events/2023-aws-summit.md) · 37분
+- [롯데면세점이 고객에게 차별화된 경험을 제공하는 방법: AWS Native 서비스를 활용한 초개인화 마케팅 분석 플랫폼 구현 사례](https://www.youtube.com/watch?v=awZpt4YseRM) · [AWS Summit Seoul 2023](../events/2023-aws-summit.md) · 30분
+- [데이터는 어떻게 의료와 교육을 혁신하는가](https://www.youtube.com/watch?v=3ht6y2VOzJE) · 은찬미, 조민성, AWS / 차원철 교수, 삼성서울병원 / 조창수 팀장, 천재교육 · [AWS Summit Seoul 2023](../events/2023-aws-summit.md) · 42분
+- [Datadog을 활용한 AWS 서버리스 Observability](https://www.youtube.com/watch?v=9zlrjY2Upxo) · 이현진 엔터프라이즈 세일즈 엔지니어, Datadog · [AWS Summit Seoul 2023](../events/2023-aws-summit.md) · 30분
+- [서버리스, 이제는 데이터 분석에서 활용해요!](https://www.youtube.com/watch?v=3g3Ktof3VjQ) · 박진우 솔루션즈 아키텍트, AWS / 김성일 WWSO 솔루션즈 아키텍트, AWS · [AWS Summit Seoul 2023](../events/2023-aws-summit.md) · 38분
+- [Confluent와 함께하는 실시간 데이터와 클라우드 여정](https://www.youtube.com/watch?v=OWbyAlhiZsw) · 황주필 시니어 솔루션 엔지니어, Confluent Korea · [AWS Summit Seoul 2023](../events/2023-aws-summit.md) · 31분
+- [MongoDB Atlas와 함께하는 Developer Data Platform](https://www.youtube.com/watch?v=QakjsOx3m4o) · 김준 전무, 솔루션 아키텍트 매니저, MongoDB · [AWS Summit Seoul 2023](../events/2023-aws-summit.md) · 29분
+- [Hyper Scale 데이터 분석의 핵심 요소: kt cloud datalake](https://www.youtube.com/watch?v=2lb8pLvX0pY) · kt NexR 이승화 R&D센터장 · [kt cloud : SUMMIT 2023](../events/2023-kt-cloud-summit.md) · 20분
+- [데이터센터의 ESG 경영을 위한 Immersion Cooling](https://www.youtube.com/watch?v=obrUTpo0kFQ) · 삼화에이스 최병남 상무 · [kt cloud : SUMMIT 2023](../events/2023-kt-cloud-summit.md) · 21분
+- [클라우드 HA/DR 및 데이터 보호 전략](https://www.youtube.com/watch?v=t6pNG3D0DGw) · 베리타스코리아 신창희 상무 · [kt cloud : SUMMIT 2023](../events/2023-kt-cloud-summit.md) · 22분
+- [Select Star for Data Discovery](https://www.youtube.com/watch?v=WpnSaiRTkSY) · chloekim · [프로그래머스 데이터 엔지니어링 컨퍼런스 2회](../events/2023-programmers-de-conference-2.md) · 18분
+- [\[Data Analytics\] 데이터 분석 싸게, 더 싸게! 완전 싸게!](https://www.youtube.com/watch?v=MeSylcgYP0M) · [AWS Startup Week 2023](../events/2023-aws-startup-week.md) · 41분
+- [\[Analytics\] Show Me Your Startup! Hackle](https://www.youtube.com/watch?v=YLYBSFO6GHw) · 애자일 SaaS 의 인프라 활용법 · [AWS Startup Week 2023](../events/2023-aws-startup-week.md) · 20분
+- [데이터 과학자가 직접 만들고 실행하는 MLOps](https://www.youtube.com/watch?v=BfnMge5sbeM) · 문곤수 AI/ML 전문 솔루션즈 아키텍트, AWS, 김제삼 솔루션즈 아키텍트, AWS · [AWS Innovate 2023 - Data and AI/ML](../events/2023-aws-innovate.md) · 30분
 - [바닥까지 파보는! Hbase random read 성능 개선기](https://www.youtube.com/watch?v=tUT_bDPYg3k) · [DEVIEW 2023](../events/2023-deview.md) · 34분
 - [CQuery : 우당탕탕 Trino와 썸타기](https://www.youtube.com/watch?v=aFswuTGzU4s) · [DEVIEW 2023](../events/2023-deview.md) · 40분
 - [Global Grid System(H3)를 이용한 Last Mile 분야의 공간데이터 관리와 Mapping](https://www.youtube.com/watch?v=-z3DkQ2zrB4) · [DEVIEW 2023](../events/2023-deview.md) · 32분
 - [Noir: 메일검색 서버를 반의 반으로 줄여준 신규 검색엔진 제작기](https://www.youtube.com/watch?v=23_tNjIzUPM) · [DEVIEW 2023](../events/2023-deview.md) · 37분
 - [SCDF로 하루 N만곡 이상 VIBE 메타 데이터 실시간으로 적재하기!](https://www.youtube.com/watch?v=eXZ3W7zlpmk) · [DEVIEW 2023](../events/2023-deview.md) · 50분
+- [실시간 데이터를 이용한 Elasticsearch 클러스터 최적화](https://www.youtube.com/watch?v=gzjbv3yRr6U) · 중고책나라 팀 · [제17회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2023-boaz-17.md) · 21분
+- [스니커즈 중심의 리셀 시장 및 플랫폼 KREAM 분석](https://www.youtube.com/watch?v=4G0Rzg0AjO4) · 나만없어범고래 팀 · [제17회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2023-boaz-17.md) · 19분
+- [아이디어스 작가를 위한 비지니스 대시보드](https://www.youtube.com/watch?v=d0YN4iBLfKQ) · 굿아이디어스 팀 · [제17회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2023-boaz-17.md) · 18분
+- [지하철 혼잡도 및 키워드 분석 데이터 파이프라인 구축](https://www.youtube.com/watch?v=dgNioKT7ObY) · Catch, Traffic! 팀 · [제17회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2023-boaz-17.md) · 14분
+- [기업과 소비자를 위한 ESG 대시보드 & 지속가능경영보고서](https://www.youtube.com/watch?v=TlFBFl4IiFU) · 으쓱^^ 팀 · [제17회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2023-boaz-17.md) · 20분
+- [비즈니스에 맞는 데이터 파이프 라인 쉽고 빠르게 구축하기](https://www.youtube.com/watch?v=n0m7ggIFkR8) · [AWS Builders 온라인 시리즈 2023](../events/2023-aws-builders-online.md) · 26분
 
 ## 2022년
 
+- [지식그래프 알아보기](https://www.youtube.com/watch?v=Y8AJ3cTALh4) · [데보션 12월 Tech 세미나 · 지식그래프 알아보기](../events/2022-devocean-seminar-12.md) · 1시간 46분
+- [뭐야 내 데이터 돌려줘요](https://www.youtube.com/watch?v=VZ4_K_4AeHE) · 이지운(코딩이랑 무관합니다만,) · [모두콘 2022](../events/2022-moducon.md) · 26분
+- [네이버 검색어를 활용한 사회 현안 분석 사례와 방법](https://www.youtube.com/watch?v=KO8nJHlHP0Q) · 행정안전부 김재만 사무관 · [NAVER Cloud SUMMIT 2022](../events/2022-naver-cloud-summit.md) · 29분
+- [Druid 반정형 데이터 고군분투기](https://www.youtube.com/watch?v=HKtfrfRCpiA) · [if(kakao)dev2022](../events/2022-ifkakao.md) · 8분
+- [실험을 잘한다는 것은 무엇일까?](https://www.youtube.com/watch?v=5tyIC2HJK7A) · [if(kakao)dev2022](../events/2022-ifkakao.md) · 17분
+- [대용량 지표 관리를 위한 TSDB 개발기](https://www.youtube.com/watch?v=GvuuyogCM9g) · [if(kakao)dev2022](../events/2022-ifkakao.md) · 16분
+- [카카오뱅크 고객의 금융 행동 패턴 파악하기](https://www.youtube.com/watch?v=T2vOfgHn7bU) · [if(kakao)dev2022](../events/2022-ifkakao.md) · 19분
+- [카카오 분석플랫폼 변천사](https://www.youtube.com/watch?v=DmC2We7OcyI) · [if(kakao)dev2022](../events/2022-ifkakao.md) · 13분
+- [Kakao Hadoop Plaform (KHP): 카카오 하둡 플랫폼의 아키텍처와 개발/운영에 대한 이야기](https://www.youtube.com/watch?v=4-W-PSMshgA) · [if(kakao)dev2022](../events/2022-ifkakao.md) · 39분
+- [생성부터 활용까지, 게임데이터 Flow 따라가기](https://www.youtube.com/watch?v=f6-3CRh3iBc) · [if(kakao)dev2022](../events/2022-ifkakao.md) · 19분
+- [데이터와 데이터를 잇는 중개 플랫폼 : kafka 기반의 data-hub ( Casita )](https://www.youtube.com/watch?v=nQebTNMN0Ls) · 노영삼 · [11번가 TechTalk 2022](../events/2022-11st-techtalk.md) · 24분
+- [야~ 아마존과 데이터 공유 너도 할 수 있어!](https://www.youtube.com/watch?v=_AWGp10G2b4) · 김신국 · [11번가 TechTalk 2022](../events/2022-11st-techtalk.md) · 16분
+- [AWS와 함께 하는 쉽고 편한 아마존조로존존~~검색](https://www.youtube.com/watch?v=5sxeH-LgfH8) · 이주인 · [11번가 TechTalk 2022](../events/2022-11st-techtalk.md) · 17분
+- [11번가에서 고객이 원하는 상품을 찾아주는 방법](https://www.youtube.com/watch?v=kHq0oyeyEuE) · 김상철 · [11번가 TechTalk 2022](../events/2022-11st-techtalk.md) · 49분
+- [Data Lake와 Analytics Service](https://www.youtube.com/watch?v=4h79s1CI3-Q) · 양승영, 김장현 · [11번가 TechTalk 2022](../events/2022-11st-techtalk.md) · 32분
+- [11번가-아마존 상품 연동 개발기 (feat. Kafka)](https://www.youtube.com/watch?v=pMbtgFX1tKk) · 박규혁 · [11번가 TechTalk 2022](../events/2022-11st-techtalk.md) · 19분
+- [데이터로 바라보는 리그 오브 레전드](https://www.youtube.com/watch?v=pI8MqE4mj0o) · 지표 + E스포츠 · [NHN FORWARD 22](../events/2022-nhn-forward.md) · 41분
+- [하이브리드 환경에서의 데이터 레이크 운영에 대한 IBM의 제언](https://www.youtube.com/watch?v=D1Ia9CQMqgI) · [NHN FORWARD 22](../events/2022-nhn-forward.md) · 39분
+- [엘라스틱서치를 이용한 상품 검색 엔진 개발 일지](https://www.youtube.com/watch?v=fBfUr_8Pq8A) · [NHN FORWARD 22](../events/2022-nhn-forward.md) · 33분
+- [Hadoop 개발 환경 구축과 MySQL 기반 배치를 Hadoop으로 옮긴 이야기](https://www.youtube.com/watch?v=-5Kul72jqLQ) · [NHN FORWARD 22](../events/2022-nhn-forward.md) · 35분
+- [어떤 서비스를 선택해야 이용자 감소 리스크가 최소가 될까?(Feat. VAR-Copula)](https://www.youtube.com/watch?v=IQkLjZprJ3E) · [NHN FORWARD 22](../events/2022-nhn-forward.md) · 16분
+- [이커머스 성장을 돕는 비즈니스 진단과 고객 데이터 활용](https://www.youtube.com/watch?v=EBRfKk0dtmA) · [NHN FORWARD 22](../events/2022-nhn-forward.md) · 40분
+- [정말 마케팅 때문에 매출이 증가했을까?: 페이코 쿠폰 마케팅 타깃 선정 전략 수립 및 효과 분석](https://www.youtube.com/watch?v=68x1Ox3mSvc) · [NHN FORWARD 22](../events/2022-nhn-forward.md) · 38분
+- [빠른 정보 제공을 위한 통계 시스템 개선기](https://www.youtube.com/watch?v=kZnWWq_HzdM) · [NHN FORWARD 22](../events/2022-nhn-forward.md) · 35분
+- [대충? 거의 정확하다! 벡터 검색 엔진에 ANN HNSW 알고리즘 도입기 (feat. SWIG Golang)](https://www.youtube.com/watch?v=hCqF4tDPNBw) · [NHN FORWARD 22](../events/2022-nhn-forward.md) · 38분
+- [ZOZOTOWN 데이터 기반의 원죄와 현재](https://www.youtube.com/watch?v=6giGSWOQ6HU) · [Tech-Verse 2022 한국어판](../events/2022-tech-verse.md) · 45분
+- [새로운 서비스 LIVEBUY의 정책 결정을 지탱한 데이터 분석](https://www.youtube.com/watch?v=vC2uLnvroJk) · [Tech-Verse 2022 한국어판](../events/2022-tech-verse.md) · 40분
+- [Flink@Data Platform - Ingestion Pipeline 재설계 및 오토 스케일링](https://www.youtube.com/watch?v=cNhEjOglnak) · [Tech-Verse 2022 한국어판](../events/2022-tech-verse.md) · 40분
+- [데이터 플랫폼 데이터 활용을 촉진하기 위한 데이터 카탈로그 개발](https://www.youtube.com/watch?v=d1OTVLq4fhU) · [Tech-Verse 2022 한국어판](../events/2022-tech-verse.md) · 45분
+- [월간 취급액 10억엔 이상 마케팅 성과를 올리는 잇큐 데이터기반](https://www.youtube.com/watch?v=lPjhmi9Fa6M) · [Tech-Verse 2022 한국어판](../events/2022-tech-verse.md) · 39분
+- [LINE 스티커의 LINE 공식 계정 발신 효율 개선하기](https://www.youtube.com/watch?v=UsfPmL9tmWE) · [Tech-Verse 2022 한국어판](../events/2022-tech-verse.md) · 41분
+- [OSS 분산 근사 최근접 벡터 검색 엔진 Vald ~도입과 활용 사례~](https://www.youtube.com/watch?v=uUeE236rSJY) · [Tech-Verse 2022 한국어판](../events/2022-tech-verse.md) · 40분
+- [kurashiru에서 Snowflake로 맞춤형 추천하기](https://www.youtube.com/watch?v=Cc4mguwWjHg) · [Tech-Verse 2022 한국어판](../events/2022-tech-verse.md) · 36분
+- [Yahoo! JAPAN과 LINE의 데이터 분석 조직에 대하여](https://www.youtube.com/watch?v=OZlpoIZ7BKU) · [Tech-Verse 2022 한국어판](../events/2022-tech-verse.md) · 44분
+- [전문 검색(버티컬서치) 플랫폼 ABYSS 대처](https://www.youtube.com/watch?v=drjambD6tQ0) · [Tech-Verse 2022 한국어판](../events/2022-tech-verse.md) · 40분
+- [Yahoo! 쇼핑의 랭킹을 구성하는 특허들](https://www.youtube.com/watch?v=l23FQ-wWJis) · [Tech-Verse 2022 한국어판](../events/2022-tech-verse.md) · 39분
+- [500명에게 서비스 운영 지표를 제공하기 위한 역할과 조직 체제](https://www.youtube.com/watch?v=IjN0uNZF00s) · [Tech-Verse 2022 한국어판](../events/2022-tech-verse.md) · 42분
+- [이 많은 모빌리티 센서 시그널을 어떻게 처리 하지? 현업 사용자, 분석가, 개발자가 모두 행복해 지는 시계열 시그널 전처리 프레임워크 개발기](https://www.youtube.com/watch?v=Nih5PM0BKg0) · [제2회 HMG Developer Conference](../events/2022-hmg-devcon.md) · 42분
+- [천만 자동차를 위한 실시간 데이터 파이프라인 진화하기](https://www.youtube.com/watch?v=N2Ky3neMHa4) · [제2회 HMG Developer Conference](../events/2022-hmg-devcon.md) · 39분
+- [전사 데이터 수집 Collector 개발기 (Cross Account 및 여러 종류의 데이터를 BDC로)](https://www.youtube.com/watch?v=0NPuzBaHnyY) · [Samsung Software Developer Conference 2022](../events/2022-ssdc.md) · 20분
+- [데이터 사일로 해결을 위한 DIS, 데이터 품질 측정을 위한 DQF](https://www.youtube.com/watch?v=qrucTgd0SvQ) · [Samsung Software Developer Conference 2022](../events/2022-ssdc.md) · 27분
+- [ETL Pipeline 개발에도 필요했던 MSA](https://www.youtube.com/watch?v=2y9Z2yF76GY) · [Samsung Software Developer Conference 2022](../events/2022-ssdc.md) · 25분
+- [사람들이 출근할 때 어디서 몇 번 버스를 타고 몇 번 환승을 하는지를 알면 해결할 수 있는 질문들과 해답, LITMUS](https://www.youtube.com/watch?v=HoQTyeYEB-4) · [SK TECH SUMMIT 2022](../events/2022-sk-tech-summit.md) · 19분
+- [셀프서비스 Stream Designer로 나의 시스템을 더욱 강력하게](https://www.youtube.com/watch?v=v63z7qZErAk) · [SK TECH SUMMIT 2022](../events/2022-sk-tech-summit.md) · 23분
+- [마이데이터 서비스 개선을 위한 EDA 도입기](https://www.youtube.com/watch?v=B9HAFV0qE5A) · [SK TECH SUMMIT 2022](../events/2022-sk-tech-summit.md) · 18분
+- [데이터와 데이터를 잇는 중개 플랫폼 : kafka 기반의 data-hub](https://www.youtube.com/watch?v=L7aCTd04VZc) · [SK TECH SUMMIT 2022](../events/2022-sk-tech-summit.md) · 30분
+- [EMR과 Airflow로 구축하는 Mobility Data Platform](https://www.youtube.com/watch?v=vA8G2r5svUo) · [SK TECH SUMMIT 2022](../events/2022-sk-tech-summit.md) · 25분
+- [Panoptes VM(가상계측)과 함께 알아보는 제조업에서의 Data & AI를 활용한 혁신](https://www.youtube.com/watch?v=CjzMt0YK21Q) · [SK TECH SUMMIT 2022](../events/2022-sk-tech-summit.md) · 25분
+- [지하철 혼잡도: 실시간 데이터 수집부터 분석까지](https://www.youtube.com/watch?v=DxlujSD_mJU) · [SK TECH SUMMIT 2022](../events/2022-sk-tech-summit.md) · 25분
+- [데이터 특징과 문제를 정의하는 빅데이터 분석모델 추천 자동화 기술 개발 과제 소개](https://www.youtube.com/watch?v=iTMOQgWHYKo) · [시큐레이어 개발자 컨퍼런스 STICK 2022](../events/2022-stick.md) · 23분
+- [광고 데이터 수집을 위한 인프라 구축](https://www.youtube.com/watch?v=8wIEYFzZmAs) · 백재연, 매드업 · [AWS Community Day 2022 - Seoul 홈커밍데이](../events/2022-awscd.md) · 29분
+- [Amazon Athena를 이용한 S3 데이터 조회하기](https://www.youtube.com/watch?v=H7W_AI5heSo) · 송정우, AUSG · [AWS Community Day 2022 - Seoul 홈커밍데이](../events/2022-awscd.md) · 25분
+- [데이터 회사 쏘카, 그리고 모빌리티 산업 이야기](https://www.youtube.com/watch?v=-BtXpc3vre8) · [SOCAR DATA MeetUp 2022](../events/2022-socar-data-meetup.md) · 8분
+- [데이터로 비즈니스 급속 성장 부스터 달기](https://www.youtube.com/watch?v=3Iy6lyzN71w) · [SOCAR DATA MeetUp 2022](../events/2022-socar-data-meetup.md) · 18분
+- [데이터로 고객 경험 개선하기](https://www.youtube.com/watch?v=pfyx7iR7vk0) · [SOCAR DATA MeetUp 2022](../events/2022-socar-data-meetup.md) · 16분
+- [기술로 쏘카의 핵심 비즈니스 문제 해결하기](https://www.youtube.com/watch?v=MmiNg7M19Lw) · [SOCAR DATA MeetUp 2022](../events/2022-socar-data-meetup.md) · 11분
+- [IoT 데이터 스트리밍](https://www.youtube.com/watch?v=yLjJzKbWSxo) · [SOCAR Tech Summit 2022](../events/2022-socar-tech-summit.md) · 22분
+- [CloudTrail To OpenSearch](https://www.youtube.com/watch?v=QJLXZOEfSPE) · [SOCAR Tech Summit 2022](../events/2022-socar-tech-summit.md) · 17분
+- [데이터 시각화와 데이터 리터러시 Level UP](https://www.youtube.com/watch?v=PBDMcZZKrMk) · 강승일 · [데이터야놀자 2022](../events/2022-datayanolja.md) · 17분
+- [프로덕트 분석가로 일하고 있습니다.](https://www.youtube.com/watch?v=X_YeNd3z-9Q) · 강한별 · [데이터야놀자 2022](../events/2022-datayanolja.md) · 20분
+- [우리 서비스 뭐가 문제일까? 미리 알아두면 좋았을 퍼널을 개선하는 6가지 방법](https://www.youtube.com/watch?v=taV5KYHo0zI) · 김민주 · [데이터야놀자 2022](../events/2022-datayanolja.md) · 22분
+- [Elasticsearch 에서 NLP 벡터 데이터 검색하기](https://www.youtube.com/watch?v=aW5_voFk938) · 김종민 · [데이터야놀자 2022](../events/2022-datayanolja.md) · 17분
+- [실무 데이터 핸들링](https://www.youtube.com/watch?v=Rsush5nX9xM) · 김준호 · [데이터야놀자 2022](../events/2022-datayanolja.md) · 12분
+- [실제와 다른 가상의 데이터로 어떻게 실제를 예측했나](https://www.youtube.com/watch?v=WzZLT-pDspI) · 백근주, 안형준, 이승수 · [데이터야놀자 2022](../events/2022-datayanolja.md) · 9분
+- [Startup 데이터 분석가 출신의 Snowflake 이야기](https://www.youtube.com/watch?v=vJL5BS5NZyk) · 신광철 · [데이터야놀자 2022](../events/2022-datayanolja.md) · 21분
+- [데이터 통합 클라우드 분석 플랫폼으로 요즘 가장 핫한 레이크하우스 소개 및 Databricks 본사 개발자와 함께하는 Q&A](https://www.youtube.com/watch?v=5wIKQNpO_r4) · 신효정, 이문수 · [데이터야놀자 2022](../events/2022-datayanolja.md) · 24분
+- [행사도 이제는 데이터 드리븐](https://www.youtube.com/watch?v=H9SQuHYOVhI) · 안영학 · [데이터야놀자 2022](../events/2022-datayanolja.md) · 12분
+- [이력서는 서비스여야한다: 연 8000명이 보는 이력서 데이터 분석기](https://www.youtube.com/watch?v=lUXyD8bGdCc) · 이보민 · [데이터야놀자 2022](../events/2022-datayanolja.md) · 25분
+- [데이터로 토이 서비스 만들어보기: 혼자서도 잘놀아요.. 데이터만 있다면](https://www.youtube.com/watch?v=9gaS0eJ-nJs) · 조동민 · [데이터야놀자 2022](../events/2022-datayanolja.md) · 21분
+- [아임웹에서 데이터 팀 시작하기](https://www.youtube.com/watch?v=P9VuVj0UVvU) · 조성균 · [데이터야놀자 2022](../events/2022-datayanolja.md) · 12분
+- [Do Not Go Gentle into that SQL: SQL 강의가 말하지 않는 데이터 분석의 A to Z](https://www.youtube.com/watch?v=O0O5E1fEPr0) · 플래터 · [데이터야놀자 2022](../events/2022-datayanolja.md) · 19분
+- [Virtual Meetup 2022 2nd](https://www.youtube.com/watch?v=tU2pHxLh4ZU) · [Kafka Virtual Meetup 2022 2nd](../events/2022-kafka-virtual-meetup-2.md) · 2시간 20분
+- [Data Engineering in Python](https://www.youtube.com/watch?v=rwZODfVBD-Q) · 한성민 · [파이콘 한국 2022](../events/2022-pycon.md) · 15분
+- [파이썬으로 실시간 데이터 처리를 시도해보자](https://www.youtube.com/watch?v=u8uzsZBFw0k) · 김태홍 · [파이콘 한국 2022](../events/2022-pycon.md) · 16분
+- [Openreview 분석 리뷰어들은 잘 될 연구의 떡잎을 알아볼까](https://www.youtube.com/watch?v=MqM2ROgWwhU) · 김기범 · [파이콘 한국 2022](../events/2022-pycon.md) · 14분
+- [기술제품과 데이터를 통한 새로운 가치 발견](https://www.youtube.com/watch?v=qrnDPbMMezU) · 카카오모빌리티 이성우 · [NEMO 2022](../events/2022-nemo.md) · 11분
+- [이런 역량이 있다면 데이터 사이언티스트 도전해보세요! ⎮ 차현나](https://www.youtube.com/watch?v=vDjXHDq1v0U) · [SEF2022 Software Edu Fest](../events/2022-sef.md) · 21분
+- [데이터 과학을 공부하고 싶은 분들을 위한 강의 📊 ⎮ Tim Althoff (팀 알도프)](https://www.youtube.com/watch?v=SgsUKM3XZvc) · [SEF2022 Software Edu Fest](../events/2022-sef.md) · 20분
+- [데이터 인프라 없이 데이터로 성장하는 서비스 만들기](https://www.youtube.com/watch?v=tyvtF2hC0oU) · [인프콘 2022](../events/2022-infcon.md) · 34분
+- [파이썬 데이터 생태계 탐험](https://www.youtube.com/watch?v=ki0a_YQ4NwU) · [인프콘 2022](../events/2022-infcon.md) · 44분
 - [7월 Tech 세미나 - 데이터플랫폼 구현 사례](https://www.youtube.com/watch?v=q7iYkGk2hFk) · [7월 Tech 세미나 - 데이터플랫폼 구현 사례](../events/2022-devocean-seminar-07.md) · 1시간 22분
 - [\[Stalker 팀\] 감정분석을 통한 MBTI 기반 개인별 투자 성향 분석](https://www.youtube.com/watch?v=7YOxF4D0LeE) · [제16회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2022-boaz-16.md) · 20분
 - [\[보야져 팀\] 기업 연계 프로젝트 3종세트 \[마케팅 시각화/ 서비스 기획/ 분석시스템 구축\]](https://www.youtube.com/watch?v=Q8ZXXuEVtus) · [제16회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2022-boaz-16.md) · 20분
@@ -157,12 +339,73 @@
 - [오픈서치 기반 오라클 클라우드의 Search Service 알아보기](https://www.youtube.com/watch?v=ePVMKMyxUks) · [오픈서치 기반 오라클 클라우드의 Search Service 알아보기](../events/2022-oracle-meetup-07.md) · 42분
 - [토스에서는 테이블 정보를 어떻게 관리하나요?](https://www.youtube.com/watch?v=KUskYwqtPZM) · [SLASH 22](../events/2022-slash.md) · 14분
 - [Data Scientist는 어떻게 비즈니스에 기여할 수 있을까?](https://www.youtube.com/watch?v=mKf1kvWXiPY) · [SLASH 22](../events/2022-slash.md) · 24분
+- [신한금융그룹이 빅데이터 플랫폼을 만든 이유는?](https://www.youtube.com/watch?v=Vjf0Ad3OPU0) · 오도근 솔루션즈 아키텍트, AWS / 장재영 빅데이터 R&D 본부장, 신한카드 · [AWS Summit Online Korea 2022](../events/2022-aws-summit-online.md) · 27분
+- [롯데백화점의 데이터 기반 본업 경쟁력 강화 전략](https://www.youtube.com/watch?v=Uu3KCvI0CFk) · 김지혁 솔루션즈 아키텍트, AWS / 김철관 실장, 롯데백화점 · [AWS Summit Online Korea 2022](../events/2022-aws-summit-online.md) · 32분
+- [Mass Data 통합과 실시간 분석으로 살펴보는 삼성전자의 분석 현대화 여정](https://www.youtube.com/watch?v=jfvT2e2QScg) · 김정동, 전소영, AWS / 나기욱, 이장결, 삼성전자 · [AWS Summit Online Korea 2022](../events/2022-aws-summit-online.md) · 34분
+- [11번가 라이브 커머스가 선택한 스트리밍 플랫폼, Amazon IVS](https://www.youtube.com/watch?v=OCXaSG5G2Ho) · 이승민, AWS / 조현수, 11번가 · [AWS Summit Online Korea 2022](../events/2022-aws-summit-online.md) · 27분
+- [실전! 대용량 데이터를 이용한 초거대 모델 학습 환경 만들기](https://www.youtube.com/watch?v=l1FSiRbEja4) · 최영준 솔루션즈 아키텍트, AWS · [AWS Summit Online Korea 2022](../events/2022-aws-summit-online.md) · 34분
+- [김대리는 어떻게 서버 없이 그 많던 대용량의 데이터를 처리했는가?](https://www.youtube.com/watch?v=XmfnoaIyEeI) · 박진우, 민지수 솔루션즈 아키텍트, AWS · [AWS Summit Online Korea 2022](../events/2022-aws-summit-online.md) · 27분
+- [Data Lake를 넘어 Data Mesh로, 효과적인 데이터 활용법](https://www.youtube.com/watch?v=vXSEV0q_T8g) · 김형일, 이일구 솔루션즈 아키텍트, AWS · [AWS Summit Online Korea 2022](../events/2022-aws-summit-online.md) · 31분
+- [데이터 분석 실시간으로 처리하기: Kinesis Data Streams vs MSK](https://www.youtube.com/watch?v=7ppCJy2pF7U) · 김성민, AWS / 주혜령, AWS · [AWS Summit Online Korea 2022](../events/2022-aws-summit-online.md) · 34분
+- [손쉽게 SAP 데이터 기반 분석 플랫폼 구축하기](https://www.youtube.com/watch?v=mpEfCJ2546U) · 김세준 SAP 스페셜리스트 솔루션즈 아키텍트, AWS · [AWS Summit Online Korea 2022](../events/2022-aws-summit-online.md) · 32분
+- [AWS와 함께 달성한 일일 5억 건 이상의 광고 데이터 처리 노하우](https://www.youtube.com/watch?v=VYgMCn6FIqg) · 서주은 CTO, 버즈빌 / 김석주 데이터엔지니어링 리드, 버즈빌 · [AWS Summit Online Korea 2022](../events/2022-aws-summit-online.md) · 27분
+- [AWS, Confluent와 함께 데이터 플랫폼 마이그레이션, 현대화](https://www.youtube.com/watch?v=Hb2sSPuHJzU) · 최영주 지사장, Confluent · [AWS Summit Online Korea 2022](../events/2022-aws-summit-online.md) · 23분
+- [실시간 AWS 모니터링 및 분석을 위한 Splunk Observability Cloud 소개](https://www.youtube.com/watch?v=KMqeLmcxdaQ) · 인필교 상무, Splunk · [AWS Summit Online Korea 2022](../events/2022-aws-summit-online.md) · 32분
 - [Virtual Meetup 2022 1st](https://www.youtube.com/watch?v=UYkWzY4NUdA) · [Virtual Meetup 2022 1st](../events/2022-kafka-meetup-04.md) · 2시간 36분
+- [CJ 네트웍스의 경영데이터 고도화 사례](https://www.youtube.com/watch?v=AfDrRmL4L-E) · [Microsoft Everywhere 2022](../events/2022-microsoft-everywhere.md) · 13분
+- [클라우드 기반 현대적 데이터 전략을 통한 비지니스 성공 방정식](https://www.youtube.com/watch?v=0e5DDcMFN_s) · 윤석찬, 수석 테크 에반젤리스트, AWS · [AWS Innovate 2022](../events/2022-aws-innovate.md) · 28분
+- [KB국민카드 사례 \| 클라우드 기반 분석 플랫폼부터 MLOps까지 혁신 여정](https://www.youtube.com/watch?v=scaO0slnbWY) · 박창용, 데이터혁신부/ AI알고리즘개발팀, KB국민카드 · [AWS Innovate 2022](../events/2022-aws-innovate.md) · 16분
+- [버즈빌 사례 \| 일일 6억 건 이상의 광고 데이터 처리 플랫폼 구축을 향한 여정](https://www.youtube.com/watch?v=MxmxXK3Xqkk) · 서주은, CTO, 버즈빌 · [AWS Innovate 2022](../events/2022-aws-innovate.md) · 33분
+- [데이블 사례 \| 데이터 드리븐 조직을 위한 비용 효율적인 데이터레이크 구축하기](https://www.youtube.com/watch?v=6fWH83BA86U) · 김정현, 데이터 플랫폼팀 테크 리드, 데이블 · [AWS Innovate 2022](../events/2022-aws-innovate.md) · 27분
+- [현대적 데이터 아키텍처를 위한 분석 서비스](https://www.youtube.com/watch?v=4YRNK6ni14U) · 김윤건, 데이터 분석 GTM 스페셜리스트, AWS · [AWS Innovate 2022](../events/2022-aws-innovate.md) · 24분
+- [Graph Data Model 과의 만남, Amazon Neptune Graph DB](https://www.youtube.com/watch?v=3P0zAT-8fB4) · 장동훈, 데이터베이스 솔루션즈 아키텍트, AWS · [AWS Innovate 2022](../events/2022-aws-innovate.md) · 30분
+- [혼자서도 안전하고 간단하게 우리 회사 Data Lake 구축하기 - AWS LakeFormation](https://www.youtube.com/watch?v=DtT9uQTs19U) · 김성일, 분석 솔루션즈 아키텍트, AWS · [AWS Innovate 2022](../events/2022-aws-innovate.md) · 23분
+- [Amazon EMR Serverless로 시작하는 쉬운 빅데이터 분석](https://www.youtube.com/watch?v=TZHnLhCqdNg) · 김기영, 분석 솔루션즈 아키텍트, AWS · [AWS Innovate 2022](../events/2022-aws-innovate.md) · 28분
+- [Amazon Redshift Serverless로 쉽게 Data Mesh 구현하기](https://www.youtube.com/watch?v=wHt5l2gVDBE) · 노인철, 솔루션즈 아키텍트, AWS · [AWS Innovate 2022](../events/2022-aws-innovate.md) · 26분
+- [Amazon OpenSearch의 새로운 기능 집중 탐구하기](https://www.youtube.com/watch?v=etRtqFYebCg) · 박진우, 솔루션즈 아키텍트, AWS · [AWS Innovate 2022](../events/2022-aws-innovate.md) · 22분
+- [실시간 스트리밍 데이터 SQL로 손쉽게 분석하기](https://www.youtube.com/watch?v=VA_J_4qZg14) · 이종혁, 분석 솔루션즈 아키텍트, AWS · [AWS Innovate 2022](../events/2022-aws-innovate.md) · 38분
+- [클라우드 기반 현대적 데이터 전략 및 분석 아키텍처](https://www.youtube.com/watch?v=tNfF1jXEqDo) · 이성은, 기술 파트너, AWS · [AWS Innovate 2022](../events/2022-aws-innovate.md) · 31분
+- [Apache Airflow 및 Amazon MWAA를 활용한 서버리스 데이터 파이프라인 자동화](https://www.youtube.com/watch?v=hCtOep4jjVE) · 안효빈, 솔루션즈 아키텍트, AWS · [AWS Innovate 2022](../events/2022-aws-innovate.md) · 27분
+- [여러분의 데이터센터에 구축하는 AWS Cloud - AWS Outposts](https://www.youtube.com/watch?v=MwFyc81cF_w) · 강동환, AWS · [AWS Innovate 2022](../events/2022-aws-innovate.md) · 24분
+- [AWS Snow Family를 활용한 엣지 컴퓨팅과 데이터 전송](https://www.youtube.com/watch?v=OBc9VQJ6pks) · 박건우, AWS · [AWS Innovate 2022](../events/2022-aws-innovate.md) · 25분
+- [이커머스 고객경험 관리 분석](https://www.youtube.com/watch?v=0qVgh0QTUJY) · Cm:)e 팀 · [제15회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2022-boaz-15.md) · 25분
+- [로그 스트림 파이프라인 여행기](https://www.youtube.com/watch?v=srxV9y0XiEk) · 로깅줍깅 팀 · [제15회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2022-boaz-15.md) · 28분
+- [이커머스 리뷰 유용성 파악 및 필터링](https://www.youtube.com/watch?v=VGjq05IhJQ4) · 리뷰의 재발견 팀 · [제15회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2022-boaz-15.md) · 31분
+- [2022산업동향- 편의점 & OTT 완벽 분석](https://www.youtube.com/watch?v=-VDGSIA7krw) · Indus2ry 팀 · [제15회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2022-boaz-15.md) · 30분
+- [디지털 마케팅 헬스체킹 서비스](https://www.youtube.com/watch?v=WlFsReMSHpU) · MarketIN 팀 · [제15회 보아즈(BOAZ) 빅데이터 컨퍼런스](../events/2022-boaz-15.md) · 30분
 
 ## 2021년
 
+- [데이터 분석가를 위한 신규 분석 서비스](https://www.youtube.com/watch?v=VZXT_B2PbIU) · 김기영, AWS 솔루션즈 아키텍트, 변규현, AWS Serverless Hero · [AWS re:Invent 2021 reCap](../events/2021-aws-reinvent-recap.md) · 51분
+- [데이터로 트렌드 읽는 방법](https://www.youtube.com/watch?v=1RSqhdFDdww) · [NHN FORWARD 2021](../events/2021-nhn-forward.md) · 22분
+- [데이터 윤리, 더욱 자세히 알아보도록 하자](https://www.youtube.com/watch?v=bfZQ3ogCFJU) · 김지은 · [모두콘 2021](../events/2021-moducon.md) · 21분
 - [오픈소스로 보는 데이터 생태계의 발전](https://www.youtube.com/watch?v=z2hJowAQbL8) · 한기용(Harmonize) · [2021 공개SW 페스티벌](../events/2021-oss-festival.md) · 20분
+- [텍스트로부터 기계학습 위한 피쳐(Feature) 생성](https://www.youtube.com/watch?v=clNN1xAiEkw) · [한국 R 컨퍼런스 2021](../events/2021-r-conference.md) · 47분
+- [프로덕션 수준의 리포트 자동화 시스템 만들기](https://www.youtube.com/watch?v=V4EbNwyZNJ0) · [한국 R 컨퍼런스 2021](../events/2021-r-conference.md) · 29분
+- [\[한국 R 컨퍼런스\] 문건웅, Reproducible Research with Table](https://www.youtube.com/watch?v=4BZwciW6MAM) · [한국 R 컨퍼런스 2021](../events/2021-r-conference.md) · 28분
+- [\[한국 R 컨퍼런스\] 이영록, 데이터 분석가의 R 패키지 개발 경험기](https://www.youtube.com/watch?v=Yr0o7fXrHGw) · [한국 R 컨퍼런스 2021](../events/2021-r-conference.md) · 23분
+- [\[한국 R 컨퍼런스\] 김진환, Rpresentation 으로 발표자료 만들기](https://www.youtube.com/watch?v=erI9byWxr4I) · [한국 R 컨퍼런스 2021](../events/2021-r-conference.md) · 27분
+- [\[한국 R 컨퍼런스\] 황의찬, 납세자의 정서가 조세정책에 미치는 영향](https://www.youtube.com/watch?v=KaJoTEHbdqI) · [한국 R 컨퍼런스 2021](../events/2021-r-conference.md) · 25분
+- [\[한국 R 컨퍼런스\] 이혜선, 데이터사이언스와 오픈소스](https://www.youtube.com/watch?v=IjYKrUskbuo) · [한국 R 컨퍼런스 2021](../events/2021-r-conference.md) · 24분
+- [\[한국 R 컨퍼런스\] 박상훈, 재현가능한 연구를 위한 노력: R과 정치학의 만남](https://www.youtube.com/watch?v=z71TfmCJdmM) · [한국 R 컨퍼런스 2021](../events/2021-r-conference.md) · 23분
+- [\[한국 R 컨퍼런스 Keynote\] 유충현, Again wind in Korea with GNU R](https://www.youtube.com/watch?v=fFEgEYlqrvM) · [한국 R 컨퍼런스 2021](../events/2021-r-conference.md) · 37분
+- [\[한국 R 컨퍼런스\] 이광춘, 결국 문서는 커뮤니케이션이다.](https://www.youtube.com/watch?v=JZRs7WF0Yvs) · [한국 R 컨퍼런스 2021](../events/2021-r-conference.md) · 26분
+- [\[한국 R 컨퍼런스\] 최재성, 사회과학 연구자의 R 동행기](https://www.youtube.com/watch?v=i5_Vw-7b9wA) · [한국 R 컨퍼런스 2021](../events/2021-r-conference.md) · 28분
+- [\[한국 R 컨퍼런스\] 이준혁, Infinite Shiny World](https://www.youtube.com/watch?v=4TAEww32aHc) · [한국 R 컨퍼런스 2021](../events/2021-r-conference.md) · 15분
+- [\[한국 R 컨퍼런스\] 윤화영, Digital Divide Solution](https://www.youtube.com/watch?v=XtGFpZJML2s) · 오픈 통계 팩키지 · [한국 R 컨퍼런스 2021](../events/2021-r-conference.md) · 19분
+- [\[한국R 컨퍼런스\] 이은조, 게임 데이터로 인과 추론 분석하기](https://www.youtube.com/watch?v=sbUaqX4mX00) · [한국 R 컨퍼런스 2021](../events/2021-r-conference.md) · 35분
+- [\[한국 R 컨퍼런스\] 이남신, 실제 기업 서비스에서 R 활용하기](https://www.youtube.com/watch?v=OklrNAO_8vg) · [한국 R 컨퍼런스 2021](../events/2021-r-conference.md) · 27분
 - [데이터 분석 플랫폼, 지상계에서 천상계로 배달완료! AWS 이관기](https://www.youtube.com/watch?v=rH_xJBoRuZE) · [우아콘 2021](../events/2021-woowacon.md) · 43분
+- [ClickHouse - analytical database (2)](https://www.youtube.com/watch?v=vBSEDW9B9zQ) · [if(kakao) 2021](../events/2021-ifkakao.md) · 16분
+- [실시간 로그 처리를 위한 Flink on k8s 구축 사례](https://www.youtube.com/watch?v=sBlyZScIg2Y) · [if(kakao) 2021](../events/2021-ifkakao.md) · 20분
+- [추천 시스템 airflow 2 0 도입기](https://www.youtube.com/watch?v=TXY6JCoOTu4) · [if(kakao) 2021](../events/2021-ifkakao.md) · 30분
+- [Hadoop Data Migration](https://www.youtube.com/watch?v=5uljVaCLn9U) · [if(kakao) 2021](../events/2021-ifkakao.md) · 18분
+- [6억 건의 광고데이터 마이그레이션](https://www.youtube.com/watch?v=p4qxejdTwxY) · [if(kakao) 2021](../events/2021-ifkakao.md) · 19분
+- [대량의 스트림 데이터를 실시간으로 분류하기](https://www.youtube.com/watch?v=_NkkxHKj2pw) · [if(kakao) 2021](../events/2021-ifkakao.md) · 13분
+- [티스토리에서 airflow활용기](https://www.youtube.com/watch?v=621c_vgwyMc) · [if(kakao) 2021](../events/2021-ifkakao.md) · 19분
+- [카카오 공용 하둡 운영 사례](https://www.youtube.com/watch?v=qWQvi1Ux0Zc) · [if(kakao) 2021](../events/2021-ifkakao.md) · 18분
+- [Druid@Kakao](https://www.youtube.com/watch?v=UFZIO0PZSgo) · [if(kakao) 2021](../events/2021-ifkakao.md) · 13분
+- [Commerce Query data Rebuild Success 했을까](https://www.youtube.com/watch?v=QsASkb7Ud9E) · [if(kakao) 2021](../events/2021-ifkakao.md) · 15분
 - [Z 홀딩스 각 사의 데이터 매니지먼트](https://www.youtube.com/watch?v=FylzMUizjQk) · [LINE DEVELOPER DAY 2021](../events/2021-line-devday.md) · 36분
 - [LINE Messaging 플랫폼에서 HBase와 Kafka 데이터 파이프라인 활용 사례](https://www.youtube.com/watch?v=NANh-cpdMd0) · [LINE DEVELOPER DAY 2021](../events/2021-line-devday.md) · 38분
 - [LINE Data Platform을 위한 통합 관리형 워크플로 서비스 소개](https://www.youtube.com/watch?v=ZrAoLRR0Op4) · [LINE DEVELOPER DAY 2021](../events/2021-line-devday.md) · 19분
@@ -174,12 +417,80 @@
 - [서비스 운영을 위한 시계열 데이터 예측](https://www.youtube.com/watch?v=QkitMgWLkAo) · [LINE DEVELOPER DAY 2021](../events/2021-line-devday.md) · 18분
 - [마케팅 데이터 플랫폼 ‘Business Manager' 개발기](https://www.youtube.com/watch?v=OokE3l8wWDg) · [LINE DEVELOPER DAY 2021](../events/2021-line-devday.md) · 35분
 - [대규모 음악 데이터 검색 기능을 위한 Elasticsearch 구성 및 속도 개선 방법](https://www.youtube.com/watch?v=xP1QFpxhYi4) · [LINE DEVELOPER DAY 2021](../events/2021-line-devday.md) · 19분
+- [현대/기아/제네시스 오픈데이터플랫폼 (디벨로퍼스](https://www.youtube.com/watch?v=j0W6LAoimXw) · 오픈API) · [제1회 HMG Developer Conference](../events/2021-hmg-devcon.md) · 28분
+- [차량 데이터 기반 서비스 제공을 위한 플랫폼 개발 (수천개의 차량 센서를 가볍게 쓰자)](https://www.youtube.com/watch?v=igneRM8wQek) · [제1회 HMG Developer Conference](../events/2021-hmg-devcon.md) · 23분
+- [Big Data with NAVER Cloud (네이버클라우드와 함께 활용하는 빅데이터)](https://www.youtube.com/watch?v=m9I2g6z4ly0) · 네이버클라우드 김홍진 부사장 · [NAVER Cloud Summit 2021](../events/2021-naver-cloud-summit.md) · 15분
+- [스타트업 나홀로 데이터 엔지니어: 데이터 분석 환경 구축기](https://www.youtube.com/watch?v=5VzfbJ-eZGM) · 천지은 (Tappytoon) · [AWS Community Day Online 2021](../events/2021-awscd.md) · 24분
+- [Data Analytics on AWS 워크샵](https://www.youtube.com/watch?v=F92P66fMNyI) · 김기영 (AWS) · [AWS Community Day Online 2021](../events/2021-awscd.md) · 2시간 38분
+- [Athena & Step Function 으로 통계 파이프라인 구축하기](https://www.youtube.com/watch?v=MS7CulWSc2g) · 변규현 (당근마켓) · [AWS Community Day Online 2021](../events/2021-awscd.md) · 16분
+- [데이터와 함께하는 똑똑한 중고 거래](https://www.youtube.com/watch?v=qUn_hgLxudU) · 삼데오백 · [데이터야놀자 2021](../events/2021-datayanolja.md) · 23분
+- [돈 버는 기계 만들기 넘치는 데이터에서 문제를 정의하는 방법](https://www.youtube.com/watch?v=oAk98W4R_w0) · 우성섭 · [데이터야놀자 2021](../events/2021-datayanolja.md) · 15분
+- [Data Driven Decision을 위한 데이터 플랫폼 구축기](https://www.youtube.com/watch?v=j-xiEKFF2-U) · 우종호 · [데이터야놀자 2021](../events/2021-datayanolja.md) · 16분
+- [AI 없이도 효율적으로, 똑똑하게 일 잘하기](https://www.youtube.com/watch?v=dXU7Cm6pJ-4) · 장남수(데이터공방) · [데이터야놀자 2021](../events/2021-datayanolja.md) · 17분
+- [꺼진 데이터도 다시보자 Dynamic Mapping의 함정](https://www.youtube.com/watch?v=YA3BX_F0mpo) · 김종민 · [데이터야놀자 2021](../events/2021-datayanolja.md) · 12분
+- [조직의 데이터 기반 성장을 위한 데이터 분석가의 역할](https://www.youtube.com/watch?v=PfFr1UeysNM) · 이경진 · [데이터야놀자 2021](../events/2021-datayanolja.md) · 22분
+- [밑바닥부터 시작하는 프로덕트 데이터 분석](https://www.youtube.com/watch?v=OaGYrPdQUYo) · 최보경 · [데이터야놀자 2021](../events/2021-datayanolja.md) · 20분
+- [소는 데이터를 만들고 데이터는 소를 만든다](https://www.youtube.com/watch?v=Bl5pZBoOrmU) · 나영준 · [데이터야놀자 2021](../events/2021-datayanolja.md) · 16분
+- [킥보드 속 데이터 세상](https://www.youtube.com/watch?v=4vArwBggWps) · 송성민 · [데이터야놀자 2021](../events/2021-datayanolja.md) · 12분
+- [스몰 데이터를 활용한 자기계발 효율화하기를 꿈꾸기 전에 알아야 했던 것들 (PPDAC)](https://www.youtube.com/watch?v=0b-JUaRpVew) · 오세규 · [데이터야놀자 2021](../events/2021-datayanolja.md) · 12분
+- [공공데이터를 활용한 서울시 공/사교육 분석](https://www.youtube.com/watch?v=QDV19lPrMGU) · 고동우(데이터드림) · [데이터야놀자 2021](../events/2021-datayanolja.md) · 15분
+- [Virtual Meetup 2021 1st](https://www.youtube.com/watch?v=_Kk1r_qFbMQ) · [Kafka Virtual Meetup 2021](../events/2021-kafka-virtual-meetup.md) · 1시간 56분
+- [Virtual Meetup 2021 2nd](https://www.youtube.com/watch?v=PrMdjsNDc-k) · [Kafka Virtual Meetup 2021](../events/2021-kafka-virtual-meetup.md) · 1시간 45분
+- [Virtual Meetup 2021 3rd](https://www.youtube.com/watch?v=1NgWYemxCo8) · [Kafka Virtual Meetup 2021](../events/2021-kafka-virtual-meetup.md) · 1시간 50분
+- [서울대 HCI Lab 수빈님의 데이터 시각화 시작하기 📊](https://www.youtube.com/watch?v=OgB1rx7Ktf8) · [SEF2021 Software Edu Fest](../events/2021-sef.md) · 21분
+- [빅데이터가 도대체 무엇? 빅데이터 분석가는 또 무엇?](https://www.youtube.com/watch?v=UWTrs_cbDxc) · [SEF2021 Software Edu Fest](../events/2021-sef.md) · 21분
+- [R기반 성향점수분석](https://www.youtube.com/watch?v=BCcpywwBias) · [Seoul R Meetup 2021](../events/2021-seoul-r-meetup.md) · 28분
+- [왜 당근(caret)은 안되고 새로운 신상 당근(Tidymodel)인가?](https://www.youtube.com/watch?v=biuFA9yauEk) · [Seoul R Meetup 2021](../events/2021-seoul-r-meetup.md) · 23분
+- [데이터 과학 워드 프로세서](https://www.youtube.com/watch?v=BrRHNhVfT64) · [Seoul R Meetup 2021](../events/2021-seoul-r-meetup.md) · 16분
+- [데이터 품질 진단과 EDA](https://www.youtube.com/watch?v=Eqf5T0Z6-lQ) · [Seoul R Meetup 2021](../events/2021-seoul-r-meetup.md) · 39분
+- [텍스트를 쉽게 분석하는 방법](https://www.youtube.com/watch?v=aiD0-Tlsqh8) · [Seoul R Meetup 2021](../events/2021-seoul-r-meetup.md) · 30분
+- [데이터 시각화 해프닝](https://www.youtube.com/watch?v=fRePKLUVv3s) · [Seoul R Meetup 2021](../events/2021-seoul-r-meetup.md) · 30분
+- [R을 이용한 해외 주식용 데이터 수집](https://www.youtube.com/watch?v=FIO-XX5esUE) · [Seoul R Meetup 2021](../events/2021-seoul-r-meetup.md) · 21분
+- [데이터 저널리즘](https://www.youtube.com/watch?v=mvYXY9ZV278) · [Seoul R Meetup 2021](../events/2021-seoul-r-meetup.md) · 28분
+- [My experience: Release and maintain CRAN packages](https://www.youtube.com/watch?v=ehwOFuCjciI) · [Seoul R Meetup 2021](../events/2021-seoul-r-meetup.md) · 21분
+- [파워포인트를 넘어서](https://www.youtube.com/watch?v=BhF7ypcAynE) · xaringan · [Seoul R Meetup 2021](../events/2021-seoul-r-meetup.md) · 10분
+- [AWS Lamba 와 API Gateway로 가볍게 서버리스 API 만들기](https://www.youtube.com/watch?v=D7cYwxJuyik) · [Seoul R Meetup 2021](../events/2021-seoul-r-meetup.md) · 28분
+- [유튜브 데이터의 마술](https://www.youtube.com/watch?v=KcRn3zQBTo8) · [Seoul R Meetup 2021](../events/2021-seoul-r-meetup.md) · 22분
+- [표에 대한 거의 모든 것](https://www.youtube.com/watch?v=_-qePUE8SmI) · [Seoul R Meetup 2021](../events/2021-seoul-r-meetup.md) · 17분
+- [A/B 테스트와 Multi-Armed Bandit](https://www.youtube.com/watch?v=gq-Au6FYFJM) · [Seoul R Meetup 2021](../events/2021-seoul-r-meetup.md) · 37분
+- [Tidy하게 그리고 Seamless하게](https://www.youtube.com/watch?v=Lp7m6oGtJX8) · [Seoul R Meetup 2021](../events/2021-seoul-r-meetup.md) · 34분
+- [날씨보고서 자동화](https://www.youtube.com/watch?v=dWSBAurw9jE) · GitHub Actions · [Seoul R Meetup 2021](../events/2021-seoul-r-meetup.md) · 10분
+- [데이터 과학과 함께 좋은 송아지를 사는 방법](https://www.youtube.com/watch?v=7AHlwIVqeTA) · [Seoul R Meetup 2021](../events/2021-seoul-r-meetup.md) · 18분
+- [R에서 MLOps 시작하기: 데이터 과학자 & 개발자/엔지니어 협력](https://www.youtube.com/watch?v=c-ewQgYVghU) · [Seoul R Meetup 2021](../events/2021-seoul-r-meetup.md) · 36분
+- [아름답고 유연한 데이터 파이프라인 구축을 위한 Amazon Managed Workflow for Apache Airflow](https://www.youtube.com/watch?v=08tWqmM2pDk) · [AWS Summit Online Korea 2021](../events/2021-aws-summit-online.md) · 30분
+- [라이브 스트리밍을 위한 알맞은 솔루션 선택하기-AWS 서비스 및 CJ 올리브네트웍스의 라이브 커머스 사례 소개-이보길,박성우](https://www.youtube.com/watch?v=QbikCNYeZPU) · [AWS Summit Online Korea 2021](../events/2021-aws-summit-online.md) · 29분
+- [Amazon Elasticsearch Service로 우리 서비스에 날개 달기-박진우,솔루션즈 아키텍트,AWS](https://www.youtube.com/watch?v=JzXxRVD9krM) · [AWS Summit Online Korea 2021](../events/2021-aws-summit-online.md) · 25분
+- [Datadog을 활용한 Elastic Kubernetes Service(EKS)에서의 마이크로서비스 통합 가시성-정영석](https://www.youtube.com/watch?v=NTPkQixrKfw) · [AWS Summit Online Korea 2021](../events/2021-aws-summit-online.md) · 31분
+- [커머스 스타트업의 효율적인 데이터 분석 플랫폼 구축기-하지양,데이터 엔지니어,발란](https://www.youtube.com/watch?v=j7O9RZDsacY) · 강웅석,데이터 엔지니어,크로키닷컴 · [AWS Summit Online Korea 2021](../events/2021-aws-summit-online.md) · 29분
+- [마이데이터 사업자 핀다에게 듣다!-핀테크의 AWS 활용 전략-이지영,솔루션즈 아키텍트,AWS](https://www.youtube.com/watch?v=t1rpaM19uBo) · 박홍민,대표,핀다 · [AWS Summit Online Korea 2021](../events/2021-aws-summit-online.md) · 30분
+- [데이터 분석플랫폼을 위한 데이터 전처리부터 시각화까지 한번에 보기-노인철,솔루션즈 아키텍트,AWS](https://www.youtube.com/watch?v=iGg0GlEbHUk) · [AWS Summit Online Korea 2021](../events/2021-aws-summit-online.md) · 28분
+- [만들자! 데이터 기반의 스마트 팩토리-문태양,솔루션즈 아키텍트,AWS](https://www.youtube.com/watch?v=joGwIaCk8Zc) · 배권,팀장,OCI 정보통신 · [AWS Summit Online Korea 2021](../events/2021-aws-summit-online.md) · 24분
+- [미디어 서비스 소개와 오퍼링을 활용한 언택트 극복 사례-정진호,미디어데이터 서비스 팀 매니저,메가존 클라우드](https://www.youtube.com/watch?v=KYLr9XPXGO0) · [AWS Summit Online Korea 2021](../events/2021-aws-summit-online.md) · 25분
 - [토스 데이터의 흐름과 활용](https://www.youtube.com/watch?v=8ZhnUgylQgo) · [SLASH 21](../events/2021-slash.md) · 18분
 - [빠르게 성장하는 스타트업의 DW](https://www.youtube.com/watch?v=6CZwKUp1ozw) · [SLASH 21](../events/2021-slash.md) · 20분
+- [데이터 혁신으로 ESG 경영을 가속화하는 마이크로소프트: 한국마이크로소프트 신용녀 NTO](https://www.youtube.com/watch?v=TTLUK3xlnVc) · [Azure Everywhere 2021](../events/2021-azure-everywhere.md) · 32분
+- [유비케어: 헬스케어의 디지털 전환, EMR 클라우드에서 구현하기](https://www.youtube.com/watch?v=5V_GePUkSZg) · [Azure Everywhere 2021](../events/2021-azure-everywhere.md) · 15분
+- [NH투자증권: HPC(High Performance Computing)을 통한 효율적 상품분석 솔루션 구축](https://www.youtube.com/watch?v=c3P0E_l6y3U) · [Azure Everywhere 2021](../events/2021-azure-everywhere.md) · 15분
+- [TDI: 모바일 빅데이터 분석엔진 기반 기업 분석 솔루션 및 활용 비즈니스](https://www.youtube.com/watch?v=sRvP8Y-wRHM) · [Azure Everywhere 2021](../events/2021-azure-everywhere.md) · 10분
+- [클라우드는 데이터 세상을 어떻게 혁신하고 있는가?](https://www.youtube.com/watch?v=eQ2Rf-XLKi8) · 윤석찬, AWS 수석테크에반젤리스트 · [AWS Innovate 2021](../events/2021-aws-innovate.md) · 38분
+- [민첩한 비즈니스를 위한 데이터와 분석의 연결, 디지털 혁신의 첫걸음](https://www.youtube.com/watch?v=CRvyxJSz79o) · 이년강, 채병근 AWS 세일즈 스페셜리스트 · [AWS Innovate 2021](../events/2021-aws-innovate.md) · 32분
+- [데이터 기반 조직을 위한 역량 - 조직구조/거버넌스/플랫폼](https://www.youtube.com/watch?v=ci1k2EiiFEI) · 김윤건, AWS Analytics 사업개발 담당 · [AWS Innovate 2021](../events/2021-aws-innovate.md) · 19분
+- [데이터 웨어하우스 현대화](https://www.youtube.com/watch?v=5g4BsziriwU) · 김기영, AWS Analytics Specialist SA · [AWS Innovate 2021](../events/2021-aws-innovate.md) · 30분
+- [스타트업에서 데이터 분석 시작하기 (레벨 200)](https://www.youtube.com/watch?v=n_Vzaw06jpY) · 박진우 · [AWS Builders 온라인 시리즈 2021](../events/2021-aws-builders-online.md) · 21분
 
 ## 2020년
 
+- [데이터 분석가를 위한 AWS 신규 서비스 소개](https://www.youtube.com/watch?v=mgYyJRRUC2Q) · 변규현 SW 엔지니어, 당근마켓 · [AWS re:Invent 2020 reCap](../events/2020-aws-reinvent-recap.md) · 43분
+- [데이터 과학자를 위한 AWS 신규 서비스 소개](https://www.youtube.com/watch?v=a6XAdK1-ZBE) · 소성운 데이터사이언티스트, 크로키닷컴 · [AWS re:Invent 2020 reCap](../events/2020-aws-reinvent-recap.md) · 38분
 - [데이터 매직 컨퍼런스](https://www.youtube.com/watch?v=IihludO2sw0) · [데이터 매직 컨퍼런스](../events/2020-data-magic-conference.md) · 3시간 21분
+- [포스트 코로나, 고객을 이해하기 위한 데이터 활용 전략](https://www.youtube.com/watch?v=l6hrb_INDiU) · [NHN FORWARD 2020](../events/2020-nhn-forward.md) · 14분
+- [쏟아지는 로그를 차분하게 다루는 기술 카카오게임 로그 관리 시스템 logbucket](https://www.youtube.com/watch?v=3NwaAvQijSo) · [if(kakao) 2020](../events/2020-ifkakao.md) · 36분
+- [이상거래탐지를 위한 실시간데이터 처리와 금융사기 행동 분석](https://www.youtube.com/watch?v=8s21RwAe_zQ) · [if(kakao) 2020](../events/2020-ifkakao.md) · 29분
+- [ClickHouse analytical database](https://www.youtube.com/watch?v=I0T5lh_iRog) · [if(kakao) 2020](../events/2020-ifkakao.md) · 13분
+- [Kubernetes 환경 Spring Cloud Data Flow 를 이용한 백업, 정산 데이터 파이프라](https://www.youtube.com/watch?v=ITJRMyKN4kE) · [if(kakao) 2020](../events/2020-ifkakao.md) · 22분
+- [Flink 기반 log streaming pipeline log와 사용자를 잇는 무지개 다리](https://www.youtube.com/watch?v=sG_nUrds3DI) · [if(kakao) 2020](../events/2020-ifkakao.md) · 22분
+- [How to make log based Alert with Flink](https://www.youtube.com/watch?v=MFi49Hno_so) · [if(kakao) 2020](../events/2020-ifkakao.md) · 12분
+- [오픈 소스 기반 하이브 테이블 모니터링 시스템 만들기](https://www.youtube.com/watch?v=G6tWHdN0_KI) · [if(kakao) 2020](../events/2020-ifkakao.md) · 18분
 - [Realtime targeting platform use cases in LINE GAME PLATFORM](https://www.youtube.com/watch?v=icQfXn1LGSE) · [LINE DEVELOPER DAY 2020](../events/2020-line-devday.md) · 27분
 - [출근길에서 생각난 데이터 토이 프로젝트](https://www.youtube.com/watch?v=U99td1YCohE) · 홍원준 · [데이터야놀자 2020](../events/2020-datayanolja.md) · 27분
 - [Datacosmetics, 화장품을 데이터로 바라보기](https://www.youtube.com/watch?v=nJA3KRMWR_o) · 김동현 · [데이터야놀자 2020](../events/2020-datayanolja.md) · 20분
@@ -193,9 +504,34 @@
 - [조금 더 똑똑한 검색 기능을 만들어 보자](https://www.youtube.com/watch?v=t5x0k3R99LA) · 김종민 · [데이터야놀자 2020](../events/2020-datayanolja.md) · 22분
 - [Airflow로 똑똑한 배치관리하기](https://www.youtube.com/watch?v=OB1euuIATkE) · 김은실 · [데이터야놀자 2020](../events/2020-datayanolja.md) · 13분
 - [데이터를 중심으로 성장 전략과 문화 만들기](https://www.youtube.com/watch?v=UDh4h1Cfl8s) · 이경진 · [데이터야놀자 2020](../events/2020-datayanolja.md) · 25분
+- [Kafka Connect/Connector](https://www.youtube.com/watch?v=xhd3GN1Pv7w) · [Kafka Virtual Meetup 2020](../events/2020-kafka-virtual-meetup.md) · 1시간 7분
+- [ksqlDB: lightweight stream processing for Apache Kafka](https://www.youtube.com/watch?v=WRMXMDLEmJQ) · [Kafka Virtual Meetup 2020](../events/2020-kafka-virtual-meetup.md) · 1시간 0분
+- [예제로 살펴보는 모니터링](https://www.youtube.com/watch?v=WNbfx_IbLi4) · [Kafka Virtual Meetup 2020](../events/2020-kafka-virtual-meetup.md) · 48분
+- [주식투자를 위한 비정형투자데이터활용](https://www.youtube.com/watch?v=c0J5uK5cglI) · JayHan · [파이콘 한국 2020](../events/2020-pycon.md) · 45분
+- [pandas 코드로 대규모 클러스터에서 더 빠르게 빅데이터를 분석 해보자 - Koalas](https://www.youtube.com/watch?v=Y9kdUq_qIa8) · 박현우 · [파이콘 한국 2020](../events/2020-pycon.md) · 18분
+- [Python을 사용하는 데이터 과학자를 위한 서버 없는 WebAssembly 기반 과학 연산 환경 만들기](https://www.youtube.com/watch?v=wsbtgoPPr1o) · 신정규 · [파이콘 한국 2020](../events/2020-pycon.md) · 49분
+- [AWS를 통한 데이터 분석 및 처리의 새로운 혁신 기법](https://www.youtube.com/watch?v=iosyR9DKVSU) · 김윤건, AWS사업개발 담당 · [AWS Summit Online Korea 2020](../events/2020-aws-summit-online.md) · 24분
+- [AWS 스토리지 마이그레이션 서비스 및 대규모 데이터 전송 사례- 김용기, AWS 솔루션즈 아키텍트](https://www.youtube.com/watch?v=1TpgFbUa3fY) · [AWS Summit Online Korea 2020](../events/2020-aws-summit-online.md) · 31분
+- [최신 컨테이너 기술 소개 및 가시성 향상을 위한 컨테이너 로깅 / 분석 최적화](https://www.youtube.com/watch?v=dBWf-Jtgkbk) · 안효빈, 유재석, AWS SA · [AWS Summit Online Korea 2020](../events/2020-aws-summit-online.md) · 31분
+- [EMR 플랫폼 기반의 Spark 워크로드 실행 최적화 방안](https://www.youtube.com/watch?v=hPvBst9TPlI) · 정세웅, AWS 솔루션즈 아키텍트 · [AWS Summit Online Korea 2020](../events/2020-aws-summit-online.md) · 31분
+- [Data Lake 환경에서 Amazon Redshift Spectrum을 이용한 대량 데이터 활용](https://www.youtube.com/watch?v=4tTMrKwpeuQ) · 김지선, 정현아, AWS · [AWS Summit Online Korea 2020](../events/2020-aws-summit-online.md) · 29분
 - [데이터 분석, 파워 BI로 어디까지 해 봤니?](https://www.youtube.com/watch?v=8DjfDJgOb94) · 송윤희 · [Global Azure Virtual Korea 2020](../events/2020-global-azure-virtual.md) · 56분
 - [AWS 기반 서버리스 데이터 레이크 구축하기](https://www.youtube.com/watch?v=qbdLrILjapA) · 김진웅 (SK C&C) · [AWS Community Day 2020](../events/2020-aws-community-day.md) · 32분
 
+## 2019년
+
+- [새로운 머신러닝을 위한 새로운 데이터 플랫폼](https://www.youtube.com/watch?v=R6vvY2OuNYY) · 이정권 · [모두콘 2019](../events/2019-moducon.md) · 30분
+- [서울 생활인구 데이터 사용법](https://www.youtube.com/watch?v=smw_dKPm3ow) · 박지민 · [모두콘 2019](../events/2019-moducon.md) · 33분
+- [Google Cloud Platform에서 데이터 레이크 만들기 (송영탁)](https://www.youtube.com/watch?v=HMtoAd4gQq8) · [Google Cloud Summit Seoul '19](../events/2019-google-cloud-summit.md) · 45분
+- [Data Lake in the Cloud Era (이재훈, LG CNS)](https://www.youtube.com/watch?v=cviVFmM-DdM) · [Google Cloud Summit Seoul '19](../events/2019-google-cloud-summit.md) · 35분
+- [BigQuery와 함께 새롭게 정의하는 데이터 웨어하우징 (박기택)](https://www.youtube.com/watch?v=NFasVru9UCM) · [Google Cloud Summit Seoul '19](../events/2019-google-cloud-summit.md) · 51분
+- [Blob에서 Table까지: 데이터 저장에 대한 모든 것 (최유정)](https://www.youtube.com/watch?v=gNn91WjYmd8) · [Google Cloud Summit Seoul '19](../events/2019-google-cloud-summit.md) · 48분
+- [Google Cloud Search로 엔터프라이즈 데이터 활용 극대화하기 (Diana Britt, Lutz Kohler)](https://www.youtube.com/watch?v=C-osCRiY77s) · [Google Cloud Summit Seoul '19](../events/2019-google-cloud-summit.md) · 31분
+
+## 2018년
+
+- [Unify data and model using Apache S2Graph and GraphQL](https://www.youtube.com/watch?v=zyg7TuCy7VA) · [if(kakao)dev 2018](../events/2018-ifkakao.md) · 48분
+
 ---
 
-다른 주제: [AI (489)](./ai.md) · [백엔드 (252)](./backend.md) · [프론트엔드 (144)](./frontend.md) · [모바일 (121)](./mobile.md) · [인프라·DevOps (335)](./infra-devops.md) · [보안 (134)](./security.md) · [게임 (128)](./game.md) · [디자인·기획 (71)](./design-product.md) · [문화·커리어 (167)](./culture-career.md) · [기타 (150)](./etc.md)
+다른 주제: [AI (1283)](./ai.md) · [백엔드 (682)](./backend.md) · [프론트엔드 (269)](./frontend.md) · [모바일 (367)](./mobile.md) · [인프라·DevOps (1161)](./infra-devops.md) · [보안 (281)](./security.md) · [게임 (352)](./game.md) · [디자인·기획 (106)](./design-product.md) · [문화·커리어 (397)](./culture-career.md) · [기타 (578)](./etc.md)

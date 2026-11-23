@@ -14,4 +14,4 @@
 | [Deauth Attack is Dead](https://www.youtube.com/watch?v=HhOLa4XVwVA) | 31분 |
 | [Analyzing North Korean Hacking Groups](https://www.youtube.com/watch?v=cKEbVG7_QkU) | 43분 |
 | [Serverless 서비스 취약점 분석](https://www.youtube.com/watch?v=PRQeyeD69Vo) | 35분 |
-| [Web3 - DeFi 옵션 프로토콜 알아보기](https://www.youtube.com/watch?v=PQzYrHAwVvQ) | 1시간 18분 |
+| [Web3 - DeFi 옵션 프로토콜 알아보기](https://www.youtube.com/watch?v=PQzYrHAwVvQ) | 1시간 18분 |

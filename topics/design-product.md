@@ -1,12 +1,13 @@
 # 디자인·기획 세션 다시보기
 
-> [← 행사 목록](../README.md) · 세션 71개
+> [← 행사 목록](../README.md) · 세션 106개
 
-> [2026년 (1)](#2026년) · [2025년 (35)](#2025년) · [2024년 (28)](#2024년) · [2023년 (4)](#2023년) · [2021년 (2)](#2021년) · [2020년 (1)](#2020년)
+> [2026년 (2)](#2026년) · [2025년 (37)](#2025년) · [2024년 (31)](#2024년) · [2023년 (5)](#2023년) · [2022년 (11)](#2022년) · [2021년 (10)](#2021년) · [2020년 (9)](#2020년) · [2018년 (1)](#2018년)
 
 ## 2026년
 
 - [Kakao Playground: AI로 바꾼 디자이너의 일하는 방식](https://www.youtube.com/watch?v=DskTLNSkM0o) · [if(kakao)26](../events/2026-ifkakao.md) · 19분
+- [커뮤니티 라이브톡 \| 경도에서 감튀까지, 당근모임 붐은 온다!](https://www.youtube.com/watch?v=Vm4RKdg9tx4) · [2026 당근 채용 라이브톡](../events/2026-daangn-recruit-livetalk.md) · 1시간 0분
 
 ## 2025년
 
@@ -45,9 +46,12 @@
 - [AI는 모르는 이모티콘 트렌드 리포트](https://www.youtube.com/watch?v=vLEjxp6O5WQ) · [if(kakao)25](../events/2025-ifkakao.md) · 19분
 - [함수처럼 작동하는 브랜드 : The Bold의 생성형 AI로 commit한 브랜드 디자인](https://www.youtube.com/watch?v=i8s9w-06jqc) · 김진영 · [데이터야놀자 2025](../events/2025-datayanolja.md) · 43분
 - [Product Zero to One: 아마존의 프로덕트 개발 방법론으로 이룬 S&I 코퍼레이션의 디지털 혁신 사례](https://www.youtube.com/watch?v=jcEpBaXjWSs) · [AWS Summit Seoul 2025](../events/2025-aws-summit.md) · 38분
+- [Shorten In-Car Experience Design Process Without Compromising Quality](https://www.youtube.com/watch?v=Z6rXsbDxDTU) · [Pleos 25](../events/2025-pleos.md) · 22분
+- [센드버드 사례로 보는 글로벌 세일즈와 마케팅 전략](https://www.youtube.com/watch?v=GRXJNezmwIc) · 이상희 (센드버드 코리아) · [구름 COMMIT · 센드버드 사례로 보는 글로벌 세일즈와 마케팅 전략](../events/2025-goorm-commit-0226.md) · 51분
 
 ## 2024년
 
+- [직접 만든 피그마 플러그인으로 해커톤에서 화면 23개 개발한 이야기](https://www.youtube.com/watch?v=NC1AIjlbF6s) · [MeetLab 2024](../events/2024-meetlab.md) · 30분
 - [기념일마다 변신하는 네이버 대문의 비밀 : 15년 비하인드 스토리](https://www.youtube.com/watch?v=Y6rBj7ZCzlI) · [팀네이버 컨퍼런스 DAN 24](../events/2024-dan.md) · 42분
 - ['프로젝트 꽃'이 네이버 사업자 경험을 만들어가는 방식](https://www.youtube.com/watch?v=y69-8l1hz1o) · [팀네이버 컨퍼런스 DAN 24](../events/2024-dan.md) · 45분
 - [생동감 넘치는 인터랙션 만들기](https://www.youtube.com/watch?v=Io48BVcnI0w) · [팀네이버 컨퍼런스 DAN 24](../events/2024-dan.md) · 42분
@@ -65,6 +69,8 @@
 - [퀵커머스와 물류 프로덕트: 종이에서 로봇까지](https://www.youtube.com/watch?v=dehoEqdK5Vc) · [우아콘 2024](../events/2024-woowacon.md) · 29분
 - [오픈형 멘토링: PM - 강미경 멘토](https://www.youtube.com/watch?v=LKojD2u9Y34) · [우아콘 2024](../events/2024-woowacon.md) · 44분
 - [아이콘, 브랜딩 에셋까지 디자인시스템으로](https://www.youtube.com/watch?v=34nhOoRYMmc) · [2024 당근 테크 밋업](../events/2024-daangn-techmeetup.md) · 31분
+- [Advancing UI/UX for GenAI and Hybrid AI](https://www.youtube.com/watch?v=-FzlLtAvAN0) · 김수진, 이종은(래블업) · [lab \| up &gt; /conf/4](../events/2024-lablup-conf.md) · 28분
+- [현지 시장을 위한 글로벌 UX 연구 문화와 방법](https://www.youtube.com/watch?v=eHrwjCJzhuo) · 박수현 (틱톡) · [구름 COMMIT · 현지 시장을 위한 글로벌 UX 연구 문화와 방법](../events/2024-goorm-commit-0821.md) · 1시간 32분
 - [UX 라이팅, 느낌 아닌 논리로 설득하기](https://www.youtube.com/watch?v=D-WUrlGuPp4) · [인프콘 2024](../events/2024-infcon.md) · 20분
 - [성공적인 UX 솔루션을 위한 5가지 Key Things](https://www.youtube.com/watch?v=-nJnINbmwfE) · [인프콘 2024](../events/2024-infcon.md) · 36분
 - [1CM 차이나는 아이디어로 1M 앞서가는 서비스 만들기](https://www.youtube.com/watch?v=S_CFAO5kYIA) · [인프콘 2024](../events/2024-infcon.md) · 40분
@@ -83,16 +89,51 @@
 - [사용자 경험을 배민합니다: 배민이 사용자를 이해하는 방법](https://www.youtube.com/watch?v=uXp-wE9Bjr8) · [우아콘 2023](../events/2023-woowacon.md) · 34분
 - [수다쟁이들의 문제 풀이법: 라이더서비스팀 PM이 복잡한 문제를 다루는 방법](https://www.youtube.com/watch?v=gbXkV7wed-E) · [우아콘 2023](../events/2023-woowacon.md) · 29분
 - [비즈니스 성장과 기술 개선, 하나라도 놓치면 안 되는 우리의 현실: 배민스토어 일반셀러 프로젝트 진행기](https://www.youtube.com/watch?v=2D9GLM44G_0) · [우아콘 2023](../events/2023-woowacon.md) · 31분
+- [변화하는 UI/UX 디자인 : 문제 인식과 새로운 방향](https://www.youtube.com/watch?v=rSMp-dpB7pY) · 김수진(Lablup) · [lab \| up &gt; /conf/3](../events/2023-lablup-conf.md) · 17분
+
+## 2022년
+
+- [Creative Experiences of Tech-Verse – Approach and Design](https://www.youtube.com/watch?v=r5Gv_FlITMQ) · [Tech-Verse 2022 한국어판](../events/2022-tech-verse.md) · 39분
+- [PayPay 금융 브랜드 통일. 스타일 통일화 및 금융 No.1 폼을 목표로 노력](https://www.youtube.com/watch?v=ACaUTZnyA2Q) · [Tech-Verse 2022 한국어판](../events/2022-tech-verse.md) · 44분
+- [이커머스 서비스를 위한 디자인, 사업 성장과 UX 향상의 균형](https://www.youtube.com/watch?v=dKdeWchc6aU) · [Tech-Verse 2022 한국어판](../events/2022-tech-verse.md) · 43분
+- [접근성을 향상시키기 위한 공감 창출과 동기 부여에 관하여](https://www.youtube.com/watch?v=7OIdLG3Ymxs) · [Tech-Verse 2022 한국어판](../events/2022-tech-verse.md) · 40분
+- [제품 개발 프로세스에 UX 리서치를 도입하는 방법](https://www.youtube.com/watch?v=xCmTEMJkcTI) · [Tech-Verse 2022 한국어판](../events/2022-tech-verse.md) · 48분
+- [기획서도, 시간도 없다! 나만의 카드를 선물하기 위한 여정!](https://www.youtube.com/watch?v=dReFpG8aVwU) · [우아콘 2022](../events/2022-woowacon.md) · 28분
+- [합이 좋은 PM과 디자이너, 비결이 궁금하신가요?](https://www.youtube.com/watch?v=3TDD_eJ0qOY) · [우아콘 2022](../events/2022-woowacon.md) · 14분
+- [보일듯 안보이는 광고자리를 찾아서! 비즈니스와 사용성 사이 외줄타기](https://www.youtube.com/watch?v=yQyQ4myKmdI) · [우아콘 2022](../events/2022-woowacon.md) · 17분
+- [배민스토어 플랫폼 전환기: PM 시점](https://www.youtube.com/watch?v=9ORhq3EmIKM) · [우아콘 2022](../events/2022-woowacon.md) · 22분
+- [버려진 디자인은 의미가 없을까](https://www.youtube.com/watch?v=xgYsQ6TfPhk) · [우아콘 2022](../events/2022-woowacon.md) · 15분
+- [프로덕트를 만드는 사람들 - 안 된다고 하지 말아요 개발자/디자이너/기획자 삼파전](https://www.youtube.com/watch?v=cdW77ljBggs) · [6월 우아한테크세미나 · 프로덕트를 만드는 사람들 - 안 된다고 하지 말아요 개발자/디자이너/기획자 삼파전](../events/2022-woowa-seminar-06.md) · 2시간 17분
 
 ## 2021년
 
+- [강력한 팬덤, 콘텐츠가 답이다! 고객 인텐트 기반 궁극의 콘텐츠 마케팅에 대하여](https://www.youtube.com/watch?v=Bteugxa3SpI) · 김윤경 · [모두콘 2021](../events/2021-moducon.md) · 26분
 - [11년 만의 홈개편 디자인은 어떻게 준비했나](https://www.youtube.com/watch?v=M-mj8kT-1h0) · [우아콘 2021](../events/2021-woowacon.md) · 17분
 - [사장님을 위한 디자인](https://www.youtube.com/watch?v=Vozedo4kQIo) · [우아콘 2021](../events/2021-woowacon.md) · 21분
+- [커뮤니케이션, 선물하기](https://www.youtube.com/watch?v=YRVpwBvECfc) · [if(kakao) 2021](../events/2021-ifkakao.md) · 12분
+- [서비스의 목소리를 찾아주는 글쓰기](https://www.youtube.com/watch?v=oaj2Sp3c-Yg) · [if(kakao) 2021](../events/2021-ifkakao.md) · 9분
+- [카카오 구독ON 구독으로 비즈니스의 시야를 넓히다](https://www.youtube.com/watch?v=zMnsp4l9Pow) · [if(kakao) 2021](../events/2021-ifkakao.md) · 25분
+- [카카오톡채널과 함께하는 비즈니스의 시작](https://www.youtube.com/watch?v=3Gm2czRH3No) · [if(kakao) 2021](../events/2021-ifkakao.md) · 17분
+- [톡채널 채팅상담의 내일](https://www.youtube.com/watch?v=DFcWwgJG640) · [if(kakao) 2021](../events/2021-ifkakao.md) · 13분
+- [구독ON과 함께하는 정기배송 방식의 진화](https://www.youtube.com/watch?v=h_V2cs_m8C4) · [if(kakao) 2021](../events/2021-ifkakao.md) · 7분
+- [카카오 광고와 솔루션 활용을 통한 파트너 비즈니스 성장 사례](https://www.youtube.com/watch?v=YNCvQ1ZXLR4) · [if(kakao) 2021](../events/2021-ifkakao.md) · 17분
 
 ## 2020년
 
+- [PAYCO 디자인, 소통의 시작](https://www.youtube.com/watch?v=W8iz0zwTsbM) · [NHN FORWARD 2020](../events/2020-nhn-forward.md) · 9분
+- [전국민을 쉽게 내 고객으로, 카카오비즈니스](https://www.youtube.com/watch?v=G76MAwqOSAU) · [if(kakao) 2020](../events/2020-ifkakao.md) · 36분
+- [디지털 비즈니스 시대의 생존법, 카카오톡 채널](https://www.youtube.com/watch?v=jLEmejR7d4U) · [if(kakao) 2020](../events/2020-ifkakao.md) · 23분
+- [비즈니스 톡처럼 쉬워지다](https://www.youtube.com/watch?v=sQPCoODhQ2g) · [if(kakao) 2020](../events/2020-ifkakao.md) · 16분
+- [카카오톡 채널에서 상품구독 비즈니스를 만드는 법](https://www.youtube.com/watch?v=_4SxbbCZi2Y) · [if(kakao) 2020](../events/2020-ifkakao.md) · 23분
+- [카카오 이모티콘, 당신이 몰랐던 이야기](https://www.youtube.com/watch?v=jNghW6lR4W4) · [if(kakao) 2020](../events/2020-ifkakao.md) · 9분
+- [이모티콘으로 마음을 사로잡는 법 감정 표현에서 관계 형성까지](https://www.youtube.com/watch?v=B_cPQGOmaAQ) · [if(kakao) 2020](../events/2020-ifkakao.md) · 22분
+- [톡에서 발견하는 신규고객, 카카오 X 정육각](https://www.youtube.com/watch?v=ObTFmJvim6s) · [if(kakao) 2020](../events/2020-ifkakao.md) · 16분
 - [LDS enhances the work efficiency of Developers and Designers.](https://www.youtube.com/watch?v=7SSrCyb8XnU) · [LINE DEVELOPER DAY 2020](../events/2020-line-devday.md) · 27분
+
+## 2018년
+
+- [웹 접근성 시장(Market)을 이끄는 공감이 필요할 때](https://www.youtube.com/watch?v=FQPvr0wVUTM) · 류영일 (헤더스) · [2018 제6회 널리 세미나](../events/2018-nuli-6.md) · 31분
 
 ---
 
-다른 주제: [AI (489)](./ai.md) · [백엔드 (252)](./backend.md) · [프론트엔드 (144)](./frontend.md) · [모바일 (121)](./mobile.md) · [인프라·DevOps (335)](./infra-devops.md) · [데이터 (171)](./data.md) · [보안 (134)](./security.md) · [게임 (128)](./game.md) · [문화·커리어 (167)](./culture-career.md) · [기타 (150)](./etc.md)
+다른 주제: [AI (1283)](./ai.md) · [백엔드 (682)](./backend.md) · [프론트엔드 (269)](./frontend.md) · [모바일 (367)](./mobile.md) · [인프라·DevOps (1161)](./infra-devops.md) · [데이터 (501)](./data.md) · [보안 (281)](./security.md) · [게임 (352)](./game.md) · [문화·커리어 (397)](./culture-career.md) · [기타 (578)](./etc.md)

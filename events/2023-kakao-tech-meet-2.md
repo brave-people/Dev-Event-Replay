@@ -5,7 +5,7 @@
 - 분류: `기술일반`
 - 주최: 카카오
 - 일시: 2023. 07. 18
-- 다시보기: [유튜브 재생목록](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFk-bT7qYW0w8TPddhsQU0u)
+- 다시보기: [유튜브 재생목록](https://www.youtube.com/playlist?list=PLwe9WEhzDhwFk-bT7qYW0w8TPddhsQU0u) · [행사 페이지](https://tech.kakao.com/posts/589)
 - 세션 3개 · 총 1시간 분량
 
 | 세션 | 발표자 | 길이 |

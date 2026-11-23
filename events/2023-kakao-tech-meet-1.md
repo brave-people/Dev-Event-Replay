@@ -5,7 +5,7 @@
 - 분류: `AI`
 - 주최: 카카오
 - 일시: 2023. 05. 11
-- 다시보기: [유튜브 재생목록](https://www.youtube.com/playlist?list=PLwe9WEhzDhwF36thY2_SVoayAz_KRWv_f)
+- 다시보기: [유튜브 재생목록](https://www.youtube.com/playlist?list=PLwe9WEhzDhwF36thY2_SVoayAz_KRWv_f) · [행사 페이지](https://tech.kakao.com/posts/578)
 - 세션 3개 · 총 2시간 분량
 
 | 세션 | 발표자 | 길이 |

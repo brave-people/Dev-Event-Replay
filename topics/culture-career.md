@@ -1,8 +1,8 @@
 # 문화·커리어 세션 다시보기
 
-> [← 행사 목록](../README.md) · 세션 167개
+> [← 행사 목록](../README.md) · 세션 397개
 
-> [2026년 (15)](#2026년) · [2025년 (43)](#2025년) · [2024년 (40)](#2024년) · [2023년 (14)](#2023년) · [2022년 (6)](#2022년) · [2021년 (30)](#2021년) · [2020년 (19)](#2020년)
+> [2026년 (18)](#2026년) · [2025년 (46)](#2025년) · [2024년 (55)](#2024년) · [2023년 (79)](#2023년) · [2022년 (82)](#2022년) · [2021년 (62)](#2021년) · [2020년 (48)](#2020년) · [2019년 (5)](#2019년) · [2018년 (2)](#2018년)
 
 ## 2026년
 
@@ -18,9 +18,12 @@
 - [나는 그냥 행복하고 싶었다](https://www.youtube.com/watch?v=0mCorFVtL8k) · 변성윤 · [PyCon Korea 2026](../events/2026-pycon.md) · 41분
 - [라이트닝 토크 2일차](https://www.youtube.com/watch?v=va06_r8IfHs) · [PyCon Korea 2026](../events/2026-pycon.md) · 43분
 - [Let's Build the Future of Python Together!](https://www.youtube.com/watch?v=zyDGfvFic78) · Deb Nicholson · [PyCon Korea 2026](../events/2026-pycon.md) · 39분
-- ["이렇게 바꿔도 괜찮은 걸까요..?" 학부생들의 OpenStack 기여기](https://www.youtube.com/watch?v=c9x-ZpiRW0Y) · 오지우, 황지영, 이주영 · [PyCon Korea 2026](../events/2026-pycon.md) · 18분
+- ["이렇게 바꿔도 괜찮은 걸까요..?" 학부생들의 OpenStack 기여기](https://www.youtube.com/watch?v=c9x-ZpiRW0Y) · 오지우, 황지영, 이주영 · [PyCon Korea 2026](../events/2026-pycon.md) · 18분
 - [Python Language Support Team을 만들어봅시다.](https://www.youtube.com/watch?v=5cZkGfiNZwk) · 나동희 · [PyCon Korea 2026](../events/2026-pycon.md) · 16분
 - [How community can help you Win Win opportunity map](https://www.youtube.com/watch?v=AXJzHol7JdQ) · Petr Andreev · [파이콘 부산 2026](../events/2026-pycon-busan.md) · 55분
+- [당근 DB팀 소개](https://www.youtube.com/watch?v=d_s3SV-bUXU) · [당근 DB 밋업 1회](../events/2026-daangn-db-1.md) · 23분
+- [당근페이 라이브톡 \| ❶ 핀테크, 진입 장벽 높은 그 이름](https://www.youtube.com/watch?v=ctye5prPUW8) · [2026 당근 채용 라이브톡](../events/2026-daangn-recruit-livetalk.md) · 1시간 1분
+- [시니어 개발자는 어떻게 문제를 바라보는가 : 문제를 바라보는 시야와 결정의 순간들](https://www.youtube.com/watch?v=9ZpNGhmAwEg) · 하조은, 이민석, 박상권 · [구름 COMMIT · 시니어 개발자는 어떻게 문제를 바라보는가 : 문제를 바라보는 시야와 결정의 순간들](../events/2026-goorm-commit-0211.md) · 1시간 26분
 
 ## 2025년
 
@@ -31,6 +34,7 @@
 - [AI\_TOP\_100: AI와 성장하는 사람들](https://www.youtube.com/watch?v=tgTRJHWlKsM) · 이효은(브라이언임팩트 프로젝트 디렉터) · [모두콘 2025](../events/2025-moducon.md) · 35분
 - [AI 오픈소스 기여에서 배우는 개발자의 성장 이야기](https://www.youtube.com/watch?v=ZrOKWF0sCEw) · [Samsung Tech Conference 2025](../events/2025-stc.md) · 15분
 - [Companions가 전하는 삼성과 기술 이야기](https://www.youtube.com/watch?v=mUCpWwQc3-U) · [Samsung Tech Conference 2025](../events/2025-stc.md) · 25분
+- [오늘부터 스타트업 개발자입니다](https://www.youtube.com/watch?v=7btsmKBIN-I) · 강대명 (래블업) · [구름 COMMIT · 오늘부터 스타트업 개발자입니다](../events/2025-goorm-commit-1119.md) · 58분
 - [Governing Open Source in the Enterprise: OSPO Strategies for Innovation and Compliance -David Hirsch](https://www.youtube.com/watch?v=npjtLb5lllw) · [Open Source Summit Korea 2025](../events/2025-oss-summit-korea.md) · 28분
 - [Keynote: How Microsoft Builds and Runs on Open Source](https://www.youtube.com/watch?v=ne624CKM1Zk) · Jay Lee · [Open Source Summit Korea 2025](../events/2025-oss-summit-korea.md) · 6분
 - [Keynote: KOSSA: The Beginning of New Leadership](https://www.youtube.com/watch?v=ou6sjwyxjxc) · Hosung Shim · [Open Source Summit Korea 2025](../events/2025-oss-summit-korea.md) · 6분
@@ -53,12 +57,12 @@
 - [좋아하는 기술을 나누다 보니, 커뮤니티와 책이 생겼습니다](https://www.youtube.com/watch?v=CgB8Gf-3pbI) · 유현아 · [PyCon Korea 2025](../events/2025-pycon.md) · 19분
 - [파이콘, 그리고 우리가 함께 만드는 이야기](https://www.youtube.com/watch?v=Yt5TqKx4Gu4) · 한성민 · [PyCon Korea 2025](../events/2025-pycon.md) · 23분
 - [라이트닝토크](https://www.youtube.com/watch?v=Qj30XldF2G8) · [PyCon Korea 2025](../events/2025-pycon.md) · 45분
-- [개발자 권태기, 10년 동안 이렇게 이겨냈습니다](https://www.youtube.com/watch?v=peJJwzpmJyE) · [Toss Makers Conference 25 · Engineering Day](../events/2025-tmc.md) · 18분
-- [뛰어난 개발자가 되려면 기술을, 뛰어난 개발팀이 되려면 사람을](https://www.youtube.com/watch?v=Wh2bhWe56EM) · [Toss Makers Conference 25 · Engineering Day](../events/2025-tmc.md) · 20분
-- [기술 중심 엔지니어에서, 조직 중심 엔지니어로](https://www.youtube.com/watch?v=ATC-u6MJsAI) · [Toss Makers Conference 25 · Engineering Day](../events/2025-tmc.md) · 22분
-- [How to Step into the TPM: TPM되기](https://www.youtube.com/watch?v=G48_DSaR5WE) · [Toss Makers Conference 25 · Engineering Day](../events/2025-tmc.md) · 19분
-- [당신은 이미 팀을 최적화하고 있다](https://www.youtube.com/watch?v=2gi63ZJqnbQ) · [Toss Makers Conference 25 · Engineering Day](../events/2025-tmc.md) · 20분
-- [실제 사례로 알아보는 생존형 엔지니어링 이야기](https://www.youtube.com/watch?v=BEcktw3XYxY) · [Toss Makers Conference 25 · Engineering Day](../events/2025-tmc.md) · 15분
+- [개발자 권태기, 10년 동안 이렇게 이겨냈습니다](https://www.youtube.com/watch?v=peJJwzpmJyE) · [Toss Makers Conference 25 · Engineering Day](../events/2025-tmc.md) · 18분
+- [뛰어난 개발자가 되려면 기술을, 뛰어난 개발팀이 되려면 사람을](https://www.youtube.com/watch?v=Wh2bhWe56EM) · [Toss Makers Conference 25 · Engineering Day](../events/2025-tmc.md) · 20분
+- [기술 중심 엔지니어에서, 조직 중심 엔지니어로](https://www.youtube.com/watch?v=ATC-u6MJsAI) · [Toss Makers Conference 25 · Engineering Day](../events/2025-tmc.md) · 22분
+- [How to Step into the TPM: TPM되기](https://www.youtube.com/watch?v=G48_DSaR5WE) · [Toss Makers Conference 25 · Engineering Day](../events/2025-tmc.md) · 19분
+- [당신은 이미 팀을 최적화하고 있다](https://www.youtube.com/watch?v=2gi63ZJqnbQ) · [Toss Makers Conference 25 · Engineering Day](../events/2025-tmc.md) · 20분
+- [실제 사례로 알아보는 생존형 엔지니어링 이야기](https://www.youtube.com/watch?v=BEcktw3XYxY) · [Toss Makers Conference 25 · Engineering Day](../events/2025-tmc.md) · 15분
 - [Talk 1 - 개발자 커뮤니티](https://www.youtube.com/watch?v=u7Ny-IGE744) · 박용권, 김지헌, 이상훈 · [스프링캠프 2025](../events/2025-springcamp.md) · 48분
 - [Talk 2 - 함께 성장하기](https://www.youtube.com/watch?v=bhH1n5aNIf8) · 변정훈, 박재성, 이경일 · [스프링캠프 2025](../events/2025-springcamp.md) · 50분
 - [Talk 3 - 기술 Talk](https://www.youtube.com/watch?v=eFvpsU1RYwc) · 이동욱, 안영회, 조영호 · [스프링캠프 2025](../events/2025-springcamp.md) · 54분
@@ -66,6 +70,8 @@
 - [주니어로 살아남기 :회사에서 스스로 커리어를 쌓는 방법](https://www.youtube.com/watch?v=fNmj7KW041c) · 정수경 · [데이터야놀자 2025](../events/2025-datayanolja.md) · 25분
 - [9년차 데이터 분석가가 말아주는초기 스타트업 적응기](https://www.youtube.com/watch?v=6Tqz4eYgiAU) · 임광빈 · [데이터야놀자 2025](../events/2025-datayanolja.md) · 24분
 - [요즘 학부생들은어떻게 데싸 공부를 할까?](https://www.youtube.com/watch?v=atLGGMZmpcM) · 신재우 · [데이터야놀자 2025](../events/2025-datayanolja.md) · 26분
+- [고객을 사로잡는 사용자 가이드 쓰기](https://www.youtube.com/watch?v=66pwwL5JO4A) · 유영경 (우아한형제들) · [구름 COMMIT · 고객을 사로잡는 사용자 가이드 쓰기](../events/2025-goorm-commit-0319.md) · 59분
+- [시니어 개발자와 주니어 개발자는 어떻게 다를까](https://www.youtube.com/watch?v=xkbJ44EZUgk) · 박서진 (토스) · [구름 COMMIT · 시니어 개발자와 주니어 개발자는 어떻게 다를까](../events/2025-goorm-commit-0122.md) · 40분
 - [기술 주의자 v 논리 주의자 (개정 2판)](https://www.youtube.com/watch?v=YZhXUezWgEk) · 김상현 · [.NET Conf 2025 x Seoul](../events/2025-dotnetconf.md) · 41분
 
 ## 2024년
@@ -75,7 +81,8 @@
 - [다오랩, 미래 조직을 실험하다](https://www.youtube.com/watch?v=HUTz7gg5uQc) · 한재선 (LTGLAB \| DAO LAB) · [모두콘 2024](../events/2024-moducon.md) · 36분
 - [실패해도 괜찮아 LAB: 연구, 도전, 그리고 그 과정의 이야기](https://www.youtube.com/watch?v=WDMhASulZMI) · 김성록, 임주왕 · [모두콘 2024](../events/2024-moducon.md) · 30분
 - [혼자 인공지능 공부하니? 난 함께 배워!](https://www.youtube.com/watch?v=at8kEvcAU_k) · 김준희, 황현정, 전욱표(네이버 커넥트재단), 심준선(모두의연구소) · [모두콘 2024](../events/2024-moducon.md) · 41분
-- [새로운 회사와 프로젝트에 빠르게 적응하는 방법](https://www.youtube.com/watch?v=mpFV2dk0Ywk) · 이태현(Jake) · [Let'Swift 2024](../events/2024-letswift.md) · 40분
+- [사수가 없는 저는 어떻게 학습하고 성장하나요?](https://www.youtube.com/watch?v=7n6XGq2zVgc) · [MeetLab 2024](../events/2024-meetlab.md) · 31분
+- [새로운 회사와 프로젝트에 빠르게 적응하는 방법](https://www.youtube.com/watch?v=mpFV2dk0Ywk) · 이태현(Jake) · [Let'Swift 2024](../events/2024-letswift.md) · 40분
 - [당신을 오픈소스 세계로 초대합니다](https://www.youtube.com/watch?v=b5r9G8BDABk) · [삼성 개발자 콘퍼런스 코리아 2024](../events/2024-sdc-korea.md) · 22분
 - [공간에 담긴 네이버의 문화 (부제 : 1784를 중심으로)](https://www.youtube.com/watch?v=V6m9NaZq8Rk) · [팀네이버 컨퍼런스 DAN 24](../events/2024-dan.md) · 47분
 - [OKR과 프로젝트의 연결고리: 과제 관리의 새로운 판을 짜다](https://www.youtube.com/watch?v=WWa12L47Hg0) · [우아콘 2024](../events/2024-woowacon.md) · 29분
@@ -86,17 +93,25 @@
 - [우리 팀의 개발 문화(이그나이트)](https://www.youtube.com/watch?v=EYs_edYyKJc) · [우아콘 2024](../events/2024-woowacon.md) · 24분
 - [퇴근 후 개발자(이그나이트)](https://www.youtube.com/watch?v=pZX75fzaggU) · [우아콘 2024](../events/2024-woowacon.md) · 19분
 - [파이콘 한국 2024 무엇이든 물어보세요! \| PyCon Korea 2024 Q&A](https://www.youtube.com/watch?v=6FoOfBHp7pc) · [파이콘 한국 2024](../events/2024-pycon.md) · 51분
-- [\[Keynote\] 파이콘과 나의 10년 돌아보기](https://www.youtube.com/watch?v=swDt6EYw5AU) · 김준기 · [파이콘 한국 2024](../events/2024-pycon.md) · 34분
-- [\[Keynote\] 커뮤니티와 파이썬, 그리고 우리](https://www.youtube.com/watch?v=Ts2kWg7dmE8) · 이준범 · [파이콘 한국 2024](../events/2024-pycon.md) · 26분
+- [\[Keynote\] 파이콘과 나의 10년 돌아보기](https://www.youtube.com/watch?v=swDt6EYw5AU) · 김준기 · [파이콘 한국 2024](../events/2024-pycon.md) · 34분
+- [\[Keynote\] 커뮤니티와 파이썬, 그리고 우리](https://www.youtube.com/watch?v=Ts2kWg7dmE8) · 이준범 · [파이콘 한국 2024](../events/2024-pycon.md) · 26분
 - [\[Keynote\] Python과 PyCon과 공룡시대와 닭들의 행성](https://www.youtube.com/watch?v=bGOghkY_a7Q) · 신정규 · [파이콘 한국 2024](../events/2024-pycon.md) · 28분
 - [\[Keynote\] 파이썬, 기술에서 커뮤니티와 인간으로](https://www.youtube.com/watch?v=or-VFMgWBMw) · 배권한 · [파이콘 한국 2024](../events/2024-pycon.md) · 34분
-- [저는 파이썬을 가르치는 초등교사입니다.](https://www.youtube.com/watch?v=kKebMNF_o8s) · 고학능 · [파이콘 한국 2024](../events/2024-pycon.md) · 18분
+- [저는 파이썬을 가르치는 초등교사입니다.](https://www.youtube.com/watch?v=kKebMNF_o8s) · 고학능 · [파이콘 한국 2024](../events/2024-pycon.md) · 18분
 - [수학수업, 학급경영 쏠쏠한 Python 체험기](https://www.youtube.com/watch?v=L2Gmc_2TxyM) · 차민경 / cha, min gyung · [파이콘 한국 2024](../events/2024-pycon.md) · 30분
-- [오픈소스 프로젝트 - 코드 0줄부터 스타 1.7k까지](https://www.youtube.com/watch?v=xnYFgCvyff4) · 김동규 · [파이콘 한국 2024](../events/2024-pycon.md) · 29분
+- [오픈소스 프로젝트 - 코드 0줄부터 스타 1.7k까지](https://www.youtube.com/watch?v=xnYFgCvyff4) · 김동규 · [파이콘 한국 2024](../events/2024-pycon.md) · 29분
+- [잡코리아의 영업 관리 시스템과 조직 문화 모더나이제이션 여정](https://www.youtube.com/watch?v=uklmgeERMBk) · [AWS Innovate 2024](../events/2024-aws-innovate.md) · 28분
 - [속이 뻥뚫리는 개비스콘 : 개발바닥과 함께하는 비밀스러운 토크 콘서트](https://www.youtube.com/watch?v=uAz1ga4F38Q) · 향로,호돌맨 · [판교 퇴근길 밋업 - 가을 특집 with 개발바닥](../events/2024-pangyo-meetup-autumn.md) · 49분
+- [비즈니스 마인드를 가진 개발자가 되는 방법](https://www.youtube.com/watch?v=NCZ2tpa8kiY) · 문동욱 (토스) · [구름 COMMIT · 비즈니스 마인드를 가진 개발자가 되는 방법](../events/2024-goorm-commit-0925.md) · 1시간 4분
 - [Dear Future CTO](https://www.youtube.com/watch?v=5KWWwsYEOyo) · [SLASH 24](../events/2024-slash.md) · 49분
 - [빠르게 성장하고 싶은 주니어 개발자를 위한 소프트 스킬 5가지](https://www.youtube.com/watch?v=JyAiWo4ghVg) · [SLASH 24](../events/2024-slash.md) · 38분
 - [함께하는 오픈소스 기여 - 100명의 개발자 분들을 도와 100개 넘는 오픈소스 PR을 만들고 세상을 함께 바꿔가는 이야기](https://www.youtube.com/watch?v=wGaq8bwQEU0) · 김인제 · [판교 퇴근길 밋업 with 인프런 #07 오픈소스](../events/2024-pangyo-meetup-07.md) · 30분
+- [Track 1. LEARN 입문 필수 강의](https://www.youtube.com/watch?v=AjveUb8DbzI) · [SEF2024 Software Edu Fest](../events/2024-sef.md) · 1시간 50분
+- [Track 2. GROW 현업 스토리](https://www.youtube.com/watch?v=SoIp8tKrKgo) · [SEF2024 Software Edu Fest](../events/2024-sef.md) · 1시간 18분
+- [OpenAI SORA, 인간은 이제 뭘 하죠?](https://www.youtube.com/watch?v=A2n0UCH2s5Y) · 박경흠(오목교전자상가 PD) · [SEF2024 Software Edu Fest](../events/2024-sef.md) · 30분
+- [매일의 작은 도전이 만드는 큰 도약](https://www.youtube.com/watch?v=dd521fc6hO0) · 박조은(오늘코드 대표) · [SEF2024 Software Edu Fest](../events/2024-sef.md) · 27분
+- [비즈니스하는 개발자](https://www.youtube.com/watch?v=173WJ6depMY) · 조은(쿠팡 프론트엔드 엔지니어) · [SEF2024 Software Edu Fest](../events/2024-sef.md) · 20분
+- [이 영상 뒤에 붙은 유튜브 광고를 믿지 마세요](https://www.youtube.com/watch?v=M3W03IpyQLY) · 김덕진(IT커뮤니케이션 연구소 소장) · [SEF2024 Software Edu Fest](../events/2024-sef.md) · 34분
 - [실리콘밸리 개발 문화 및 서바이벌 전략](https://www.youtube.com/watch?v=3oFul4Ntw0c) · [인프콘 2024](../events/2024-infcon.md) · 26분
 - [경력이 늘수록 CS이론이 중요해지는 이유](https://www.youtube.com/watch?v=SVXWwRavAw0) · [인프콘 2024](../events/2024-infcon.md) · 40분
 - [10년 동안의 실패 이야기: 실패를 의미있는 일로 탈바꿈하는 가장 쉬운 방법](https://www.youtube.com/watch?v=nqrvHOp0gWk) · [인프콘 2024](../events/2024-infcon.md) · 38분
@@ -107,17 +122,78 @@
 - [기술 서적 집필은 처음이라: 주니어 엔지니어의 기술 공유를 통한 성장 이야기](https://www.youtube.com/watch?v=AROjxhKfv-A) · [인프콘 2024](../events/2024-infcon.md) · 19분
 - [사이드 프로젝트로 커리어 레벨업!](https://www.youtube.com/watch?v=nzH1yXXQHXg) · [인프콘 2024](../events/2024-infcon.md) · 19분
 - [컴퓨터 밑바닥에서 찾는 개발자 성장의 비밀](https://www.youtube.com/watch?v=YYu-MGHMBCM) · [인프콘 2024](../events/2024-infcon.md) · 1시간 6분
+- [함께 일하고 싶은 개발자 되기](https://www.youtube.com/watch?v=LUz2u9Bikr8) · 서준수 (우아한형제들) · [구름 COMMIT · 함께 일하고 싶은 개발자 되기](../events/2024-goorm-commit-0717.md) · 48분
 - [성공적인 사이드 프로젝트를 위한 팀 빌딩과 문제 해결 가이드](https://www.youtube.com/watch?v=hlmxJklNtJA) · 유용태 · [판교 퇴근길 밋업 with 인프런 #04 사이드 프로젝트](../events/2024-pangyo-meetup-04.md) · 1시간 10분
+- [글로벌 개발자로 성장하는 법](https://www.youtube.com/watch?v=Nb2RnQzxu4I) · [6월 우아한테크세미나 · 글로벌 개발자로 성장하는 법](../events/2024-woowa-seminar-06.md) · 1시간 37분
 - [시니어와 주니어의 협업 다리: 온라인 및 오프라인 페어코딩의 통찰](https://www.youtube.com/watch?v=wlRz2pCbXno) · 정동진, 최재웅 · [DroidKnights 2024](../events/2024-droidknights.md) · 44분
 - [DORA와 Amazon Bedrock을 이용한 업무 문화 혁신 사례](https://www.youtube.com/watch?v=nRfu5TMALOQ) · [AWS Summit Seoul 2024](../events/2024-aws-summit.md) · 39분
+- [교육정책의 이해와 에듀테크 산업 생태계 구축방향](https://www.youtube.com/watch?v=fA-otT64O_U) · 김진숙 원장 (경기도교육연구원) · [kt cloud : summit 2024](../events/2024-kt-cloud-summit.md) · 21분
+- [글로벌 개발자로 성장하는 소프트웨어 실무 영어](https://www.youtube.com/watch?v=fBlf_vml5w4) · [2월 우아한테크세미나 · 글로벌 개발자로 성장하는 소프트웨어 실무 영어](../events/2024-woowa-seminar-02.md) · 1시간 34분
+- [시야가 넓은 개발자는 무엇이 다를까](https://www.youtube.com/watch?v=NLSzp1Y-qLU) · 김영재 (LINE) · [구름 COMMIT · 시야가 넓은 개발자는 무엇이 다를까](../events/2024-goorm-commit-0214.md) · 1시간 2분
+- [클라우드 경력 개발을 위한 AWS 자격증 꿀팁: 2024년 업데이트](https://www.youtube.com/watch?v=4zwxC9D72YE) · [AWS Builders 온라인 시리즈 2024](../events/2024-aws-builders-online.md) · 30분
 
 ## 2023년
 
+- [소프트웨어 장인 정신, 우리가 함께 성장하는 방법](https://www.youtube.com/watch?v=Gn-ycbEdxSA) · 류석문 (쏘카 CTO) · [구름 COMMIT · 소프트웨어 장인 정신, 우리가 함께 성장하는 방법](../events/2023-goorm-commit-1220.md) · 54분
+- [그것이 알고 싶다. '안전한 퇴직 절차'](https://www.youtube.com/watch?v=o2bdEtrDO58) · 조현주 · [11STREET TECH TALK 2023](../events/2023-11st-techtalk.md) · 18분
+- [어느 날 연구실을 차려버렸다.](https://www.youtube.com/watch?v=iXkcdOckOJc) · 이수정(가톨릭대학교 의과대학 의료정보학교실) · [모두콘 2023](../events/2023-moducon.md) · 24분
+- [모두연 DAO 만들기: 커뮤니티에서 자율적 조직으로](https://www.youtube.com/watch?v=2v10Wyfx4zk) · 한재선(LTGLAB) · [모두콘 2023](../events/2023-moducon.md) · 40분
+- [우리 삶에 빠져들고 스며든다](https://www.youtube.com/watch?v=Ff5BPAceTpw) · 어비(크리에이터, 히든 브레인 연구소 소장, IT전문 방송인) · [모두콘 2023](../events/2023-moducon.md) · 36분
+- [OOO, 리더처럼 일하기](https://www.youtube.com/watch?v=cXDRrnZmZyk) · 조연(GrandeClip) · [모두콘 2023](../events/2023-moducon.md) · 25분
+- [이노베이션 아카데미 성과공유 컨퍼런스](https://www.youtube.com/watch?v=TmVEQyRo_Bc) · [INNO-CON 2023 · 이노베이션아카데미 성과 공유 컨퍼런스](../events/2023-inno-con.md) · 2시간 46분
 - [내 맘처럼 안되는 사이드 프로젝트 제대로 해보기](https://www.youtube.com/watch?v=-ATPFJ7HRPs) · 전정민 · [인프런 퇴근길 밋업 #04 사이드프로젝트](../events/2023-inflearn-meetup-04.md) · 22분
 - [사이드 프로젝트를 지속하게 한 네 가지 동력](https://www.youtube.com/watch?v=-ZRPqqQB2MY) · 이재영 · [인프런 퇴근길 밋업 #04 사이드프로젝트](../events/2023-inflearn-meetup-04.md) · 14분
+- [기업의 AI 활용 신기루인가? 신세계인가?](https://www.youtube.com/watch?v=ZabAWmfJj9Q) · [SK TECH SUMMIT 2023](../events/2023-sk-tech-summit.md) · 25분
+- [Traditional Meets Digital : SK가 전통사업에서 Digital 인재를 육성하는 방법](https://www.youtube.com/watch?v=1fLTvGDSDVg) · [SK TECH SUMMIT 2023](../events/2023-sk-tech-summit.md) · 24분
+- [AI Project Based Learning : Why? How?](https://www.youtube.com/watch?v=F9BCzhZsbrM) · [SK TECH SUMMIT 2023](../events/2023-sk-tech-summit.md) · 22분
+- [AI를 활용한 열교환기 검사 Point 선정 모델 개발 및 현장 적용](https://www.youtube.com/watch?v=AZZhIQ2Bw2w) · [SK TECH SUMMIT 2023](../events/2023-sk-tech-summit.md) · 12분
+- [Offline 강화학습 기반 공정 제어 - CDU(crude distillation unit) Air Fan Cooler 제어 적용](https://www.youtube.com/watch?v=n0Tt_EcPYRg) · [SK TECH SUMMIT 2023](../events/2023-sk-tech-summit.md) · 21분
+- [SK AI의 숨고 : AI 경연으로 해결한 Wafer 반송 경로 최적화 사례](https://www.youtube.com/watch?v=7t2m8WQKw44) · [SK TECH SUMMIT 2023](../events/2023-sk-tech-summit.md) · 21분
+- [성공적인 디지털 전환의 터닝포인트, Digital HRD - Digital 역량 육성을 위한 전략과 실행 방안](https://www.youtube.com/watch?v=D__QYSmeflA) · [SK TECH SUMMIT 2023](../events/2023-sk-tech-summit.md) · 17분
+- [구성원을 디지털 챔피언으로 만들기: DX 역량 육성 체계 실행 사례](https://www.youtube.com/watch?v=jYww_tZ-zts) · [SK TECH SUMMIT 2023](../events/2023-sk-tech-summit.md) · 22분
+- [SK의 AI & Data 실무역량 인증 시험 'SKADA'](https://www.youtube.com/watch?v=w6Ukaej4OpI) · [SK TECH SUMMIT 2023](../events/2023-sk-tech-summit.md) · 20분
 - [나도 누군가에게 금쪽이었다!](https://www.youtube.com/watch?v=2ufJzk9f1tE) · [우아콘 2023](../events/2023-woowacon.md) · 36분
 - [심플하게, 하지만 유용하게: 우아한테크코스 프론트엔드 커리큘럼을 만들어 나가는 여정](https://www.youtube.com/watch?v=K4WvRET1V8s) · [우아콘 2023](../events/2023-woowacon.md) · 34분
 - [어느 날 시니어가 사라졌다! 주니어 5명의 일 문화 가꾸기](https://www.youtube.com/watch?v=1M2uCsfcIso) · [우아콘 2023](../events/2023-woowacon.md) · 34분
+- [SWITCH 사무국의 일하는 방식](https://www.youtube.com/watch?v=SGhebHnp7f4) · [SDC23 Korea](../events/2023-sdc-korea.md) · 33분
+- [비밀리에 개선하는 코드의 마술 : 모두가 함께한 성공적인 리팩토링 데이](https://www.youtube.com/watch?v=0llTwmWwZZA) · [SDC23 Korea](../events/2023-sdc-korea.md) · 23분
+- [삼성전자에서 오픈소스 개발자로 성장하기 : Chromium Committer 도전기](https://www.youtube.com/watch?v=At8-6nY1YYY) · [SDC23 Korea](../events/2023-sdc-korea.md) · 23분
+- [삼성, SOS를 외치다: 기술과 사람을 잇는 Companions](https://www.youtube.com/watch?v=LJTShxQEBwQ) · [SDC23 Korea](../events/2023-sdc-korea.md) · 23분
+- [오픈소스 아는 만큼 보인다! 오소리!? : 오소리는 어떻게 만들어졌는가?](https://www.youtube.com/watch?v=lrDHOAhaXoQ) · [SDC23 Korea](../events/2023-sdc-korea.md) · 19분
+- [코드 리뷰 문화를 리뷰해 봐요](https://www.youtube.com/watch?v=IO2v8A0z0pI) · [제5회 데보션(DEVOCEAN) 테크 데이](../events/2023-devocean-techday-5.md) · 27분
+- [라이트닝토크 : C++ Korea 소개](https://www.youtube.com/watch?v=1czUsjqBGaY) · [제5회 데보션(DEVOCEAN) 테크 데이](../events/2023-devocean-techday-5.md) · 6분
+- [라이트닝토크 : OPDC 소개](https://www.youtube.com/watch?v=MRx_06gT5lg) · [제5회 데보션(DEVOCEAN) 테크 데이](../events/2023-devocean-techday-5.md) · 8분
+- [커뮤니티의 참여자에서 운영진으로](https://www.youtube.com/watch?v=UkmMvFkbgOc) · [제5회 데보션(DEVOCEAN) 테크 데이](../events/2023-devocean-techday-5.md) · 23분
+- [Community-Driven Development](https://www.youtube.com/watch?v=28qond0X9yI) · [제5회 데보션(DEVOCEAN) 테크 데이](../events/2023-devocean-techday-5.md) · 26분
+- [데보션 영 과제 발표 : GREEN-DEV 프로젝트](https://www.youtube.com/watch?v=pJ8RYOsAuDk) · [제5회 데보션(DEVOCEAN) 테크 데이](../events/2023-devocean-techday-5.md) · 9분
+- [데보션 영 과제 발표 : Turtled 프로젝트](https://www.youtube.com/watch?v=zKsfbGFqK70) · [제5회 데보션(DEVOCEAN) 테크 데이](../events/2023-devocean-techday-5.md) · 8분
+- [토크콘서트](https://www.youtube.com/watch?v=QHKcndhpvwg) · [제5회 데보션(DEVOCEAN) 테크 데이](../events/2023-devocean-techday-5.md) · 37분
+- [당신은 좋은 리더인가요? 좋은답을 얻기위한 프롬프트 디자인 기술](https://www.youtube.com/watch?v=OdHWwRzokDM) · 박선우 · [ML Meetup Songdo 23](../events/2023-gdg-songdo-ml.md) · 40분
+- [부트캠프 히치하이커를 위한 피 땀 눈물](https://www.youtube.com/watch?v=6rEaiP8y7aQ) · 김영웅, 임동준 · [데이터야놀자 2023](../events/2023-datayanolja.md) · 31분
+- [글 쓰는 우아한 개발자 1부: 요즘 우아한 개발](https://www.youtube.com/watch?v=BQ5rRLwa1fg) · [우아한테크세미나 · 글 쓰는 우아한 개발자](../events/2023-woowa-seminar-writing.md) · 43분
+- [글 쓰는 우아한 개발자 2부: 우아한 타입스크립트 with 리액트](https://www.youtube.com/watch?v=nQgwlyBrxDs) · [우아한테크세미나 · 글 쓰는 우아한 개발자](../events/2023-woowa-seminar-writing.md) · 50분
+- [하드웨어 개발 회사에서 소프트웨어 엔지니어가 하는 일](https://www.youtube.com/watch?v=_rD3wyjBQyw) · 김솔(FuriosaAI) · [lab \| up &gt; /conf/3](../events/2023-lablup-conf.md) · 27분
+- [기획자없이 문어고양이와 살아가는 개발자들의 협업 방식](https://www.youtube.com/watch?v=uU02aulTHR8) · 강시온 · [lab \| up &gt; /conf/3](../events/2023-lablup-conf.md) · 10분
+- [기획자없이 문어고양이와 살아가는 개발자들의 협업 방식](https://www.youtube.com/watch?v=7E1XVk5YoXc) · 강지현 · [lab \| up &gt; /conf/3](../events/2023-lablup-conf.md) · 19분
+- [백엔드 개발자에서 데이터와 AI교육을 하게 되기까지](https://www.youtube.com/watch?v=P2oic4p0gRo) · 박조은(오늘코드) · [lab \| up &gt; /conf/3](../events/2023-lablup-conf.md) · 28분
+- [Backend.AI 엔터프라이즈 고객 지원 가나다](https://www.youtube.com/watch?v=QV-_fW_3OUI) · 박종현(Lablup) · [lab \| up &gt; /conf/3](../events/2023-lablup-conf.md) · 27분
+- [경제학과 출신, 네이버 로봇 자율주행 개발자 되다](https://www.youtube.com/watch?v=gqqt6hiPero) · 김건우 (네이버랩스 로봇 자율주행 개발자) · [SEF2023 Software Edu Fest](../events/2023-sef.md) · 19분
+- [110만 명 유저 진저호텔을 만든 대학생 5인의 정체는?](https://www.youtube.com/watch?v=6JB6bsaMNXs) · 진저호텔팀 · [SEF2023 Software Edu Fest](../events/2023-sef.md) · 25분
+- [전직 영어 교사의 100만 명 코딩 학습 사이트 창업기](https://www.youtube.com/watch?v=wwQ-ReOV2ss) · Quincy Larson (freeCodeCamp 창립자) · [SEF2023 Software Edu Fest](../events/2023-sef.md) · 19분
+- [닫힌 기술을 여는 예술 : 기술 장벽 허물기](https://www.youtube.com/watch?v=u0E4K_MqKK0) · 전유진 (여성을 위한 열린 기술랩 대표) · [SEF2023 Software Edu Fest](../events/2023-sef.md) · 15분
+- [빌 게이츠가 극찬한 미국 칸 아카데미의 GPT](https://www.youtube.com/watch?v=AjIidd7wiAc) · Shawn Jansepar (Khan Academy 엔지니어 디렉터) · [SEF2023 Software Edu Fest](../events/2023-sef.md) · 23분
+- [교수님이 직접 들려주는 ChatGPT로 A+ 받는 법](https://www.youtube.com/watch?v=FBwshQlCfIk) · 마동훈 (고려대학교 미디어학부 교수) · [SEF2023 Software Edu Fest](../events/2023-sef.md) · 26분
+- [멘티에서 멘토가 되는 개발자 문화](https://www.youtube.com/watch?v=tJzRa-IB524) · 이유진 (SSG.COM) 조영도 (카카오엔터프라이즈) · [SEF2023 Software Edu Fest](../events/2023-sef.md) · 17분
+- [2곳 중 1곳은 무조건 합격하는 개발자 이력서 만들기](https://www.youtube.com/watch?v=ifGUz43GjdQ) · [인프콘 2023](../events/2023-infcon.md) · 35분
+- [어느 날 고민 많은 주니어 개발자가 찾아왔다 2탄: 주니어 시절 성장과 고민들](https://www.youtube.com/watch?v=cePPOjCU7f4) · [인프콘 2023](../events/2023-infcon.md) · 50분
+- [왜 내가 만든 서비스는 아무도 안 쓰지?: 개발자가 알아두면 좋은 사이드 프로젝트 제작 팁](https://www.youtube.com/watch?v=tq3iBWuSzj4) · [인프콘 2023](../events/2023-infcon.md) · 22분
+- [커뮤니케이션 잘하는 개발자의 4가지 습관](https://www.youtube.com/watch?v=l33-y7NmszE) · [인프콘 2023](../events/2023-infcon.md) · 21분
+- [변별력을 200% 더 높인 개발자 채용 방법: 코드 리뷰 테스트](https://www.youtube.com/watch?v=JEJmDSSwkfU) · [인프콘 2023](../events/2023-infcon.md) · 18분
+- [왜 구글 시니어 개발자는 코딩을 안할까?](https://www.youtube.com/watch?v=3j_yKelM2-A) · [인프콘 2023](../events/2023-infcon.md) · 19분
+- [지속 가능한 소프트웨어 개발을 위한 경험과 통찰](https://www.youtube.com/watch?v=ouE2fYUgYLc) · [인프콘 2023](../events/2023-infcon.md) · 39분
+- [시니어 개발자 너머의 성장: 대규모 조직을 위한 스태프 엔지니어(Staff Engineer)](https://www.youtube.com/watch?v=45gUmX4EGsw) · [인프콘 2023](../events/2023-infcon.md) · 32분
+- [출시 3일만에 앱스토어 2위를 달성한 사이드 프로젝트](https://www.youtube.com/watch?v=pwgVHaBpD3Y) · [인프콘 2023](../events/2023-infcon.md) · 35분
+- [팀플레이어 101: 팀의 성공을 위해 달리는 메이커 되기](https://www.youtube.com/watch?v=ZYKcD2gKlvg) · [인프콘 2023](../events/2023-infcon.md) · 19분
 - [Django 컨트리뷰터가 되기까지의 여정](https://www.youtube.com/watch?v=tPFQmAO42uM) · 윤준기 · [파이콘 한국 2023](../events/2023-pycon.md) · 17분
 - [파이썬을 처음 사용하는 동료와 효율적으로 일하는 방법](https://www.youtube.com/watch?v=RgMCqc-VPL4) · 이태현 · [파이콘 한국 2023](../events/2023-pycon.md) · 40분
 - [오픈소스와 함께 성장하기Feat Django](https://www.youtube.com/watch?v=gBjWgCXL4mA) · 배두식 · [파이콘 한국 2023](../events/2023-pycon.md) · 16분
@@ -125,21 +201,117 @@
 - [애자일로 개발하면 빨리 끝난다던데?](https://www.youtube.com/watch?v=4nS-IuTBKrQ) · 김지훈, Jazz · [kakao tech meet 제2회](../events/2023-kakao-tech-meet-2.md) · 27분
 - [CNCF 및 Kubernetes 컨트리뷰션, 지금 여기서 시작하세요!](https://www.youtube.com/watch?v=fXiVF15Uu_0) · 손석호 · [KCD Korea 2023](../events/2023-kcd.md) · 33분
 - [OKKY 6월 세미나 · How To Work In Socar](https://www.youtube.com/watch?v=LQj9v57zuaw) · [OKKY 6월 세미나 · How To Work In Socar](../events/2023-okky-seminar-06.md) · 1시간 32분
+- [구글 엔지니어는 이렇게 일한다](https://www.youtube.com/watch?v=a-_zk80Dzng) · 이복연 · [구름 COMMIT · 구글 엔지니어는 이렇게 일한다](../events/2023-goorm-commit-0621.md) · 1시간 38분
 - [LIVE Q&A : 토스 개발 문화에 대한 오해와 진실](https://www.youtube.com/watch?v=Tx9sW-Hvjv8) · [SLASH 23](../events/2023-slash.md) · 47분
 - [라운드테이블 : 토스 시니어 개발자가 말하는 커리어 패스](https://www.youtube.com/watch?v=Y96tr9SVNy8) · [SLASH 23](../events/2023-slash.md) · 22분
+- [우아한 테크리더 4인의 "공감 토크쇼"](https://www.youtube.com/watch?v=vga0PZK6AvI) · [우아한테크세미나 · 우아한 테크리더 4인의 "공감 토크쇼"](../events/2023-woowa-seminar-talkshow.md) · 1시간 31분
+- [개발자 커리어 성장 MAX](https://www.youtube.com/watch?v=TX90FbSasT4) · 한기용 · [프로그래머스 데이터 엔지니어링 컨퍼런스 2회](../events/2023-programmers-de-conference-2.md) · 12분
+- [스시의 슬기로운데엔 생활](https://www.youtube.com/watch?v=qUYUZ1avloo) · 김학진 · [프로그래머스 데이터 엔지니어링 컨퍼런스 2회](../events/2023-programmers-de-conference-2.md) · 20분
+- [데이터엔지니어 이직기](https://www.youtube.com/watch?v=DbwBDiWxnEk) · 이경민 · [프로그래머스 데이터 엔지니어링 컨퍼런스 2회](../events/2023-programmers-de-conference-2.md) · 20분
+- [\[Training & Certificate\] 고급 기술 인력이 되기 위한 패스트트랙! AWS 전문 강사 강의와 실습 경험하기](https://www.youtube.com/watch?v=XlnVG2Qkb90) · [AWS Startup Week 2023](../events/2023-aws-startup-week.md) · 20분
+- [기술 부채를 바라보는 다른 시각](https://www.youtube.com/watch?v=uL6gN6zfY-c) · 양수열 · [구름 COMMIT · 기술 부채를 바라보는 다른 시각](../events/2023-goorm-commit-0308.md) · 49분
+- [테크 리더 3인이 말하는 "개발자 원칙"](https://www.youtube.com/watch?v=DJCmvzhFVOI) · [우아한테크세미나 · 테크 리더 3인이 말하는 "개발자 원칙"](../events/2023-woowa-seminar-principle.md) · 2시간 17분
+- [성공적으로 신기술을 도입하는 법](https://www.youtube.com/watch?v=oHlH6aIpO4I) · 김충섭 (Purple IO CTO) · [구름 COMMIT · 성공적으로 신기술을 도입하는 법](../events/2023-goorm-commit-0215.md) · 49분
+- [클라우드 경력 개발을 위한 AWS 자격증 취득 노하우](https://www.youtube.com/watch?v=9f3tAyy08fg) · [AWS Builders 온라인 시리즈 2023](../events/2023-aws-builders-online.md) · 28분
 
 ## 2022년
 
+- [홀로 성장하는 시대는 끝났다](https://www.youtube.com/watch?v=pYMXE23OlxQ) · 이소영(마이크로소프트) · [모두콘 2022](../events/2022-moducon.md) · 15분
+- [지속가능한 AI 커뮤니티를 위한 여정](https://www.youtube.com/watch?v=Zpe0nHjHheE) · 이성배(deep daiv.) · [모두콘 2022](../events/2022-moducon.md) · 18분
+- [커뮤니티가 뭐라고 생각하세요?](https://www.youtube.com/watch?v=0nyUGIUeiww) · 유현아, 윤화영(위민후코드 서울) · [모두콘 2022](../events/2022-moducon.md) · 18분
+- [저는 C++ 유저가 아닙니다! 다만..](https://www.youtube.com/watch?v=RthRSwUeLCc) · 김두훈(C++코리아) · [모두콘 2022](../events/2022-moducon.md) · 21분
+- [커뮤니티 활성화에 기여한 방구석 코더](https://www.youtube.com/watch?v=QfM5wiFDjMg) · 박찬성(GDE, TensorFlow KR) · [모두콘 2022](../events/2022-moducon.md) · 21분
+- [당신 개발자 맞아?](https://www.youtube.com/watch?v=BNHYPXrE9tk) · 최정인, 장혜선(스마트사운드) · [모두콘 2022](../events/2022-moducon.md) · 14분
+- [모두를 위한, 모두에 의한 파이토치 사용자 모임](https://www.youtube.com/watch?v=UmDpJySCU-w) · 박정환(파이토치한국사용자모임) · [모두콘 2022](../events/2022-moducon.md) · 26분
+- [커뮤니티는 세상을 바꿀 수 있을까? Beyond AI, By Community](https://www.youtube.com/watch?v=k28iWCX-Qpo) · 김승일(모두의연구소) · [모두콘 2022](../events/2022-moducon.md) · 31분
+- [AI프렌즈가 꿈꾸는 학회플랫폼](https://www.youtube.com/watch?v=aAGk0U1dXNY) · 유용균(AI프렌즈) · [모두콘 2022](../events/2022-moducon.md) · 26분
+- [육아에서 배우는 데이터 유튜브 채널의 소통 방정식](https://www.youtube.com/watch?v=T8o5SmLAGBk) · 박찬엽(데이터홀릭) · [모두콘 2022](../events/2022-moducon.md) · 27분
+- [6만과 TF를 넘어선 Community Everywhere](https://www.youtube.com/watch?v=NVLuFeSeXF0) · 김경선(TensorFlow KR) · [모두콘 2022](../events/2022-moducon.md) · 16분
+- [Beyond Korea(Company for Global)](https://www.youtube.com/watch?v=2qCY-ca2JBk) · [if(kakao)dev2022](../events/2022-ifkakao.md) · 8분
+- [카카오픽코마는 글로벌 서비스를 어떻게 만들어가는가](https://www.youtube.com/watch?v=wG5fxNYHuLc) · [if(kakao)dev2022](../events/2022-ifkakao.md) · 21분
+- [Technical Writing: 글로 하는 의사소통](https://www.youtube.com/watch?v=Lg3zZzraWZI) · [if(kakao)dev2022](../events/2022-ifkakao.md) · 16분
+- [10분 만에 확인하는 선물하기 서비스 품질](https://www.youtube.com/watch?v=6awdItDTnVE) · [if(kakao)dev2022](../events/2022-ifkakao.md) · 17분
+- [오픈소스 더 똑똑하게 관리하자: OLIVE Platform's Next Level](https://www.youtube.com/watch?v=4zi8fG3itvc) · [if(kakao)dev2022](../events/2022-ifkakao.md) · 12분
+- [1일차](https://www.youtube.com/watch?v=URFO7xm-Xe8) · [INNO-CON 2022 · 이노베이션아카데미 성과 공유 컨퍼런스](../events/2022-inno-con.md) · 6시간 26분
+- [2일차](https://www.youtube.com/watch?v=Nrxq_QVdV80) · [INNO-CON 2022 · 이노베이션아카데미 성과 공유 컨퍼런스](../events/2022-inno-con.md) · 5시간 59분
+- [모두의 성장을 위한 서비스 만들기: solved.ac 개발 경험을 토대로](https://www.youtube.com/watch?v=ggD9ry05axw) · 박수현/solved.ac · [프로그래머스 온라인 컨퍼런스 1st](../events/2022-programmers-conference.md) · 42분
+- [실리콘밸리 적응기](https://www.youtube.com/watch?v=Q9UeYf6Y0B0) · 정승우/Moloco, 차민준/Chartmetric · [프로그래머스 온라인 컨퍼런스 1st](../events/2022-programmers-conference.md) · 51분
+- [후원사 Agora.io 소개 및 쉬는시간 스피드 퀴즈 🎮](https://www.youtube.com/watch?v=Iy_KoCzLRtE) · [프로그래머스 온라인 컨퍼런스 1st](../events/2022-programmers-conference.md) · 52분
+- [커뮤니티가 우리의 성장에 미치는 영향 연구 보고서](https://www.youtube.com/watch?v=wTV4cASVtoY) · 현지환/메가존클라우드 · [프로그래머스 온라인 컨퍼런스 1st](../events/2022-programmers-conference.md) · 42분
+- [패널톡: 부트캠프 교육자 썰전](https://www.youtube.com/watch?v=A7o0w76aqNI) · 구일모, 박은종, 김정, 박재성 · [프로그래머스 온라인 컨퍼런스 1st](../events/2022-programmers-conference.md) · 1시간 9분
+- [커뮤니티로 개인 브랜드 만들기](https://www.youtube.com/watch?v=M5qxhqzo_1U) · 이승민/GDE Android · [프로그래머스 온라인 컨퍼런스 1st](../events/2022-programmers-conference.md) · 39분
+- [일하는 방식의 변화, 우리가 재택근무 하는 방법(Dooray!는 월 2회 출근하고 있어요!)](https://www.youtube.com/watch?v=37nKoOYYfmY) · [NHN FORWARD 22](../events/2022-nhn-forward.md) · 39분
+- [야후에서는 개발의 신속성과 품질의 균형을 어떻게 맞추고 있는가?](https://www.youtube.com/watch?v=cyN8gft_w7A) · [Tech-Verse 2022 한국어판](../events/2022-tech-verse.md) · 40분
+- [회사를 넘어선 '알고자 하는 마음': 합동 연구회의 매력과 난관](https://www.youtube.com/watch?v=vwtzurCXDVQ) · [Tech-Verse 2022 한국어판](../events/2022-tech-verse.md) · 43분
+- [LINE 미니 앱: 5개국 10개 이상의 팀이 공통 목표를 향해](https://www.youtube.com/watch?v=ws79ySHKqFA) · [Tech-Verse 2022 한국어판](../events/2022-tech-verse.md) · 34분
+- [팀의 협력 관계를 강화하는 스크럼 활용 방법](https://www.youtube.com/watch?v=TAFbzEVqhnw) · [Tech-Verse 2022 한국어판](../events/2022-tech-verse.md) · 41분
+- [Yahoo! JAPAN 메인 페이지의 Kanban과 XP의 운용 및 정량적 가시화](https://www.youtube.com/watch?v=oU0TiEMNpcg) · [Tech-Verse 2022 한국어판](../events/2022-tech-verse.md) · 41분
+- [엔지니어링 조직의 점진적이고 지속적인 프로세스 개선](https://www.youtube.com/watch?v=3wtQrM-QPDo) · [Tech-Verse 2022 한국어판](../events/2022-tech-verse.md) · 34분
+- [성장 : 개발자들의 평생 과제](https://www.youtube.com/watch?v=_tGB0shK2S0) · 김승호 (당근마켓 SRE) · [구름 COMMIT · 성장 : 개발자들의 평생 과제](../events/2022-goorm-commit-1116.md) · 1시간 9분
+- [채용 설명회](https://www.youtube.com/watch?v=btDNwz5_89w) · 현대오토에버 · [제2회 HMG Developer Conference](../events/2022-hmg-devcon.md) · 35분
+- [채용 설명회](https://www.youtube.com/watch?v=h_-OXyyQHYQ) · 현대차·기아 본사 · [제2회 HMG Developer Conference](../events/2022-hmg-devcon.md) · 37분
+- [채용 설명회](https://www.youtube.com/watch?v=ipWyze17JJU) · 현대차·기아 연구개발본부 · [제2회 HMG Developer Conference](../events/2022-hmg-devcon.md) · 40분
+- [\[Keynote\] 삼성 S W 개발문화 혁신활동 소개](https://www.youtube.com/watch?v=gOgXNiHtPMQ) · [Samsung Software Developer Conference 2022](../events/2022-ssdc.md) · 29분
+- [코딩은 사랑을 싣고](https://www.youtube.com/watch?v=F2uJHTPHda4) · [Samsung Software Developer Conference 2022](../events/2022-ssdc.md) · 23분
+- [성장하는 소프트웨어의 동반자, SOS Companions](https://www.youtube.com/watch?v=nqRjE1eY5YE) · [Samsung Software Developer Conference 2022](../events/2022-ssdc.md) · 22분
+- [(전)개발자의 취미생활을 위한 사이드 프로젝트 시작하는 법](https://www.youtube.com/watch?v=KkdRe2gwJUA) · [Samsung Software Developer Conference 2022](../events/2022-ssdc.md) · 32분
+- [공유와 경쟁의 갈등 속에서 오픈소스 'ONE'과 'SASM'을 배우다](https://www.youtube.com/watch?v=pi-eNlALYU0) · [Samsung Software Developer Conference 2022](../events/2022-ssdc.md) · 21분
+- [DevRel 그리고 기술 커뮤니티를 위한 플랫폼 개발 여정](https://www.youtube.com/watch?v=T4tUbwMJJaA) · [SK TECH SUMMIT 2022](../events/2022-sk-tech-summit.md) · 27분
+- [함수형 개발자로 성장하기](https://www.youtube.com/watch?v=VXqiLvf_uWw) · [Dev Dive 2022 - 함수형 개발자로 성장하기](../events/2022-dev-dive.md) · 18분
+- [\[패널토크\] 어떻게 함께 개발문화를 만들어갈 수 있을까요?](https://www.youtube.com/watch?v=-oFQNnylfEU) · 김민태 & 웹프론트개발그룹 운영진 · [우아콘 2022](../events/2022-woowacon.md) · 53분
+- [개발자, 교육자가 되기로 결심하다?! : 가르칠 수 있는 용기를 갖기 위한 성장기](https://www.youtube.com/watch?v=W-GTvfQCPbE) · [우아콘 2022](../events/2022-woowacon.md) · 34분
+- [우아한형제들 X 딜리버리 히어로 센트럴 팀의 협업 프로젝트 경험](https://www.youtube.com/watch?v=mU_SdQS9vWU) · [우아콘 2022](../events/2022-woowacon.md) · 37분
+- [\[패널토크\] 우아한 개발자의 성장을 위해!](https://www.youtube.com/watch?v=Uhp5-LsKsjM) · Tech HR실 · [우아콘 2022](../events/2022-woowacon.md) · 40분
+- [공돌이 농담 "수업시간에 컴퓨터에 대해서 배웠는데 알고보니...](https://www.youtube.com/watch?v=NBJCi6bWe_M) · 이건호 Enuma CTO · [2022 프로그래머스 SILLY TALK](../events/2022-programmers-silly-talk.md) · 44분
+- [한기용 그렙 USA CTO의 “풀타임으로 일했던 12개의 회사썰 모음ZIP”](https://www.youtube.com/watch?v=Is2EfBruplI) · [2022 프로그래머스 SILLY TALK](../events/2022-programmers-silly-talk.md) · 51분
+- [이야기 “오픈소스 쓰세요. 처음부터 새로 만들지 마세요](https://www.youtube.com/watch?v=dfOFvl5crCI) · 이승준 애플 데이터 오퍼레이션 엔지니어 · [2022 프로그래머스 SILLY TALK](../events/2022-programmers-silly-talk.md) · 40분
 - [기술 커뮤니티의 가치와 Developer Relations](https://www.youtube.com/watch?v=jY-HAJlfxSY) · [기술 커뮤니티의 가치와 Developer Relations](../events/2022-woowa-seminar-09.md) · 2시간 8분
+- [초격차시대, 교육에도 변화가 필요합니다. ⎮ 박형주](https://www.youtube.com/watch?v=5shmN-1T1ks) · [SEF2022 Software Edu Fest](../events/2022-sef.md) · 32분
+- [장애학생들을 위한 소프트웨어 교육 이야기를 들려드릴게요 ✨ ⎮ 안지훈 외 4인](https://www.youtube.com/watch?v=IgKIjFA08zU) · [SEF2022 Software Edu Fest](../events/2022-sef.md) · 28분
+- [카네기 멜런에서는 이렇게 소프트웨어를 가르칩니다. ⎮ Jonathan Aldrich (조나단 알드리치)](https://www.youtube.com/watch?v=Y2oyWGPhsZQ) · [SEF2022 Software Edu Fest](../events/2022-sef.md) · 20분
+- [초등 소프트웨어 교육, 지금 바로 '이렇게' 시작하세요! ⎮ 김갑수](https://www.youtube.com/watch?v=W9P6EjaGddE) · [SEF2022 Software Edu Fest](../events/2022-sef.md) · 27분
+- [비전공자 출신, 인프랩 CTO는 어떻게 개발자가 되었을까? ⎮ 이동욱](https://www.youtube.com/watch?v=H0iKHfnyU4g) · [SEF2022 Software Edu Fest](../events/2022-sef.md) · 22분
+- [개발 입문자들이 명심해야 할 3가지! 시원하게 알려드립니다. ⎮ Namanh Kapur (나만 카푸어)](https://www.youtube.com/watch?v=SH4wG2bTG1k) · [SEF2022 Software Edu Fest](../events/2022-sef.md) · 14분
+- [코딩에 ‘늦은 나이’는 없는 이유 ⎮ 장성숙](https://www.youtube.com/watch?v=U-uY-8gSsVo) · [SEF2022 Software Edu Fest](../events/2022-sef.md) · 15분
+- [쌀 팔던 비전공자가 개발자가 될 수 있었던 노하우 ⎮ 김병욱](https://www.youtube.com/watch?v=JTdEzmw5nMM) · [SEF2022 Software Edu Fest](../events/2022-sef.md) · 28분
+- [패션 인플루언서 '로지' 아빠의 등장! 버추얼 휴먼 이야기 ⎮ 백승엽](https://www.youtube.com/watch?v=0eYvfEjde1I) · [SEF2022 Software Edu Fest](../events/2022-sef.md) · 16분
+- [\[토크콘서트\] 개발바닥 공개방송](https://www.youtube.com/watch?v=_rWSdvIqBe8) · [인프콘 2022](../events/2022-infcon.md) · 43분
+- [\[토크콘서트\] 주니어 개발자의 대나무숲](https://www.youtube.com/watch?v=plm_SoswYDY) · [인프콘 2022](../events/2022-infcon.md) · 39분
+- [실리콘밸리로 떠나는 비전공자 개발자의 지난 4년 회고 - 좋았던 선택 vs 후회되는 선택](https://www.youtube.com/watch?v=LcxdZ7h7u7o) · [인프콘 2022](../events/2022-infcon.md) · 40분
+- [본투비 제너럴리스트가 커뮤니티에서 성장하는 법](https://www.youtube.com/watch?v=yyswne7aI0s) · [인프콘 2022](../events/2022-infcon.md) · 15분
+- [성공하는 스터디를 만드는 10가지 방법 - 인출 위주의 스터디 여정기](https://www.youtube.com/watch?v=N-aZME9Vwlw) · [인프콘 2022](../events/2022-infcon.md) · 16분
+- [이 이력서, 누구 거에요?](https://www.youtube.com/watch?v=xbBPNT04GiE) · [인프콘 2022](../events/2022-infcon.md) · 39분
+- [팀을 넘어서 전사적 협업 환경 구축하기](https://www.youtube.com/watch?v=pPjhVVzYpJ8) · [인프콘 2022](../events/2022-infcon.md) · 32분
+- [제주 동북쪽 바닷가 마을에 사는 N잡러 이야기 - 디자이너, 개발자, 그리고 1인 기업까지](https://www.youtube.com/watch?v=7uMnpkJwyRU) · [인프콘 2022](../events/2022-infcon.md) · 20분
+- [코드 리뷰의 또 다른 접근 방법: Pull Requests vs. Stacked Changes](https://www.youtube.com/watch?v=XRZPkYnWa48) · [인프콘 2022](../events/2022-infcon.md) · 19분
+- [사이드 프로젝트 만세! - 기술만큼 중요했던 제품과 팀 성장기](https://www.youtube.com/watch?v=WsQiLp85WCw) · [인프콘 2022](../events/2022-infcon.md) · 40분
+- [어느 날 고민 많은 주니어 개발자가 찾아왔다: 성장과 취업, 이직 이야기](https://www.youtube.com/watch?v=QHlyr8soUDM) · 김영한 · [인프콘 2022](../events/2022-infcon.md) · 46분
+- [나와 팀을 성장시키는 리뷰들 - 코드 리뷰만 리뷰가 아니라니까?](https://www.youtube.com/watch?v=Lb_8eI-tdZw) · [인프콘 2022](../events/2022-infcon.md) · 38분
+- [개발자의 셀프 브랜딩](https://www.youtube.com/watch?v=XEMZdvvt2y4) · [인프콘 2022](../events/2022-infcon.md) · 20분
+- [나홀로 시골 개발자의 성장전략 - 사수 없는 사막, 나눔으로 살아남기](https://www.youtube.com/watch?v=PQDJ-exC-uw) · [인프콘 2022](../events/2022-infcon.md) · 18분
+- [💚 성장을 고민하는 당신에게 들려주고 싶은 이야기](https://www.youtube.com/watch?v=K1-Cvo_cy_o) · [인프콘 2022](../events/2022-infcon.md) · 6분
 - [모두의연구소 코칭스터디 세미나](https://www.youtube.com/watch?v=mxuWqUzbD6c) · [모두의연구소 코칭스터디 세미나](../events/2022-modulabs-coaching-08.md) · 1시간 10분
 - [7월 우아한테크세미나 · 개발자를 위한 글쓰기 코칭의 시간!](https://www.youtube.com/watch?v=xu3XGEomRWI) · [7월 우아한테크세미나 · 개발자를 위한 글쓰기 코칭의 시간!](../events/2022-woowa-seminar-07.md) · 2시간 21분
 - [우아한형제들 개발자가 푸는, 공부하고 성장하는 노하우?](https://www.youtube.com/watch?v=QutIXPbKWpw) · [우아한형제들 개발자가 푸는, 공부하고 성장하는 노하우?](../events/2022-woowa-seminar-05.md) · 2시간 35분
+- [포스트 코로나 시대, 교육 현장에서 바로 활용할 수 있는 AWS 사례](https://www.youtube.com/watch?v=psoUpuMsepo) · 은찬미, AWS / 임석영, 산타 / 이재욱, 서울대학교 · [AWS Summit Online Korea 2022](../events/2022-aws-summit-online.md) · 22분
+- [에듀버스 - AWS 서비스를 이용한 인터랙티브 가상 교육 플랫폼](https://www.youtube.com/watch?v=UCK8ir3bd7s) · 김순근, 김해리, 권지혜, 조지운, AWS · [AWS Summit Online Korea 2022](../events/2022-aws-summit-online.md) · 28분
 - [4월 우아한테크세미나｜지속가능한 SW개발을 위한 코드리뷰](https://www.youtube.com/watch?v=ssDMIcPBqUE) · [4월 우아한테크세미나｜지속가능한 SW개발을 위한 코드리뷰](../events/2022-woowa-seminar-04.md) · 2시간 6분
 - [\[OKKY 3월 세미나\] 서비스 개발자로 커리어 전환하기](https://www.youtube.com/watch?v=OL0eRT32hFI) · [\[OKKY 3월 세미나\] 서비스 개발자로 커리어 전환하기](../events/2022-okky-seminar-03.md) · 1시간 2분
+- [클라우드 경력 개발을 위한 AWS 자격증 취득 노하우 \| AWS Builders 온라인 시리즈 7월, 2022](https://www.youtube.com/watch?v=xuLe8miIscc) · [AWS Builders 온라인 시리즈 2022](../events/2022-aws-builders-online.md) · 30분
 
 ## 2021년
 
 - [라스콘2 라이징 연합채용 크리스마스파티](https://www.youtube.com/watch?v=mFUnJXLhab0) · [라스콘2 라이징 연합채용 크리스마스파티](../events/2021-rascon2.md) · 2시간 50분
+- [R 형태소 분석기를 만드는 거대한 야크 털 깎기(feat. 커뮤니티, 오픈소스, 사이드프로젝트)](https://www.youtube.com/watch?v=TRczGJNRR3I) · 박찬엽 · [모두콘 2021](../events/2021-moducon.md) · 27분
+- [인공지능 전문가로 성장하기 with 미니모](https://www.youtube.com/watch?v=kWhP6QMNjJE) · 김현욱 · [모두콘 2021](../events/2021-moducon.md) · 25분
+- [나의 애자일 개발 문화 도입기 : 스타트업을 여행하는 히치하이커를 위한 안내서](https://www.youtube.com/watch?v=J4kyBPHWMXs) · 박진우 · [모두콘 2021](../events/2021-moducon.md) · 24분
+- [플랫폼 중심 AI 교육 운영 사례 발표](https://www.youtube.com/watch?v=eszM0UbR_wc) · 김재원 · [모두콘 2021](../events/2021-moducon.md) · 24분
+- [NVIDIA 젯슨 X 모두연 AIFFEL 유니버스](https://www.youtube.com/watch?v=OIEWJMstebc) · 문소리, 김선욱 · [모두콘 2021](../events/2021-moducon.md) · 27분
+- [누구나 쉽게 인공지능을 배울 수 있는 AI 혁신학교 AIFFEL](https://www.youtube.com/watch?v=ruvoa9FpTxY) · 김승일 · [모두콘 2021](../events/2021-moducon.md) · 25분
+- [AI 교육에 러닝 퍼실리테이션 입히기](https://www.youtube.com/watch?v=PVgedbZjF-k) · 강노원 · [모두콘 2021](../events/2021-moducon.md) · 22분
+- [1일차](https://www.youtube.com/watch?v=AmoJW-voKTw) · [INNO-CON 2021](../events/2021-inno-con.md) · 4시간 54분
+- [2일차](https://www.youtube.com/watch?v=E-3_bYZkdm4) · [INNO-CON 2021](../events/2021-inno-con.md) · 6시간 5분
+- [3일차](https://www.youtube.com/watch?v=zNynKuK6wUE) · [INNO-CON 2021](../events/2021-inno-con.md) · 6시간 20분
 - [리눅스 개발자 이야기](https://www.youtube.com/watch?v=5Y5QGukIJF4) · [2021 공개SW 페스티벌](../events/2021-oss-festival.md) · 55분
 - [OpenChain 프로젝트와 한국 기업의 오픈소스 거버넌스 구축 사례](https://www.youtube.com/watch?v=_CsSxXcmsdI) · [2021 공개SW 페스티벌](../events/2021-oss-festival.md) · 1시간 10분
 - [호랑이는 죽어서 가죽을 남기고, 개발자는 오픈소스를 남겨야 한다.](https://www.youtube.com/watch?v=a3oLK5R_O8I) · 박재성(NAVER) · [2021 공개SW 페스티벌](../events/2021-oss-festival.md) · 19분
@@ -164,10 +336,32 @@
 - [베트남 배민의 개발문화를 소개합니다](https://www.youtube.com/watch?v=ebLb73tUXXA) · [우아콘 2021](../events/2021-woowacon.md) · 24분
 - [개발자 퍼스널 브랜딩, 그런데 이제 리크루터 활용을 곁들인!](https://www.youtube.com/watch?v=_yRmR5tsT3E) · [우아콘 2021](../events/2021-woowacon.md) · 21분
 - [개발자가 교육자의 길을 걸어야 하는 이유는?](https://www.youtube.com/watch?v=MYSur_q-Nd0) · [우아콘 2021](../events/2021-woowacon.md) · 38분
+- [카카오 오픈소스팀 이야기: 오픈소스 관리 OLIVE Platform 개발 사례 공유](https://www.youtube.com/watch?v=omFUssQZq48) · [if(kakao) 2021](../events/2021-ifkakao.md) · 20분
+- [지라 쓰는게 애자일 아니라고 했어 안했어 !](https://www.youtube.com/watch?v=ossDIfP-bt8) · [if(kakao) 2021](../events/2021-ifkakao.md) · 32분
+- [이게 진짜 일 리 없어: 초보 리더가 프로젝트에서 마주치는 어려운 상황들](https://www.youtube.com/watch?v=Hpsby4qkvws) · [if(kakao) 2021](../events/2021-ifkakao.md) · 25분
+- [이 멋진 코드에 컨벤션을! 2달간의 컨벤션 구축 여정](https://www.youtube.com/watch?v=6AGZnRrBts4) · [if(kakao) 2021](../events/2021-ifkakao.md) · 17분
+- [Open Water Diver OpenSource Diver!](https://www.youtube.com/watch?v=D6XLD_zgg2U) · [if(kakao) 2021](../events/2021-ifkakao.md) · 19분
+- [카카오웹툰 서비스 포스트모템](https://www.youtube.com/watch?v=kjtc3HotrI4) · [if(kakao) 2021](../events/2021-ifkakao.md) · 15분
+- [클라우드텔레메트리 신입 개발자 이야기](https://www.youtube.com/watch?v=j4BJouKsMv4) · [if(kakao) 2021](../events/2021-ifkakao.md) · 22분
 - [2021년 LINE의 오픈 소스: 연간 현황을 공유합니다](https://www.youtube.com/watch?v=AOc6jfYgO_Y) · [LINE DEVELOPER DAY 2021](../events/2021-line-devday.md) · 34분
 - [LINE의 개발자용 문서를 지탱하고 있는 테크니컬 라이팅 팀](https://www.youtube.com/watch?v=CGfH27hl3G0) · [LINE DEVELOPER DAY 2021](../events/2021-line-devday.md) · 38분
 - [Leaders as Builders of Culture](https://www.youtube.com/watch?v=tI_aQuS-hAc) · [LINE DEVELOPER DAY 2021](../events/2021-line-devday.md) · 17분
-- [OKKYCON 2021 : 협업의 기술](https://www.youtube.com/watch?v=mS_jyMC4cxg) · [OKKYCON 2021 : 협업의 기술](../events/2021-okkycon.md) · 22분
+- [데이터 초보에서 멘토까지의 회고](https://www.youtube.com/watch?v=TDqH_i_xY-8) · 김태진 · [데이터야놀자 2021](../events/2021-datayanolja.md) · 15분
+- [데이터 분석가의 뉴스레터 제작기: 뉴스레터는 사 드세요, 제발](https://www.youtube.com/watch?v=MN4V7ffYuYU) · 여름씨 · [데이터야놀자 2021](../events/2021-datayanolja.md) · 20분
+- [알츠하이머에 걸린 할머니를 지킨 소녀의 방법은? 👩🏻‍💻](https://www.youtube.com/watch?v=FDapvrtVJDU) · [SEF2021 Software Edu Fest](../events/2021-sef.md) · 16분
+- [고등학생 형빈군의 '의미를 가지는' 코딩에 대하여](https://www.youtube.com/watch?v=kTBZqMWAr0I) · [SEF2021 Software Edu Fest](../events/2021-sef.md) · 6분
+- [Swift Student Challenge 최연소 수상자의 이야기](https://www.youtube.com/watch?v=81NkM5BckEg) · [SEF2021 Software Edu Fest](../events/2021-sef.md) · 14분
+- [모두가 한걸음씩 성장하는 PyTorch](https://www.youtube.com/watch?v=SklwA_rPprI) · [제2회 PseudoCon](../events/2021-pseudocon-2.md) · 17분
+- [(우테캠 수료하고) 만다오 만들었다오](https://www.youtube.com/watch?v=XDC4QH-4Xms) · [5월 우아한테크세미나 · (우테캠 수료하고) 만다오 만들었다오](../events/2021-woowa-seminar-05.md) · 2시간 1분
+- [엘리스: Azure를 활용한 프로젝트 교육 과정](https://www.youtube.com/watch?v=LIhRS3fTjb4) · [Azure Everywhere 2021](../events/2021-azure-everywhere.md) · 18분
+- [커뮤니케이션이란 무엇인가? 어떻게 해야 효과적으로 협업을 할 수 있는가?](https://www.youtube.com/watch?v=mS_jyMC4cxg) · 한빛미디어 의장 박태웅 · [OKKYCON 2021 : 협업의 기술](../events/2021-okkycon.md) · 22분
+- [협력의 조건 만들기](https://www.youtube.com/watch?v=lhTCpNoMwEI) · 네오위즈 애자일 코치 홍영기 · [OKKYCON 2021 : 협업의 기술](../events/2021-okkycon.md) · 32분
+- [함께 성장하고 협업하는 문화를 만들어가는 과정](https://www.youtube.com/watch?v=ciu2PA6M7tw) · 우아한형제들 교육이사 박재성 · [OKKYCON 2021 : 협업의 기술](../events/2021-okkycon.md) · 23분
+- [당신에게 협업의 대상은 누구인가요?](https://www.youtube.com/watch?v=abKz7X-h9mU) · SAP Senior Program Manager 김영욱 · [OKKYCON 2021 : 협업의 기술](../events/2021-okkycon.md) · 32분
+- [프로덕트 조직의 생산성 높이기](https://www.youtube.com/watch?v=xlV82Q-ZmAA) · 라인플러스 Fellow 김영재 · [OKKYCON 2021 : 협업의 기술](../events/2021-okkycon.md) · 41분
+- [OKR 기반으로 스케일업 가능한 협업 체계 만들기](https://www.youtube.com/watch?v=jErnUal6eSc) · 번개장터 CTO 이동주 · [OKKYCON 2021 : 협업의 기술](../events/2021-okkycon.md) · 27분
+- [당근마켓 성장에 따른 협업의 변화는 진행 중](https://www.youtube.com/watch?v=SOplyIoUvbA) · 당근마켓 CTO 정창훈 · [OKKYCON 2021 : 협업의 기술](../events/2021-okkycon.md) · 21분
+- [패널토의 및 Q&A](https://www.youtube.com/watch?v=TMVBlkOevSE) · [OKKYCON 2021 : 협업의 기술](../events/2021-okkycon.md) · 1시간 15분
 - [당근마켓 프론트엔드 개발자 채용 오픈 세션](https://www.youtube.com/watch?v=EZOW5tE4CE0) · [당근마켓 프론트엔드 개발자 채용 오픈 세션](../events/2021-daangn-frontend-recruit.md) · 2시간 34분
 
 ## 2020년
@@ -184,14 +378,56 @@
 - [고등학교에서 오픈소스 협업도구 도입하기](https://www.youtube.com/watch?v=W0PVK4GIJUo) · 함기훈(미림여자정보과학고등학교) · [2020 공개SW 페스티벌](../events/2020-oss-festival.md) · 20분
 - [오픈 소스 프로젝트(커뮤니티) 잘 관리하기 - 개인프로젝트 씨앗에서 커뮤니티라는 꽃을 피우기까지](https://www.youtube.com/watch?v=aOkxWMLJwro) · 옥찬호(넥슨) · [2020 공개SW 페스티벌](../events/2020-oss-festival.md) · 21분
 - [Ubuntu, and Community](https://www.youtube.com/watch?v=xVDM_kaXZKw) · 윤건영(펜타시큐리티) · [2020 공개SW 페스티벌](../events/2020-oss-festival.md) · 18분
+- [신입 루키에서 NHN 개발자까지: 렙업만이 살길](https://www.youtube.com/watch?v=vsBfX_Tt2z4) · [NHN FORWARD 2020](../events/2020-nhn-forward.md) · 19분
+- [오픈 소스 메인테이너로 성장하기(feat. TOAST UI)](https://www.youtube.com/watch?v=44PtvKIvZFY) · [NHN FORWARD 2020](../events/2020-nhn-forward.md) · 29분
 - [리얼리눅스: GitHub 오픈소스 포트폴리오](https://www.youtube.com/watch?v=b_k7l7a9rF4) · [리얼리눅스: GitHub 오픈소스 포트폴리오](../events/2020-reallinux-12.md) · 1시간 24분
+- [Global 42 소개](https://www.youtube.com/watch?v=iezpDk8gbIA) · [INNO-CON 2020](../events/2020-inno-con.md) · 29분
+- [슬기로운 커뮤니티 생활](https://www.youtube.com/watch?v=h-CIc7HgkkI) · [INNO-CON 2020](../events/2020-inno-con.md) · 15분
+- [이노베이션 아카데미의 개발자 생태계 지원 콘텐츠 제작기](https://www.youtube.com/watch?v=a2f7GRBS6_o) · [INNO-CON 2020](../events/2020-inno-con.md) · 22분
+- [성공적인 학습을 위한 전문가 대담](https://www.youtube.com/watch?v=aGZNB_ZPijA) · [INNO-CON 2020](../events/2020-inno-con.md) · 1시간 0분
+- [키노트 스피치 - "개발 생태계가 원하는 인재와 기업의 역할"](https://www.youtube.com/watch?v=nrZCM4exL3o) · [INNO-CON 2020](../events/2020-inno-con.md) · 20분
+- [선배 개발자들이 말하는 실제 취업 현장과 개발 문화](https://www.youtube.com/watch?v=LB-Wa0opBLM) · [INNO-CON 2020](../events/2020-inno-con.md) · 57분
+- [개발 조직 문화 전문가 라이브 대담](https://www.youtube.com/watch?v=SyKK8U7rGxk) · [INNO-CON 2020](../events/2020-inno-con.md) · 1시간 1분
+- [Global 42 Alumni의 취업 성공기](https://www.youtube.com/watch?v=KDbWArFQiJo) · [INNO-CON 2020](../events/2020-inno-con.md) · 24분
+- [42 SEOUL과 함께 하고 있는 기업](https://www.youtube.com/watch?v=pR5evqz0ZYw) · [INNO-CON 2020](../events/2020-inno-con.md) · 15분
+- [42SEOUL 소개](https://www.youtube.com/watch?v=hbC68kZ5KaI) · [INNO-CON 2020](../events/2020-inno-con.md) · 37분
+- [신입으로 입사하기 vs 인턴으로 입사하기](https://www.youtube.com/watch?v=RZHppxHg2jc) · [if(kakao) 2020](../events/2020-ifkakao.md) · 23분
+- [카카오 입사 8개월 리얼 후기](https://www.youtube.com/watch?v=ZSYf0W24JmE) · [if(kakao) 2020](../events/2020-ifkakao.md) · 12분
+- [OpenWork 카카오의 일하는 방식](https://www.youtube.com/watch?v=vx-YXf7jZCE) · [if(kakao) 2020](../events/2020-ifkakao.md) · 30분
+- [OLIVE 카카오에서 제공하는 오픈소스 관리 서비스](https://www.youtube.com/watch?v=vgNAfrygm4I) · [if(kakao) 2020](../events/2020-ifkakao.md) · 16분
+- [브런치 작가들의 이야기 글을 쓰면 기회가 온다 계속 쓰면 힘이 된다](https://www.youtube.com/watch?v=vkT4KZkbHjc) · [if(kakao) 2020](../events/2020-ifkakao.md) · 28분
+- [주니어 개발자가 말하는 카카오 FE팀](https://www.youtube.com/watch?v=BFxU2QyZaj0) · [if(kakao) 2020](../events/2020-ifkakao.md) · 14분
+- [카카오 개발자의 찐세계](https://www.youtube.com/watch?v=FZmoLIhbw9Y) · [if(kakao) 2020](../events/2020-ifkakao.md) · 15분
+- [직장인 VLOG 출근부터 스터디까지 알차게 하루 보내는 주니어 개발자 VLOG](https://www.youtube.com/watch?v=oEYbLd4PytQ) · [if(kakao) 2020](../events/2020-ifkakao.md) · 11분
+- [Fireside Chat with ML GDE](https://www.youtube.com/watch?v=obkS3G9Mcnw) · [DevFest Korea 2020](../events/2020-devfest-korea.md) · 15분
 - [Project inception workshop in the new normal](https://www.youtube.com/watch?v=h4ruyQLpwVQ) · [LINE DEVELOPER DAY 2020](../events/2020-line-devday.md) · 20분
+- [우아한 글쟁이 되기](https://www.youtube.com/watch?v=E8J4RKoGpf8) · [10월 우아한테크세미나 · 우아한 글쟁이 되기](../events/2020-woowa-seminar-10.md) · 2시간 2분
 - [오픈소스 기여: 코드로 세상에 기여하는 또다른 방법](https://www.youtube.com/watch?v=0rHg_dRC6-8) · 강민철 · [데이터야놀자 2020](../events/2020-datayanolja.md) · 15분
 - [데이터분석팀과 개발팀의 신뢰쌓기 프로세스](https://www.youtube.com/watch?v=xn47q1YmSj0) · 윤정환 · [데이터야놀자 2020](../events/2020-datayanolja.md) · 24분
 - [데이터 분석가로 데뷔하기 위해 소속사와 밀당하기](https://www.youtube.com/watch?v=SjspfhpOJ9E) · 김현진,이다슬 · [데이터야놀자 2020](../events/2020-datayanolja.md) · 10분
 - [데이터 주제로 방송하면 아무도 안 들을 줄 알았지](https://www.youtube.com/watch?v=WiafLcL1Gx4) · 데이터홀릭 · [데이터야놀자 2020](../events/2020-datayanolja.md) · 24분
 - [p5 for 50+: How to Include Older Adults to Coding Education?-Inhwa Yeom&Seonghyeon Kim-JSConf Korea](https://www.youtube.com/watch?v=5ChEO9E-uT4) · [JSConf Korea 2020](../events/2020-jsconf-korea.md) · 17분
+- [TDD와 Flipped Classroom을 활용한 파이썬 교육](https://www.youtube.com/watch?v=P9QDCcpFtSM) · 설진석 · [파이콘 한국 2020](../events/2020-pycon.md) · 20분
+- [개발 분야도 여러가지~ 과연 나는? 조코딩](https://www.youtube.com/watch?v=NW31JzQ6-0A) · [SEF2020 Software Edu Fest](../events/2020-sef.md) · 47분
+- [긱블! 민바크님의 다.발.자가 되기까지](https://www.youtube.com/watch?v=0gUSM6YdKzs) · [SEF2020 Software Edu Fest](../events/2020-sef.md) · 48분
+- [인기 유튜버와 크루즈 승무원의 개발 도전기!](https://www.youtube.com/watch?v=WPXTwMa08ug) · [SEF2020 Software Edu Fest](../events/2020-sef.md) · 57분
+- [개발 배우고 퇴근 시간 단축까지? ⏳](https://www.youtube.com/watch?v=iIrRlYup0ZQ) · [SEF2020 Software Edu Fest](../events/2020-sef.md) · 46분
+- [코딩 입문자 필수 시청, 실시간 전화 상담으로 해결 팍팍! ☎️](https://www.youtube.com/watch?v=om-pT7_Bz5s) · [SEF2020 Software Edu Fest](../events/2020-sef.md) · 52분
+- [주니어개발자로 성장하는 우아한 방법들](https://www.youtube.com/watch?v=Qtg5xe6B_vA) · [7월 우아한테크세미나 · 주니어개발자로 성장하는 우아한 방법들](../events/2020-woowa-seminar-07.md) · 1시간 50분
+
+## 2019년
+
+- [마이크로소프트의 인재상과 커뮤니티 리더십](https://www.youtube.com/watch?v=iYbqMk0nOvA) · 이소영 · [모두콘 2019](../events/2019-moducon.md) · 35분
+- [어떻게 배울 것인가](https://www.youtube.com/watch?v=q0nb9NLkeeo) · 이민석 · [모두콘 2019](../events/2019-moducon.md) · 32분
+- [테크를 만드는 커뮤니티, 커뮤니티를 만드는 테크](https://www.youtube.com/watch?v=MgR85tKEkhs) · 이효은 · [모두콘 2019](../events/2019-moducon.md) · 38분
+- [기록의 힘을 느껴보셨나요? IT인들이여 음지에서 양지로!](https://www.youtube.com/watch?v=IksLxpLGMPM) · 이수진 · [모두콘 2019](../events/2019-moducon.md) · 30분
+- [우아한항해](https://www.youtube.com/watch?v=zdYXqC0xo3I) · 김형준 · [10월 우아한테크세미나 · 우아한항해](../events/2019-woowa-seminar-10.md) · 2시간 11분
+
+## 2018년
+
+- [오픈소스를 사용하고 준비하는 개발자를 위한 가이드](https://www.youtube.com/watch?v=hECBfu9gdU0) · [if(kakao)dev 2018](../events/2018-ifkakao.md) · 42분
+- [4차 산업혁명에서 정보 접근성 교육 현황과 앞으로의 과제](https://www.youtube.com/watch?v=gCuvoOnzf04) · 김형섭 (엔비전스) · [2018 제6회 널리 세미나](../events/2018-nuli-6.md) · 23분
 
 ---
 
-다른 주제: [AI (489)](./ai.md) · [백엔드 (252)](./backend.md) · [프론트엔드 (144)](./frontend.md) · [모바일 (121)](./mobile.md) · [인프라·DevOps (335)](./infra-devops.md) · [데이터 (171)](./data.md) · [보안 (134)](./security.md) · [게임 (128)](./game.md) · [디자인·기획 (71)](./design-product.md) · [기타 (150)](./etc.md)
+다른 주제: [AI (1283)](./ai.md) · [백엔드 (682)](./backend.md) · [프론트엔드 (269)](./frontend.md) · [모바일 (367)](./mobile.md) · [인프라·DevOps (1161)](./infra-devops.md) · [데이터 (501)](./data.md) · [보안 (281)](./security.md) · [게임 (352)](./game.md) · [디자인·기획 (106)](./design-product.md) · [기타 (578)](./etc.md)

@@ -18,7 +18,7 @@
 | [고등학생이 만들어 본 LLM-as-a-judge 번역 벤치마크 리더보드](https://www.youtube.com/watch?v=oIIgDzVz_IM) | 심기현 | 14분 |
 | [AI 시대를 위한 Python 패키징](https://www.youtube.com/watch?v=oWxCsnnmen0) | 김준기 | 34분 |
 | [Django, AI 시대를 위한 가장 실용적인 선택](https://www.youtube.com/watch?v=i8ZQvZNxQKQ) | 이진석 | 55분 |
-| [Python과 함께하는 AI 플랫폼: ML Infra 기반부터 대규모 Inference Pipeline 구축까지-박준성 변규현](https://www.youtube.com/watch?v=hB3MXDeViGk) |  | 30분 |
+| [Python과 함께하는 AI 플랫폼: ML Infra 기반부터 대규모 Inference Pipeline 구축까지-박준성 변규현](https://www.youtube.com/watch?v=hB3MXDeViGk) |  | 30분 |
 | [RAG 애플리케이션 개발을 위한 Chunking 최적화](https://www.youtube.com/watch?v=jgFduVaa07M) | 강성우 | 22분 |
 | [defer: print(title)](https://www.youtube.com/watch?v=elQvXbsKi3o) | 변도진, 오영기 | 23분 |
 | [HTMX로 Django 웹 애플리케이션 개발 생산성 높이기](https://www.youtube.com/watch?v=cGjb4gyWdGE) | 노관옥 | 25분 |
@@ -28,8 +28,8 @@
 | [파이썬 개발자, 병원에서 살아남기](https://www.youtube.com/watch?v=Vy9prSfEu4g) | 최재원 | 18분 |
 | [NumPy와 Numba로 파이썬 성능 최적화 - Branchless & Cache Prefetching 기법 활용](https://www.youtube.com/watch?v=TsjxGv4aqcY) | 박이삭 | 28분 |
 | [더 나은 내일을 위한 pre-commit](https://www.youtube.com/watch?v=QBVvOzdsMn4) | 김수빈 | 19분 |
-| [귀찮음을 코드로 해결하는 법](https://www.youtube.com/watch?v=K8sXZrm9Mxg) | 신나라 | 17분 |
-| [Seeking the future of Python from the Steering Council](https://www.youtube.com/watch?v=IyUETLmbl3E) | 나동희 | 18분 |
+| [귀찮음을 코드로 해결하는 법](https://www.youtube.com/watch?v=K8sXZrm9Mxg) | 신나라 | 17분 |
+| [Seeking the future of Python from the Steering Council](https://www.youtube.com/watch?v=IyUETLmbl3E) | 나동희 | 18분 |
 | [멀리서 읽는 법](https://www.youtube.com/watch?v=Gsaf5-WJsSE) | 김재윤 | 31분 |
 | [AI 시대에 파이썬 개발자가 쌓아야 할 비파이썬적 소양들](https://www.youtube.com/watch?v=yeI08tFRoPw) | 오윤명 | 19분 |
 | [문의 대응을 효율화하기 위한 RAG 기반 봇 도입하기](https://www.youtube.com/watch?v=AR8ZURQX-b0) | 이채승 | 30분 |

@@ -16,8 +16,8 @@
 | [마케터가 알아야 할 웹 언어와 GPT 활용하여 랜딩페이지 제작해보기](https://www.youtube.com/watch?v=xPaMSS7ZfvQ) | 김민지 | 9분 |
 | [Do you know DBT?](https://www.youtube.com/watch?v=m9lGtlxRJC4) | 김도진 | 34분 |
 | [작년의 나를 이겨라, 운동능력은 향상되었을까?](https://www.youtube.com/watch?v=UqGspD-2k4s) | 모용호 | 13분 |
-| [딥러닝 싸게싸게 서빙하기](https://www.youtube.com/watch?v=bFPprutYkCo) | 이왕원 | 40분 |
-| [금융 데이터 및 AI 산업의 현주소와 미래 전망](https://www.youtube.com/watch?v=RvTsXLckSCs) | 박대영 | 25분 |
-| [미신고 사고를 잡아라! AI를 활용한 카셰어링 운영 효율화 도전기](https://www.youtube.com/watch?v=Fzcj2wcUdF0) | 이상혁 | 21분 |
-| [실험에 기반한 당신의 가설 검정 결과를 신뢰할 수 없는 이유](https://www.youtube.com/watch?v=1jTn9b3_-u0) | 방태모 | 46분 |
-| [Drill Down, 분석가의 멘탈 모델](https://www.youtube.com/watch?v=0U75ZIpnUUE) | 김선영 | 40분 |
+| [딥러닝 싸게싸게 서빙하기](https://www.youtube.com/watch?v=bFPprutYkCo) | 이왕원 | 40분 |
+| [금융 데이터 및 AI 산업의 현주소와 미래 전망](https://www.youtube.com/watch?v=RvTsXLckSCs) | 박대영 | 25분 |
+| [미신고 사고를 잡아라! AI를 활용한 카셰어링 운영 효율화 도전기](https://www.youtube.com/watch?v=Fzcj2wcUdF0) | 이상혁 | 21분 |
+| [실험에 기반한 당신의 가설 검정 결과를 신뢰할 수 없는 이유](https://www.youtube.com/watch?v=1jTn9b3_-u0) | 방태모 | 46분 |
+| [Drill Down, 분석가의 멘탈 모델](https://www.youtube.com/watch?v=0U75ZIpnUUE) | 김선영 | 40분 |

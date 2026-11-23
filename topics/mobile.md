@@ -1,8 +1,14 @@
 # 모바일 세션 다시보기
 
-> [← 행사 목록](../README.md) · 세션 121개
+> [← 행사 목록](../README.md) · 세션 367개
 
-> [2025년 (23)](#2025년) · [2024년 (45)](#2024년) · [2023년 (17)](#2023년) · [2022년 (5)](#2022년) · [2021년 (10)](#2021년) · [2020년 (21)](#2020년)
+> [2026년 (3)](#2026년) · [2025년 (36)](#2025년) · [2024년 (56)](#2024년) · [2023년 (90)](#2023년) · [2022년 (100)](#2022년) · [2021년 (43)](#2021년) · [2020년 (35)](#2020년) · [2018년 (4)](#2018년)
+
+## 2026년
+
+- [Agentic coding for iOS developers](https://www.youtube.com/watch?v=jZe62qe4eys) · Artem Novichkov · [Seoul iOS Meetup 2026](../events/2026-seoul-ios-meetup.md) · 1시간 5분
+- [Agentic coding with Xcode & Gemini](https://www.youtube.com/watch?v=lm6SU___Yzo) · Jongwook Park · [Seoul iOS Meetup 2026](../events/2026-seoul-ios-meetup.md) · 1시간 3분
+- [Boost your build iteration using Tuist caching, selective testing and easy CI](https://www.youtube.com/watch?v=FFkEbqG4ips) · Youngjun Lee · [Seoul iOS Meetup 2026](../events/2026-seoul-ios-meetup.md) · 44분
 
 ## 2025년
 
@@ -13,36 +19,49 @@
 - [60 FPS in React Native](https://www.youtube.com/watch?v=kWjyMHzeRKw) · [FEConf 2025](../events/2025-feconf.md) · 29분
 - [플러그인 시스템 기반의 유연한 React Native CodePush 대안](https://www.youtube.com/watch?v=OBUz0ldZ64E) · [FEConf 2025](../events/2025-feconf.md) · 23분
 - [Swift·Kotlin 한줄 없이 만드는 Expo 전용 OTA 업데이트 시스템(feat. Next.js)](https://www.youtube.com/watch?v=aV8a1x_XKQ0) · [FEConf 2025](../events/2025-feconf.md) · 28분
-- [Compose로 증권 앱을 만들며 마주한 문제들](https://www.youtube.com/watch?v=KnGFJ6Byd7U) · [Toss Makers Conference 25 · Engineering Day](../events/2025-tmc.md) · 15분
-- [60개 React Native 패키지, 하나의 프레임워크로](https://www.youtube.com/watch?v=rtLaQbj_weM) · [Toss Makers Conference 25 · Engineering Day](../events/2025-tmc.md) · 16분
-- [카카오뱅크 Compose 적용기](https://www.youtube.com/watch?v=tDsBMA10MdE) · 이수호 · [DroidKnights 2025](../events/2025-droidknights.md) · 29분
-- [KMP로 Figma 아이콘 동기화, 클릭 한 번이면 끝!](https://www.youtube.com/watch?v=CqX0ErAdTnY) · 옥수환 · [DroidKnights 2025](../events/2025-droidknights.md) · 42분
-- [전방위 자동화 시대, CI/CD를 넘어 PM과 QA까지 확장하기](https://www.youtube.com/watch?v=bRvfOKSRtSw) · 김호중 · [DroidKnights 2025](../events/2025-droidknights.md) · 29분
-- [Android에서 실현 가능한 모든 AI](https://www.youtube.com/watch?v=oeA0z_KN7-0) · 강사룡 · [DroidKnights 2025](../events/2025-droidknights.md) · 30분
-- [당신의 클린아키텍처는 틀렸다](https://www.youtube.com/watch?v=U6RPhek3Wqc) · 박상권 · [DroidKnights 2025](../events/2025-droidknights.md) · 46분
-- [다양한 스크롤 뷰에서의 영상 재생](https://www.youtube.com/watch?v=IKJ28ylReWE) · 이가은 · [DroidKnights 2025](../events/2025-droidknights.md) · 27분
+- [Compose로 증권 앱을 만들며 마주한 문제들](https://www.youtube.com/watch?v=KnGFJ6Byd7U) · [Toss Makers Conference 25 · Engineering Day](../events/2025-tmc.md) · 15분
+- [60개 React Native 패키지, 하나의 프레임워크로](https://www.youtube.com/watch?v=rtLaQbj_weM) · [Toss Makers Conference 25 · Engineering Day](../events/2025-tmc.md) · 16분
+- [카카오뱅크 Compose 적용기](https://www.youtube.com/watch?v=tDsBMA10MdE) · 이수호 · [DroidKnights 2025](../events/2025-droidknights.md) · 29분
+- [KMP로 Figma 아이콘 동기화, 클릭 한 번이면 끝!](https://www.youtube.com/watch?v=CqX0ErAdTnY) · 옥수환 · [DroidKnights 2025](../events/2025-droidknights.md) · 42분
+- [전방위 자동화 시대, CI/CD를 넘어 PM과 QA까지 확장하기](https://www.youtube.com/watch?v=bRvfOKSRtSw) · 김호중 · [DroidKnights 2025](../events/2025-droidknights.md) · 29분
+- [Android에서 실현 가능한 모든 AI](https://www.youtube.com/watch?v=oeA0z_KN7-0) · 강사룡 · [DroidKnights 2025](../events/2025-droidknights.md) · 30분
+- [당신의 클린아키텍처는 틀렸다](https://www.youtube.com/watch?v=U6RPhek3Wqc) · 박상권 · [DroidKnights 2025](../events/2025-droidknights.md) · 46분
+- [다양한 스크롤 뷰에서의 영상 재생](https://www.youtube.com/watch?v=IKJ28ylReWE) · 이가은 · [DroidKnights 2025](../events/2025-droidknights.md) · 27분
 - [ReadMoreTextView: 텍스트 '더보기' 기능 구현하기](https://www.youtube.com/watch?v=y5lKXM1G3mI) · 안성용 · [DroidKnights 2025](../events/2025-droidknights.md) · 25분
-- [Benchmark와 BaselineProfile을 사용해 LazyColumn 스크롤 성능을 75% 개선하기까지의 여정](https://www.youtube.com/watch?v=E6PoIYC9aH4) · 송상윤 · [DroidKnights 2025](../events/2025-droidknights.md) · 42분
-- [Jetpack XR 살펴보기 : XR 개발은 어떻게 이루어지는가?](https://www.youtube.com/watch?v=-4h1lbD-gJQ) · 윤희성 · [DroidKnights 2025](../events/2025-droidknights.md) · 30분
-- [컴포즈 스냅샷 내부원리 찍어먹기](https://www.youtube.com/watch?v=FfeOd_zzfYk) · 강다현 · [DroidKnights 2025](../events/2025-droidknights.md) · 43분
-- [나도 edgeToEdge 적용하기 싫어. 근데 누군가는 해야 하잖아?](https://www.youtube.com/watch?v=fdfhaEvxdy4) · 이지훈 · [DroidKnights 2025](../events/2025-droidknights.md) · 30분
-- [Bytecode Manipulation 을 통해 생산성 높이기](https://www.youtube.com/watch?v=03Fmlc0pYjA) · 강대규 · [DroidKnights 2025](../events/2025-droidknights.md) · 24분
+- [Benchmark와 BaselineProfile을 사용해 LazyColumn 스크롤 성능을 75% 개선하기까지의 여정](https://www.youtube.com/watch?v=E6PoIYC9aH4) · 송상윤 · [DroidKnights 2025](../events/2025-droidknights.md) · 42분
+- [Jetpack XR 살펴보기 : XR 개발은 어떻게 이루어지는가?](https://www.youtube.com/watch?v=-4h1lbD-gJQ) · 윤희성 · [DroidKnights 2025](../events/2025-droidknights.md) · 30분
+- [컴포즈 스냅샷 내부원리 찍어먹기](https://www.youtube.com/watch?v=FfeOd_zzfYk) · 강다현 · [DroidKnights 2025](../events/2025-droidknights.md) · 43분
+- [나도 edgeToEdge 적용하기 싫어. 근데 누군가는 해야 하잖아?](https://www.youtube.com/watch?v=fdfhaEvxdy4) · 이지훈 · [DroidKnights 2025](../events/2025-droidknights.md) · 30분
+- [Bytecode Manipulation 을 통해 생산성 높이기](https://www.youtube.com/watch?v=03Fmlc0pYjA) · 강대규 · [DroidKnights 2025](../events/2025-droidknights.md) · 24분
+- [Building it isn't enough: Indie friendly growth for mobile app developers](https://www.youtube.com/watch?v=AKqVCSJfcCA) · Jerome Yip · [Seoul iOS Meetup 2025](../events/2025-seoul-ios-meetup.md) · 59분
+- [Beyond AI on iOS: The fastest path to AI apps without GPU servers PART 2](https://www.youtube.com/watch?v=rKyxo_1Ilnk) · Doyeop Kim & Pilmo Kim · [Seoul iOS Meetup 2025](../events/2025-seoul-ios-meetup.md) · 46분
+- [Beyond AI on iOS: The fastest path to AI apps without GPU servers PART 1](https://www.youtube.com/watch?v=Np67wGhmVIM) · Yeonseok Kim · [Seoul iOS Meetup 2025](../events/2025-seoul-ios-meetup.md) · 35분
+- [Measuring without meddling: Building a lightweight app monitoring SDK](https://www.youtube.com/watch?v=Tu_Kr4inwsA) · Adwin Ronald Ross · [Seoul iOS Meetup 2025](../events/2025-seoul-ios-meetup.md) · 1시간 6분
+- [On Device Al: Exploring Apple's new Foundation Models](https://www.youtube.com/watch?v=1-sYojdx3kU) · Ian Wagner · [Seoul iOS Meetup 2025](../events/2025-seoul-ios-meetup.md) · 1시간 5분
+- [Next Gen Lottie: Powering Motion Graphics Across the Apple Ecosystem](https://www.youtube.com/watch?v=MThkq2Q2UUM) · Jinny You · [Seoul iOS Meetup 2025](../events/2025-seoul-ios-meetup.md) · 1시간 2분
+- [Code Less, Ship More: Supercharging Your iOS Journey with AI](https://www.youtube.com/watch?v=QauVAkg6qt8) · Fares Benhamouda · [Seoul iOS Meetup 2025](../events/2025-seoul-ios-meetup.md) · 50분
+- [Just Swizzle It](https://www.youtube.com/watch?v=ZzPWhv-YA4Y) · Klemen Košir · [Seoul iOS Meetup 2025](../events/2025-seoul-ios-meetup.md) · 7분
+- [Deep Dive into SwiftUI Styles](https://www.youtube.com/watch?v=Qi9k2Aj3Jgc) · Marcus Buexenstein · [Seoul iOS Meetup 2025](../events/2025-seoul-ios-meetup.md) · 46분
 - [\[iOS\] 왜 우리는 iOS 채팅 앱에서 17만 줄을 걷어냈나](https://www.youtube.com/watch?v=XreO2VU1Fyo) · [채널데브톡 2025](../events/2025-channel-devtalk.md) · 13분
+- [Pleos Connect: Unlocking New Opportunities for Developers](https://www.youtube.com/watch?v=LG7XssVIYKQ) · [Pleos 25](../events/2025-pleos.md) · 21분
+- [Connect Application: From Development to Deployment](https://www.youtube.com/watch?v=RWFIEbB3lYA) · [Pleos 25](../events/2025-pleos.md) · 20분
+- [What to Know Before Porting to Pleos Connect](https://www.youtube.com/watch?v=0hb94WVKQiM) · [Pleos 25](../events/2025-pleos.md) · 20분
+- [Pleos Connect SDK](https://www.youtube.com/watch?v=5-AjSKLBW3Y) · [Pleos 25](../events/2025-pleos.md) · 40분
 - [.NET MAUI 앱 개발 실전 가이드](https://www.youtube.com/watch?v=AkADqmi0KOg) · 조장원 · [.NET Conf 2025 x Seoul](../events/2025-dotnetconf.md) · 46분
 
 ## 2024년
 
-- [늦었다고 생각할 때 진짜 늦었으니 UITest로 시나리오 테스트하기](https://www.youtube.com/watch?v=UHh7NzGuaRM) · 이재웅(커리) · [Let'Swift 2024](../events/2024-letswift.md) · 21분
-- [Plugin 패턴을 이용하여 기능 확장하기](https://www.youtube.com/watch?v=ngZAj2fsiXo) · 안정민(민소네) · [Let'Swift 2024](../events/2024-letswift.md) · 36분
-- [차근차근 Swift 6 마이그레이션](https://www.youtube.com/watch?v=oxLvAw3el10) · 황예은(Yeni) · [Let'Swift 2024](../events/2024-letswift.md) · 20분
-- [적용해보면 해볼수록 빠져드는 성장형 아키텍쳐 TCA](https://www.youtube.com/watch?v=cI9i0MgIk5A) · 황재욱 · [Let'Swift 2024](../events/2024-letswift.md) · 37분
-- [자고 일어났더니, 앱스토어 3위? 나만의 네컷](https://www.youtube.com/watch?v=AOW8BQj4XaE) · 서희찬(Seochan) · [Let'Swift 2024](../events/2024-letswift.md) · 41분
-- [현실적인 SwiftUI 적응기](https://www.youtube.com/watch?v=a8OSqBeuJP8) · 손원영 & 김용덕(Double D) · [Let'Swift 2024](../events/2024-letswift.md) · 22분
-- [SPM의 동적인 사용과 TCA](https://www.youtube.com/watch?v=05Wikx5MHbA) · 이동혁(베어) · [Let'Swift 2024](../events/2024-letswift.md) · 20분
-- [App Intents, 어떻게 쓰죠?](https://www.youtube.com/watch?v=sAa1Vz5zLCE) · 김성종 · [Let'Swift 2024](../events/2024-letswift.md) · 39분
-- [On Device Debugging EchoKit](https://www.youtube.com/watch?v=T4UFdke4faE) · 송도영 · [Let'Swift 2024](../events/2024-letswift.md) · 19분
-- [VisionOS로 Vision 그려보기](https://www.youtube.com/watch?v=IsuwFjq0HlY) · 이민지(Judy) · [Let'Swift 2024](../events/2024-letswift.md) · 38분
-- [앱의 경계를 넘다 Interactive Widget](https://www.youtube.com/watch?v=AK0byeN90Sg) · 유재호 · [Let'Swift 2024](../events/2024-letswift.md) · 34분
+- [늦었다고 생각할 때 진짜 늦었으니 UITest로 시나리오 테스트하기](https://www.youtube.com/watch?v=UHh7NzGuaRM) · 이재웅(커리) · [Let'Swift 2024](../events/2024-letswift.md) · 21분
+- [Plugin 패턴을 이용하여 기능 확장하기](https://www.youtube.com/watch?v=ngZAj2fsiXo) · 안정민(민소네) · [Let'Swift 2024](../events/2024-letswift.md) · 36분
+- [차근차근 Swift 6 마이그레이션](https://www.youtube.com/watch?v=oxLvAw3el10) · 황예은(Yeni) · [Let'Swift 2024](../events/2024-letswift.md) · 20분
+- [적용해보면 해볼수록 빠져드는 성장형 아키텍쳐 TCA](https://www.youtube.com/watch?v=cI9i0MgIk5A) · 황재욱 · [Let'Swift 2024](../events/2024-letswift.md) · 37분
+- [자고 일어났더니, 앱스토어 3위? 나만의 네컷](https://www.youtube.com/watch?v=AOW8BQj4XaE) · 서희찬(Seochan) · [Let'Swift 2024](../events/2024-letswift.md) · 41분
+- [현실적인 SwiftUI 적응기](https://www.youtube.com/watch?v=a8OSqBeuJP8) · 손원영 & 김용덕(Double D) · [Let'Swift 2024](../events/2024-letswift.md) · 22분
+- [SPM의 동적인 사용과 TCA](https://www.youtube.com/watch?v=05Wikx5MHbA) · 이동혁(베어) · [Let'Swift 2024](../events/2024-letswift.md) · 20분
+- [App Intents, 어떻게 쓰죠?](https://www.youtube.com/watch?v=sAa1Vz5zLCE) · 김성종 · [Let'Swift 2024](../events/2024-letswift.md) · 39분
+- [On Device Debugging EchoKit](https://www.youtube.com/watch?v=T4UFdke4faE) · 송도영 · [Let'Swift 2024](../events/2024-letswift.md) · 19분
+- [VisionOS로 Vision 그려보기](https://www.youtube.com/watch?v=IsuwFjq0HlY) · 이민지(Judy) · [Let'Swift 2024](../events/2024-letswift.md) · 38분
+- [앱의 경계를 넘다 Interactive Widget](https://www.youtube.com/watch?v=AK0byeN90Sg) · 유재호 · [Let'Swift 2024](../events/2024-letswift.md) · 34분
 - [잠금화면이 날씨/시간에 따라 변한다](https://www.youtube.com/watch?v=xg0BZChsKAs) · [삼성 개발자 콘퍼런스 코리아 2024](../events/2024-sdc-korea.md) · 16분
 - [Samsung Health Data SDK - Samsung Digital Health Ecosystem으로의 초대](https://www.youtube.com/watch?v=wub-pPtw8OQ) · [삼성 개발자 콘퍼런스 코리아 2024](../events/2024-sdc-korea.md) · 21분
 - [Galaxy 기기로 이사하기 : 데이터 이동 경험 고도화](https://www.youtube.com/watch?v=I6H_9vC-f6o) · [삼성 개발자 콘퍼런스 코리아 2024](../events/2024-sdc-korea.md) · 31분
@@ -77,16 +96,90 @@
 - [코틀린 제로베이스 DSL](https://www.youtube.com/watch?v=whLkAVe4zU8) · hikaMaeng · [DroidKnights 2024](../events/2024-droidknights.md) · 38분
 - [고객사의 context에 최소 영향으로 채널톡 SDK에 다크모드 적용하기](https://www.youtube.com/watch?v=DARIAD2yUFE) · 윤혁 · [DroidKnights 2024](../events/2024-droidknights.md) · 31분
 - [TextField 씹고 뜯고 맛보고 즐기고](https://www.youtube.com/watch?v=slliYu30BSs) · 이현우 · [DroidKnights 2024](../events/2024-droidknights.md) · 36분
+- [Turn your phone into an IoT sensor](https://www.youtube.com/watch?v=YXRJ39ZJ7XQ) · David Green · [Seoul iOS Meetup 2024](../events/2024-seoul-ios-meetup.md) · 10분
+- [Swift programming: Memory management and ARC](https://www.youtube.com/watch?v=hzmOuEnAm3M) · Sangsun Kim · [Seoul iOS Meetup 2024](../events/2024-seoul-ios-meetup.md) · 32분
+- [Crafting beautiful software in the AI era](https://www.youtube.com/watch?v=VqlTSTTDSZ0) · Jay Mo · [Seoul iOS Meetup 2024](../events/2024-seoul-ios-meetup.md) · 1시간 0분
+- [Fast Tracking MVP Development: A Guide to Open Source Integration](https://www.youtube.com/watch?v=GjM4cdfsERA) · Kevin Umarov · [Seoul iOS Meetup 2024](../events/2024-seoul-ios-meetup.md) · 41분
+- [Exploring LLMs using MLX](https://www.youtube.com/watch?v=oh2OBNoTLrs) · Jongwook Park · [Seoul iOS Meetup 2024](../events/2024-seoul-ios-meetup.md) · 1시간 14분
+- [How We Use Supabase in Betashares Direct](https://www.youtube.com/watch?v=DYXFVPI9GoM) · Klemen Košir · [Seoul iOS Meetup 2024](../events/2024-seoul-ios-meetup.md) · 17분
+- [Dev. & GenAI Applications on the Apple Vision Pro](https://www.youtube.com/watch?v=TUQY6B7fJ-w) · Jae Hun Choe · [Seoul iOS Meetup 2024](../events/2024-seoul-ios-meetup.md) · 43분
+- [Challenges of Using Xcode at Scale](https://www.youtube.com/watch?v=rh7gDpvXH2I) · Pedro Piñera · [Seoul iOS Meetup 2024](../events/2024-seoul-ios-meetup.md) · 57분
+- [Elevating Code Quality with Trunk Check](https://www.youtube.com/watch?v=onwClvVq_Tw) · Andrew Yu · [Seoul iOS Meetup 2024](../events/2024-seoul-ios-meetup.md) · 48분
+- [Insights from Managing an iOS Boot Camp for 2 Years](https://www.youtube.com/watch?v=45rFnAV3YjM) · Do Yi Lee · [Seoul iOS Meetup 2024](../events/2024-seoul-ios-meetup.md) · 32분
+- [Productivity for Globally Expanding Teams](https://www.youtube.com/watch?v=FmYf5Yz77wg) · Uma Kim · [Seoul iOS Meetup 2024](../events/2024-seoul-ios-meetup.md) · 20분
 
 ## 2023년
 
+- [Compose로 구현하는 반응형 앱](https://www.youtube.com/watch?v=LfqawwYAwsw) · 이영우 · [11STREET TECH TALK 2023](../events/2023-11st-techtalk.md) · 13분
 - [배민도 React Native 해요?: 웹개발자들이 만들어 나가는 배민커넥트앱 이야기](https://www.youtube.com/watch?v=BjX35lYqxug) · [우아콘 2023](../events/2023-woowacon.md) · 39분
+- [Add To Samsung Wallet : 디지털 콘텐츠를 Samsung Wallet 으로 서비스하는 방법](https://www.youtube.com/watch?v=ZFK9bBX5Ztg) · [SDC23 Korea](../events/2023-sdc-korea.md) · 25분
+- [New and Enhanced Features with Samsung Privileged Health SDK On Galaxy Watch](https://www.youtube.com/watch?v=_VS7RcFqt4E) · [SDC23 Korea](../events/2023-sdc-korea.md) · 29분
+- [Watch Face Format 하위 호환성 해결 Key! Android App Bundle](https://www.youtube.com/watch?v=BPNYzRM3aro) · [SDC23 Korea](../events/2023-sdc-korea.md) · 19분
+- [커넥티드 카 모바일 앱, 3D로 보는 미래](https://www.youtube.com/watch?v=5vgmO7-owNc) · [제3회 HMG Developer Conference](../events/2023-hmg-devcon.md) · 18분
+- [오프닝 키노트](https://www.youtube.com/watch?v=KdK866IRp10) · [Let'Swift 2023](../events/2023-letswift.md) · 12분
+- [요즘 유행하는 AI 나도 해보자 (feat. CoreML)](https://www.youtube.com/watch?v=UzLyavMqwtI) · 곰튀김 · [Let'Swift 2023](../events/2023-letswift.md) · 41분
+- [스위프트 매크로, 어디다 쓰죠?](https://www.youtube.com/watch?v=2ZqyWLvglP0) · 김성종 · [Let'Swift 2023](../events/2023-letswift.md) · 37분
+- [Tuist, 도입은 했는데 그래서 Modular Architecture은 어떻게 만들어가면 되나요?](https://www.youtube.com/watch?v=umadha26oNY) · 김우성 · [Let'Swift 2023](../events/2023-letswift.md) · 39분
+- [당근 iOS 프로젝트 성장기](https://www.youtube.com/watch?v=vV1q9sEGadw) · 당근팀 · [Let'Swift 2023](../events/2023-letswift.md) · 36분
+- [Path of Swift](https://www.youtube.com/watch?v=qW8L3evJU5E) · Swift가 프로그램이 되기까지 by 라이노 · [Let'Swift 2023](../events/2023-letswift.md) · 29분
+- [객체가 함수를 만났을 때](https://www.youtube.com/watch?v=ARe1IkHYziY) · 권문범 · [Let'Swift 2023](../events/2023-letswift.md) · 57분
+- [CoreBluetooth로 BLE기기를 연동할 때 마주하는 문제들과 부딪혀보기](https://www.youtube.com/watch?v=D9H9trRKpOM) · 허성진 · [Let'Swift 2023](../events/2023-letswift.md) · 30분
+- [오픈 소스로서의 Swift 깊게 바라보기: Swift-evolution과 proposal](https://www.youtube.com/watch?v=JnmK70A3LZA) · 이승준 · [Let'Swift 2023](../events/2023-letswift.md) · 29분
+- [SwiftUI 레이아웃과 데이터 플로우 이해하기](https://www.youtube.com/watch?v=KZfsqZJdt74) · 허원 · [Let'Swift 2023](../events/2023-letswift.md) · 29분
+- [Metal Shader로 달라지는 UX/UI의 변화](https://www.youtube.com/watch?v=MeM8hdDf2Z0) · 안솔찬 · [Let'Swift 2023](../events/2023-letswift.md) · 16분
+- [SwiftUI border 어디까지 그려보셨나요?](https://www.youtube.com/watch?v=PaClYRM5qZw) · 리이오 · [Let'Swift 2023](../events/2023-letswift.md) · 18분
+- [잊지마세요 Unwind Segue](https://www.youtube.com/watch?v=Rx9bim6-wOU) · 생각보다 Segue는 "여전히" 유용합니다 by 방현석 · [Let'Swift 2023](../events/2023-letswift.md) · 21분
+- [iOS 애플리케이션 개발 생산성 고찰 - 빠른 퇴근을 위한 우리는 어떻게 해야할 것인가?](https://www.youtube.com/watch?v=Tto6BJFAicA) · 안정민 · [Let'Swift 2023](../events/2023-letswift.md) · 26분
+- [Swift로 Cross Platform 하기](https://www.youtube.com/watch?v=sh66E-wYOA4) · 안지훈 · [Let'Swift 2023](../events/2023-letswift.md) · 19분
+- [Xcode 프로젝트와 컴파일러 인덱스로 의존성 찾기](https://www.youtube.com/watch?v=3ZWDTgOmZGk) · 고드름 · [Let'Swift 2023](../events/2023-letswift.md) · 33분
 - [Flutter 엔지니어로 직무 전환한 이야기](https://www.youtube.com/watch?v=By9k4vZ__Mk) · 김종식 · [인프런 퇴근길 밋업 #03 Flutter with LINE](../events/2023-inflearn-meetup-03.md) · 26분
 - [Flutter 프로젝트에 테스트 들이붓기 (부제: 코드 신뢰성을 향상시키기 위한 테스트 사례들)](https://www.youtube.com/watch?v=_ZGcgTSuHmc) · 최연두 · [인프런 퇴근길 밋업 #03 Flutter with LINE](../events/2023-inflearn-meetup-03.md) · 25분
 - [Flutter Canvas로 어디까지 해봤니? - Flutter Canvas로 이스터에그 게임 그리기](https://www.youtube.com/watch?v=k3Q2jKKQMcg) · 조용대 · [인프런 퇴근길 밋업 #03 Flutter with LINE](../events/2023-inflearn-meetup-03.md) · 23분
+- [Apple생태계도 나도 성장했던 7년간의 기록](https://www.youtube.com/watch?v=aBDmqOMTrks) · [제5회 데보션(DEVOCEAN) 테크 데이](../events/2023-devocean-techday-5.md) · 22분
+- [Gradle Version Catalog 적용하기](https://www.youtube.com/watch?v=zQAGIQzOJcg) · 차영호 · [DroidKnights 2023](../events/2023-droidknights.md) · 23분
+- [Git Good with Android Studio](https://www.youtube.com/watch?v=LPfpceIQ2Cw) · Márton Braun · [DroidKnights 2023](../events/2023-droidknights.md) · 45분
+- [헤이딜러의 UX스터디 이야기](https://www.youtube.com/watch?v=dgjPgUdgO-Y) · 박상권 · [DroidKnights 2023](../events/2023-droidknights.md) · 30분
+- [Compose 첫 걸음 II Compose Migration](https://www.youtube.com/watch?v=3Eo-fVCkjPg) · 박주형 · [DroidKnights 2023](../events/2023-droidknights.md) · 34분
+- [20년된 Naver Cafe 서비스가 Modularization로 진화하기](https://www.youtube.com/watch?v=gVeiIdc0g5Y) · 정동진 · [DroidKnights 2023](../events/2023-droidknights.md) · 43분
+- [Coroutine Deep Dive - Android 실전편](https://www.youtube.com/watch?v=x0KY6qtuNHg) · 김준비 · [DroidKnights 2023](../events/2023-droidknights.md) · 35분
+- [Dagger Hilt로 의존성 주입부터 멀티모듈화까지](https://www.youtube.com/watch?v=iE_2llWUI6A) · 안성용 · [DroidKnights 2023](../events/2023-droidknights.md) · 25분
+- [테스트 잘하는 주니어 개발자 되기](https://www.youtube.com/watch?v=mcq0TMqPBSk) · 정정환 · [DroidKnights 2023](../events/2023-droidknights.md) · 34분
+- [A small leak can sink a great ship](https://www.youtube.com/watch?v=OavSFJfdsxI) · Ayushi Gupta · [DroidKnights 2023](../events/2023-droidknights.md) · 31분
+- [Gradle Kotlin 컨벤션 플러그인으로 효율적으로 멀티 모듈 관리하기](https://www.youtube.com/watch?v=7iag6zpGd98) · 윤영직 · [DroidKnights 2023](../events/2023-droidknights.md) · 31분
+- [Re:Android Studio 설정으로 생산성 올리기](https://www.youtube.com/watch?v=q77WgeAUg0c) · 노현석 · [DroidKnights 2023](../events/2023-droidknights.md) · 51분
+- [빈혈(anemic) 도메인 모델과 쓸모없는 유스케이스 그리고 비대한(Bloated) 뷰모델에 대해 생각해보기](https://www.youtube.com/watch?v=3mR8_vT7m1U) · 박종혁 · [DroidKnights 2023](../events/2023-droidknights.md) · 28분
+- [Jetpack Media3로 좋은 콘텐츠 소비 경험 구현하기](https://www.youtube.com/watch?v=0IPoRZgnja4) · 류기민 · [DroidKnights 2023](../events/2023-droidknights.md) · 31분
+- [Compose Multiplatform 101](https://www.youtube.com/watch?v=5vHqEhLvcdE) · 김용욱 · [DroidKnights 2023](../events/2023-droidknights.md) · 37분
+- [Compose로 위젯을 만든다고?! Glance를 이용한 차량 위젯 개발기](https://www.youtube.com/watch?v=NTR7800sXhM) · 정태훈 · [DroidKnights 2023](../events/2023-droidknights.md) · 24분
+- [Designing for foldables in 2023](https://www.youtube.com/watch?v=WRHsZHp2wBU) · Enrique López Mañas · [DroidKnights 2023](../events/2023-droidknights.md) · 33분
+- [기존 앱을 Jetpack Compose로 마이그레이션 하기](https://www.youtube.com/watch?v=E4OmRPD332Q) · 이상훈 · [DroidKnights 2023](../events/2023-droidknights.md) · 50분
+- [APK 말고 AAR을 빌드해보시겠어요? 주니어 개발자의 SDK 개발기](https://www.youtube.com/watch?v=4hZNTL8kHPw) · 문예지 · [DroidKnights 2023](../events/2023-droidknights.md) · 23분
+- [Key Maker : App 개발이 체질](https://www.youtube.com/watch?v=NjAJR56BJhA) · [2nd Softeer Tech Meet-up](../events/2023-softeer-tech-meetup-2.md) · 32분
+- [MY GENESIS 앱 개발 여정 with SwiftUI, Compose](https://www.youtube.com/watch?v=mWM0Ia2FhpU) · [2nd Softeer Tech Meet-up](../events/2023-softeer-tech-meetup-2.md) · 28분
+- [통합 모빌리티 서비스 App 개발 Best Practice](https://www.youtube.com/watch?v=yN16Bn9GazI) · [2nd Softeer Tech Meet-up](../events/2023-softeer-tech-meetup-2.md) · 20분
+- [CustomPainterCanvas](https://www.youtube.com/watch?v=zp6nybNYjBQ) · [Flutter Meetup Songdo 23](../events/2023-gdg-songdo-flutter.md) · 26분
+- [Flutter with AI TensorFlow Lite](https://www.youtube.com/watch?v=p_q4ECN33Yc) · [Flutter Meetup Songdo 23](../events/2023-gdg-songdo-flutter.md) · 27분
+- [로컬 디비를 다루는 노하우, in Flutter](https://www.youtube.com/watch?v=uXS0kiJQMtw) · [Flutter Meetup Songdo 23](../events/2023-gdg-songdo-flutter.md) · 24분
+- [플러터에 Apple Pay, Google Pay를 붙여 보자](https://www.youtube.com/watch?v=xf4kI_emeFo) · [Flutter Meetup Songdo 23](../events/2023-gdg-songdo-flutter.md) · 19분
+- [상태관리 올바르게 쓰기](https://www.youtube.com/watch?v=XsbKfvznouA) · [Flutter Meetup Songdo 23](../events/2023-gdg-songdo-flutter.md) · 23분
+- [플러터로 설명하는 WebSite와 WebApp의 차이](https://www.youtube.com/watch?v=nj2rVsu5n8w) · [Flutter Meetup Songdo 23](../events/2023-gdg-songdo-flutter.md) · 30분
+- [Dart, 더욱 잘쓰는 8가지 기능들](https://www.youtube.com/watch?v=A2yOLycDuI4) · [Flutter Meetup Songdo 23](../events/2023-gdg-songdo-flutter.md) · 38분
+- [오늘은 에버가 프로젝트 스크럼 다녀오시죠! 주니어 개발자인 나, 대표로 스크럼이라고라고라?](https://www.youtube.com/watch?v=hnT5ag6dXws) · Ever · [카카오뱅크 기술 밋업 #1 퇴근길 기술 한 잔 with iOS 앱 개발자](../events/2023-kakaobank-meetup-1.md) · 17분
+- [import를 사용하면 어떤 일이 일어날까? ChatGPT와 함께 로그 분석하기](https://www.youtube.com/watch?v=nLvfqXxnZrU) · Damon · [카카오뱅크 기술 밋업 #1 퇴근길 기술 한 잔 with iOS 앱 개발자](../events/2023-kakaobank-meetup-1.md) · 22분
+- [왜 이렇게 설계 하셨나요? 시니어 개발자가 Why라는 질문을 던지는 이유](https://www.youtube.com/watch?v=lOMBL0AMRbQ) · Nick · [카카오뱅크 기술 밋업 #1 퇴근길 기술 한 잔 with iOS 앱 개발자](../events/2023-kakaobank-meetup-1.md) · 16분
+- [웹뷰를 이용해 웹 서비스를 앱으로 빠르게 구현하기](https://www.youtube.com/watch?v=hsh8BS7gyrY) · [인프콘 2023](../events/2023-infcon.md) · 40분
+- [그 많던 코드는 누가 다 먹었을까: Kotlin multiplatform을 활용한 서비스 런칭기](https://www.youtube.com/watch?v=5Q5eSB_1eQE) · [인프콘 2023](../events/2023-infcon.md) · 22분
 - [React Native Webview를 사용해서 React로만 앱 만들기](https://www.youtube.com/watch?v=Ecg52wAlYus) · [React Native Webview를 사용해서 React로만 앱 만들기](../events/2023-awskrug-frontend-07.md) · 52분
 - [달리는 토스 앱에 React Native 엔진 더하기](https://www.youtube.com/watch?v=6H9WQDRFZYg) · [SLASH 23](../events/2023-slash.md) · 18분
 - [레고처럼 조립하는 토스 앱](https://www.youtube.com/watch?v=zsLQQTuGiVw) · [SLASH 23](../events/2023-slash.md) · 15분
+- [Integrating Supabase into Your iOS Workflow](https://www.youtube.com/watch?v=0Q0leVjH2gM) · Marcus Buexenstein · [Seoul iOS Meetup 2023](../events/2023-seoul-ios-meetup.md) · 47분
+- [Cracking the Code: Automation with OpenAPI](https://www.youtube.com/watch?v=1DkOCVeX26s) · Yessen Yermukhanbet · [Seoul iOS Meetup 2023](../events/2023-seoul-ios-meetup.md) · 37분
+- [KWDC 2023 Highlights](https://www.youtube.com/watch?v=22GjhyFqEcE) · Sujin Lee · [Seoul iOS Meetup 2023](../events/2023-seoul-ios-meetup.md) · 17분
+- [Improve Productivity with Server Driven UI](https://www.youtube.com/watch?v=ZkP5qPteqhk) · KyuYoung Heo · [Seoul iOS Meetup 2023](../events/2023-seoul-ios-meetup.md) · 55분
+- [Simplify Modular Project Generation with Tuist](https://www.youtube.com/watch?v=chsMQCDfyDs) · Hamin Song · [Seoul iOS Meetup 2023](../events/2023-seoul-ios-meetup.md) · 53분
+- [Unpacking WWDC 2023](https://www.youtube.com/watch?v=VcUvZvvLyEw) · Florian Ludot · [Seoul iOS Meetup 2023](../events/2023-seoul-ios-meetup.md) · 1시간 0분
+- [A Treasure Hunt through WWDC Student Challenge](https://www.youtube.com/watch?v=rlxRgopwPkE) · Yujin Lee · [Seoul iOS Meetup 2023](../events/2023-seoul-ios-meetup.md) · 22분
+- [DragGesture: Drag Failure to the Next Step](https://www.youtube.com/watch?v=k4U_peP9rhg) · Jaesung Kim · [Seoul iOS Meetup 2023](../events/2023-seoul-ios-meetup.md) · 31분
 - [Flutter Forward Extended Korea](https://www.youtube.com/watch?v=TPZgD08xFKM) · [Flutter Forward Extended Korea](../events/2023-flutter-forward-extended.md) · 5시간 37분
 - [Keynote](https://www.youtube.com/watch?v=lBI2r8uqJaM) · [Flutter Forward Extended Korea](../events/2023-flutter-forward-extended.md) · 13분
 - [Flutter 개발자라면 놓치면 안되는 Flutter Forward Contents](https://www.youtube.com/watch?v=Ai1I6vcUwgU) · 유병욱, NSUSLab Korea · [Flutter Forward Extended Korea](../events/2023-flutter-forward-extended.md) · 18분
@@ -97,30 +190,169 @@
 - [Flutter Naver Map 1.0 리뉴얼 돌아보기](https://www.youtube.com/watch?v=wPkFsdIoDG0) · 김노트 (note11) · [Flutter Forward Extended Korea](../events/2023-flutter-forward-extended.md) · 33분
 - [LiveOps : 네이버앱의 실시간 운영과 크래시 핸들링 솔루션](https://www.youtube.com/watch?v=Wh03CX9ONHg) · [DEVIEW 2023](../events/2023-deview.md) · 37분
 - [그 여자 APP, 그 남자 SDK: Kotlin Multiplatform 적용기](https://www.youtube.com/watch?v=B27Yu9uQvqY) · [DEVIEW 2023](../events/2023-deview.md) · 44분
+- [혼자서도 잘하는 메모리 청소부 쥐씨](https://www.youtube.com/watch?v=F4lWAWOTXyg) · [IMDEV 2023](../events/2023-imdev.md) · 18분
+- [당신의 웹페이지는 몇 점인가요?](https://www.youtube.com/watch?v=aO-z9YmxOUk) · [IMDEV 2023](../events/2023-imdev.md) · 32분
+- [Redis를 활용한 Mobile APM 백엔드 성능 향상시키기](https://www.youtube.com/watch?v=xkHLxIs4PsM) · [IMDEV 2023](../events/2023-imdev.md) · 14분
+- [Reactive를 사용한 서비스 성능 개선기](https://www.youtube.com/watch?v=yX3HoU0F5sY) · [IMDEV 2023](../events/2023-imdev.md) · 14분
+- [IMQA Container 환경 서비스 제공 적응기](https://www.youtube.com/watch?v=MdrOjh_aIxw) · [IMDEV 2023](../events/2023-imdev.md) · 16분
+- [ProxySQL로 DB 문제 해결하기](https://www.youtube.com/watch?v=a4tUa5cs9kk) · [IMDEV 2023](../events/2023-imdev.md) · 14분
+- [누구보다 빠르게, 남들과는 다르게! 가장 빠른 GraalVM](https://www.youtube.com/watch?v=rfWzRTY5e5s) · [IMDEV 2023](../events/2023-imdev.md) · 28분
+- [​우리는 바이트 코드로 대화합니다](https://www.youtube.com/watch?v=xNBqDo4PA2M) · [IMDEV 2023](../events/2023-imdev.md) · 13분
+- [OLAP 이해와 IMQA의 OLAP](https://www.youtube.com/watch?v=35lJ2L5-r0M) · [IMDEV 2023](../events/2023-imdev.md) · 26분
+- [자주 묻는 질문과 실제 IMQA 활용사례](https://www.youtube.com/watch?v=2pmYPBgoxe4) · [IMDEV 2023](../events/2023-imdev.md) · 5분
 
 ## 2022년
 
+- [UIKit을 떠나보내기 위해 시도한 것들](https://www.youtube.com/watch?v=6jcm5DRspRk) · [adiOS 2022 Something](../events/2022-adios-something.md) · 15분
+- [커뮤니티 활동과 떠나간 2022](https://www.youtube.com/watch?v=18rH6RD5mvE) · [adiOS 2022 Something](../events/2022-adios-something.md) · 12분
+- ['완전 자율 문화'를 위한 이별](https://www.youtube.com/watch?v=m5YpJNJdihc) · [adiOS 2022 Something](../events/2022-adios-something.md) · 20분
+- [Flutter 앱에서 머신러닝 활용 방법](https://www.youtube.com/watch?v=1pLtE_akP90) · 박제창(Flutter Seoul) · [모두콘 2022](../events/2022-moducon.md) · 20분
+- [Flutter, 어떻게 해야 더 잘 쓸까?](https://www.youtube.com/watch?v=ZtR8ux9y5AI) · 유병욱(Flutter Seoul) · [모두콘 2022](../events/2022-moducon.md) · 22분
+- [Github Actions를 활용한 Flutter 배포 자동화하기](https://www.youtube.com/watch?v=dRKuDu9c1So) · 양수장(GDG Songdo) · [모두콘 2022](../events/2022-moducon.md) · 23분
+- [Flutter로 앱, 스토어 정보, 스크린샷 모두를 90개 언어로 자동 번역할 수 있다?](https://www.youtube.com/watch?v=aZHpeMubVLM) · 이준규(GDG Songdo) · [모두콘 2022](../events/2022-moducon.md) · 22분
+- [Yaft 개발로 보는 Cross Platform SDK 개발기](https://www.youtube.com/watch?v=5lzOzLDHESU) · [if(kakao)dev2022](../events/2022-ifkakao.md) · 12분
+- [다리는 걸을 뿐.. 만보기 서비스 개발기: 만보기 서비스를 개발하면서 겪은 이야기](https://www.youtube.com/watch?v=KuJ1HkEgK94) · [if(kakao)dev2022](../events/2022-ifkakao.md) · 19분
+- [카카오뱅크 iOS 프로젝트의 모듈화 여정: Tuist를 활용한 모듈 아키텍처 설계 사례](https://www.youtube.com/watch?v=Up0wYoyY3o0) · [if(kakao)dev2022](../events/2022-ifkakao.md) · 30분
+- [안드로이드 개발 환경 개선을 위한 노력들: Jenkins CI 파이프라인과 리모트 빌드 소개](https://www.youtube.com/watch?v=YXi0eipXBKk) · [if(kakao)dev2022](../events/2022-ifkakao.md) · 23분
+- [카카오페이 앱 리빌딩 스토리](https://www.youtube.com/watch?v=Y0szAIW_tFs) · [if(kakao)dev2022](../events/2022-ifkakao.md) · 19분
+- [카카오페이 iOS 웹뷰 소개 및 리팩토링 이야기](https://www.youtube.com/watch?v=LoquQp90xbM) · [if(kakao)dev2022](../events/2022-ifkakao.md) · 20분
+- [SwiftLayout을 소개합니다.: 선언형 문법으로 가독성 높은 UIKit 코드 작성하기](https://www.youtube.com/watch?v=wtR5L_e1sYY) · [if(kakao)dev2022](../events/2022-ifkakao.md) · 16분
+- [QA엔지니어가 바라본 모바일 자동화 테스트: 사례와 경험공유](https://www.youtube.com/watch?v=ARBZAhC3ah8) · [if(kakao)dev2022](../events/2022-ifkakao.md) · 30분
+- [Dooray! 모바일 앱의 클린 아키텍처 적용기](https://www.youtube.com/watch?v=4Rk0MR2BVjI) · [NHN FORWARD 22](../events/2022-nhn-forward.md) · 30분
+- [ReactorKit을 이용한 MVI 적용 과정](https://www.youtube.com/watch?v=Wr6jebUAfOw) · [NHN FORWARD 22](../events/2022-nhn-forward.md) · 38분
+- [대규모 리팩터링으로 Demae-can 앱 톱 페이지 보수성 개선하기](https://www.youtube.com/watch?v=wXq4bLitrxA) · [Tech-Verse 2022 한국어판](../events/2022-tech-verse.md) · 44분
+- ["PayPay프리마" 는 Paging 2를 어떻게 Paging 3으로 이행했는가](https://www.youtube.com/watch?v=Ui6aDeDsk6k) · [Tech-Verse 2022 한국어판](../events/2022-tech-verse.md) · 36분
+- [LINE, 새로운 버전의 iOS에 대응해 전 세계 개발자에 공헌](https://www.youtube.com/watch?v=1EzXoNvDwVU) · [Tech-Verse 2022 한국어판](../events/2022-tech-verse.md) · 39분
+- [새로운 가치를 지속해서 제공하기 위한 코드 건전화 방안 - Yahoo! 날씨앱](https://www.youtube.com/watch?v=eHuzgIBZ7JA) · [Tech-Verse 2022 한국어판](../events/2022-tech-verse.md) · 42분
+- [새로운 사용자 경험을 실현하기 위한 iOS 신기능 도입과 그 후](https://www.youtube.com/watch?v=OPxpPLhHfqM) · [Tech-Verse 2022 한국어판](../events/2022-tech-verse.md) · 42분
+- [모바일 앱의 기술 과제 정량화 및 추적 노하우](https://www.youtube.com/watch?v=nTiU0MYkmHo) · [Tech-Verse 2022 한국어판](../events/2022-tech-verse.md) · 48분
+- [Anko에서 Jetpack Compose로, LINE Sticker Maker 기술 부채 해소하기](https://www.youtube.com/watch?v=ONndhzYZtbE) · [Tech-Verse 2022 한국어판](../events/2022-tech-verse.md) · 35분
+- [LINE LIVE iOS의 SwiftUI - 기술 선택과 구현](https://www.youtube.com/watch?v=HZtH67dBp4Y) · [Tech-Verse 2022 한국어판](../events/2022-tech-verse.md) · 35분
+- [차량 상태 제어 통합을 위한 Compose+Coroutine 기반 커넥티드카 서비스 Android 앱 개발](https://www.youtube.com/watch?v=Vef17KUnU8M) · [제2회 HMG Developer Conference](../events/2022-hmg-devcon.md) · 51분
+- [브랜드 및 지역별 앱 배포를 위한 "One Source Multi Binary" iOS 앱 개발 방법](https://www.youtube.com/watch?v=H6_bFyHvaEU) · [제2회 HMG Developer Conference](../events/2022-hmg-devcon.md) · 42분
+- [갤럭시 워치로 건강 경험 확대](https://www.youtube.com/watch?v=BJw0BkpG_Vo) · [Samsung Software Developer Conference 2022](../events/2022-ssdc.md) · 24분
+- [Quick Share로 Galaxy를 하나로](https://www.youtube.com/watch?v=NTrK4xyF6HI) · [Samsung Software Developer Conference 2022](../events/2022-ssdc.md) · 21분
+- [삼성 갤럭시 카메라 에코시스템](https://www.youtube.com/watch?v=7GmDEXuS2aI) · [Samsung Software Developer Conference 2022](../events/2022-ssdc.md) · 19분
+- [삼성 월렛과 함께하는 디지털 라이프](https://www.youtube.com/watch?v=yzKumP1ioQA) · [Samsung Software Developer Conference 2022](../events/2022-ssdc.md) · 21분
+- [Tizen TV를 위한 Flutter 소개](https://www.youtube.com/watch?v=Vulm5lR2tbg) · [Samsung Software Developer Conference 2022](../events/2022-ssdc.md) · 22분
+- [Clean Architecture 기반의 Flutter 모바일 앱 개발 사례](https://www.youtube.com/watch?v=wGj0HzcKf0c) · [Samsung Software Developer Conference 2022](../events/2022-ssdc.md) · 24분
+- [HIG에 영향을 받은 프로덕트 디자이너의 좋은 습관과 나쁜 습관](https://www.youtube.com/watch?v=WcK5VUXXTDc) · [SyncSwift 2022](../events/2022-syncswift.md) · 19분
+- [MVI패턴과 어울리는 SwiftUI 화면 이동 라이브러리 만들기](https://www.youtube.com/watch?v=rq8KB21d7jQ) · [SyncSwift 2022](../events/2022-syncswift.md) · 21분
+- [Tuist... 한 번 써봤는데요?](https://www.youtube.com/watch?v=7rvwGLhor-I) · [SyncSwift 2022](../events/2022-syncswift.md) · 25분
+- [SwiftUI로 앱 서비스 출시까지](https://www.youtube.com/watch?v=zcx9i8pjkbE) · [SyncSwift 2022](../events/2022-syncswift.md) · 17분
+- [Vision을 사용한 여러가지 기능들](https://www.youtube.com/watch?v=q1KDyAfOPeQ) · [SyncSwift 2022](../events/2022-syncswift.md) · 25분
+- [Widget 세상으로 가는 입구가 여깁니다](https://www.youtube.com/watch?v=TDgDZTrJCoM) · [SyncSwift 2022](../events/2022-syncswift.md) · 28분
+- [두 번의 처음](https://www.youtube.com/watch?v=vG11lAWU9TU) · [SyncSwift 2022](../events/2022-syncswift.md) · 22분
+- [아카데미 최강듀오, 기획해 듀오 & 개발해 듀오](https://www.youtube.com/watch?v=sAJZ9ExzjKA) · [SyncSwift 2022](../events/2022-syncswift.md) · 28분
+- [나만 몰랐던, Xcode Breakpoint 야무지게 쓰는 법](https://www.youtube.com/watch?v=K7mH_o1PBS0) · [SyncSwift 2022](../events/2022-syncswift.md) · 35분
+- [프로토콜과 some, any에 대한 고찰](https://www.youtube.com/watch?v=3sfrqRaLuWk) · [SyncSwift 2022](../events/2022-syncswift.md) · 35분
+- [Widget에서 활용하면 빛이나는 CoreData (feat. Lockscreen)](https://www.youtube.com/watch?v=LYMOKMfMl0w) · [SyncSwift 2022](../events/2022-syncswift.md) · 23분
+- [WWDC Student Challenge 우승과 앱 기획](https://www.youtube.com/watch?v=PJF1tH4YVNo) · [SyncSwift 2022](../events/2022-syncswift.md) · 15분
+- [히그머니나! 알면 알수록 놀라운 HIG의 세계](https://www.youtube.com/watch?v=oZz0Fsgg6XY) · [SyncSwift 2022](../events/2022-syncswift.md) · 18분
+- [개인앱 개발, 이렇게 하면 실패한다!](https://www.youtube.com/watch?v=WI3Dam30kNE) · [SyncSwift 2022](../events/2022-syncswift.md) · 23분
+- [디자이너들이 애플에 열광했던 순간들](https://www.youtube.com/watch?v=TY4354MQx_s) · [SyncSwift 2022](../events/2022-syncswift.md) · 24분
+- [Swift Concurrency 적응기](https://www.youtube.com/watch?v=jdtgniY-8wA) · [SyncSwift 2022](../events/2022-syncswift.md) · 32분
+- [당신이 TDD를 시도했다가 포기해봤다면](https://www.youtube.com/watch?v=HFrwu0r6IgE) · [SyncSwift 2022](../events/2022-syncswift.md) · 25분
+- [키노트](https://www.youtube.com/watch?v=b8JPjHK5wvw) · 고드름 · [Let'Swift 2022](../events/2022-letswift.md) · 16분
+- [인증서와 프로비저닝 프로파일](https://www.youtube.com/watch?v=Kbx_lBhhwDA) · 강수진 · [Let'Swift 2022](../events/2022-letswift.md) · 20분
+- [우린 같은곳을 바라보고 있을까요?](https://www.youtube.com/watch?v=BjvVfUQtsOs) · 박용권 · [Let'Swift 2022](../events/2022-letswift.md) · 21분
+- [비전공 대졸 경력0년차 초주니어의 iOS 개발자로 살아남기](https://www.youtube.com/watch?v=3k3LyFBKwyo) · 권은빈 · [Let'Swift 2022](../events/2022-letswift.md) · 22분
+- [PencilKit과 Point in polygon 알고리즘을 활용한 올가미 툴 개발기](https://www.youtube.com/watch?v=PU8FkRTMc2M) · 이해석 · [Let'Swift 2022](../events/2022-letswift.md) · 21분
+- [Modular Architecture with Tuist](https://www.youtube.com/watch?v=kfuOcu0q0Ls) · 김우성 · [Let'Swift 2022](../events/2022-letswift.md) · 34분
+- [테크스펙으로 모두가 함께 성장하기](https://www.youtube.com/watch?v=QHaVLYGqjvs) · 류성두 · [Let'Swift 2022](../events/2022-letswift.md) · 24분
+- [Migration to tvOS](https://www.youtube.com/watch?v=koOZNqT1NNM) · 손원영 · [Let'Swift 2022](../events/2022-letswift.md) · 22분
+- [키노트](https://www.youtube.com/watch?v=diodVQ0yO_Y) · 리이오 · [Let'Swift 2022](../events/2022-letswift.md) · 13분
+- [사업가의 눈으로 본 iOS 개발자의 미래](https://www.youtube.com/watch?v=IAj-9MQLsvY) · 이재관 · [Let'Swift 2022](../events/2022-letswift.md) · 21분
+- [(워크숍) SwiftUI와 TCA로 GithubSearch 앱 만들기](https://www.youtube.com/watch?v=2DO420E9lvs) · 허규영, 김대영 · [Let'Swift 2022](../events/2022-letswift.md) · 51분
+- [우당탕탕! SafariExtension에서 XcodeExtension까지](https://www.youtube.com/watch?v=XDaaN9MLPvQ) · 이다혜 · [Let'Swift 2022](../events/2022-letswift.md) · 18분
+- [iOS 개발에서 알아두면 좋은 것들](https://www.youtube.com/watch?v=2F2ao66eDUw) · 강민규, 안정민 · [Let'Swift 2022](../events/2022-letswift.md) · 33분
+- [당근마켓 iOS 개발문화 (티타임)](https://www.youtube.com/watch?v=K_elCcD27IA) · [Let'Swift 2022](../events/2022-letswift.md) · 19분
+- [SwiftUI가 UIKit품기 vs UIKit이 SwiftUI 품기](https://www.youtube.com/watch?v=BjevH2P84Rg) · 김예원, 리이오 · [Let'Swift 2022](../events/2022-letswift.md) · 19분
+- [(워크숍) 그래서 테스트코드는 어떻게 작성하고 있나요?](https://www.youtube.com/watch?v=QEatbenQC7E) · 윤중현 · [Let'Swift 2022](../events/2022-letswift.md) · 1시간 4분
+- [펫밋 개발 스토리 (Flutter 와 Fast API)](https://www.youtube.com/watch?v=UmZlKdDbVQk) · [데보션 10월 Tech 세미나 · 펫밋 개발 스토리 (Flutter 와 Fast API)](../events/2022-devocean-seminar-10.md) · 1시간 44분
+- [Jetpack Compose로 디자인시스템 만들기](https://www.youtube.com/watch?v=O1yPOr7J3gY) · [우아콘 2022](../events/2022-woowacon.md) · 47분
+- [웹툰에서 노는 새로운 방법? 댓글이 날아가요! 만화경 구름톡 개발기](https://www.youtube.com/watch?v=JCbM8c4crM8) · [우아콘 2022](../events/2022-woowacon.md) · 19분
+- [리액트 네이티브 리팩토링](https://www.youtube.com/watch?v=dPChKa1C9H4) · [우아콘 2022](../events/2022-woowacon.md) · 16분
+- [\[2편\] 좌충우돌 iOS+Android+웹뷰 개발 이야기](https://www.youtube.com/watch?v=pdy1WXEawiw) · [우아콘 2022](../events/2022-woowacon.md) · 34분
+- [모바일 네트워크 속 파이썬, 최홍준 이승재](https://www.youtube.com/watch?v=ky4CePxgnWM) · [파이콘 한국 2022](../events/2022-pycon.md) · 19분
+- [공채 준비 경험자의 취업준비 왼손으로 비비고 오른손으로 비비기](https://www.youtube.com/watch?v=7kDUah5Gm1A) · [adiOS 2022 ASAP](../events/2022-adios-asap.md) · 36분
+- [WWDC winner 되는 법](https://www.youtube.com/watch?v=uprqtftMpW4) · [adiOS 2022 ASAP](../events/2022-adios-asap.md) · 16분
+- [아... 이력서 이렇게 쓰는거 아닌데...](https://www.youtube.com/watch?v=nwcZipR2azs) · [adiOS 2022 ASAP](../events/2022-adios-asap.md) · 21분
+- [iOS 개발 이렇게 시작하는거 아니에요?](https://www.youtube.com/watch?v=V6d_f9q2EUg) · [adiOS 2022 ASAP](../events/2022-adios-asap.md) · 20분
 - [Flutter I/O Extended Korea](https://www.youtube.com/watch?v=2zNYDTOLkzU) · [Flutter I/O Extended Korea](../events/2022-flutter-io-extended.md) · 4시간 16분
 - [iOS앱을 매주 배포 한다고?](https://www.youtube.com/watch?v=GhcJ-KDFLrU) · [SLASH 22](../events/2022-slash.md) · 17분
 - [토스 앱 오픈시간 1초를 줄이기까지](https://www.youtube.com/watch?v=IVt7HjUM0LQ) · [SLASH 22](../events/2022-slash.md) · 12분
 - [미친 생산성을 위한 React Native](https://www.youtube.com/watch?v=b_6CjuvVg8o) · [SLASH 22](../events/2022-slash.md) · 20분
 - [UIKit으로 만들어진 토스 디자인 시스템, SwiftUI에서 쓸 수 있을까?](https://www.youtube.com/watch?v=q0CX-0k2l0g) · [SLASH 22](../events/2022-slash.md) · 8분
+- [Kko-okk, a promise-making application for the parents and the children](https://www.youtube.com/watch?v=DVauRWCogWI) · 김제필 · [AsyncSwift Seminar 001](../events/2022-asyncswift-001.md) · 18분
+- [Swift 함수형 프로그래밍과 현대 대수학](https://www.youtube.com/watch?v=n6AOA0XAv90) · 이창신 · [AsyncSwift Seminar 001](../events/2022-asyncswift-001.md) · 28분
+- [사이드프로젝트로 이직하기](https://www.youtube.com/watch?v=4olTOLFZwKY) · 유현식 · [AsyncSwift Seminar 001](../events/2022-asyncswift-001.md) · 29분
+- [Swift 배워서 부자되기](https://www.youtube.com/watch?v=ecKPKW8mDdU) · 왕수용 · [AsyncSwift Seminar 001](../events/2022-asyncswift-001.md) · 25분
+- [맥북 오너 1년차... 그러나 iOS 개발은 1개월차?!](https://www.youtube.com/watch?v=M678vw6qPrc) · [adiOS 2022 Intro](../events/2022-adios-intro.md) · 20분
+- [1개월차 iOS 초보개발자! 입문을 망설인 이유?](https://www.youtube.com/watch?v=wGhFJWPGjb4) · [adiOS 2022 Intro](../events/2022-adios-intro.md) · 8분
+- [그래서 왜 iOS인데?](https://www.youtube.com/watch?v=tWTB3o6SQNM) · [adiOS 2022 Intro](../events/2022-adios-intro.md) · 9분
+- [주저하는 개발자들을 위해](https://www.youtube.com/watch?v=2drL8a2jhfc) · [adiOS 2022 Blossom](../events/2022-adios-blossom.md) · 10분
+- [주니어 iOS 개발자의 성장기](https://www.youtube.com/watch?v=Rb900nsdL14) · [adiOS 2022 Blossom](../events/2022-adios-blossom.md) · 17분
+- [What if... (그 때 그랬다면...)](https://www.youtube.com/watch?v=tg2uoMRNigo) · [adiOS 2022 Blossom](../events/2022-adios-blossom.md) · 7분
+- [평범한 공대생의 WWDC 재킷을 향한 여정](https://www.youtube.com/watch?v=KV4gYND0iys) · [adiOS 2022 Blossom](../events/2022-adios-blossom.md) · 21분
+- [Flutter에 Architecture & Design Pattern 적용하기](https://www.youtube.com/watch?v=bp9AlSUsS10) · 송승현 · [Flutter Festival Korea](../events/2022-flutter-festival-korea.md) · 21분
+- [지식인 앱 CI & CD 소개](https://www.youtube.com/watch?v=XE7arhC6tsc) · 데비트 · [Flutter Festival Korea](../events/2022-flutter-festival-korea.md) · 25분
+- [Introduce Youtube Flutter Decoding](https://www.youtube.com/watch?v=W6D1MqqPdXs) · 김선호 · [Flutter Festival Korea](../events/2022-flutter-festival-korea.md) · 23분
+- [Flutter에 네이티브 모듈 연동하기](https://www.youtube.com/watch?v=nIqTfAeYc3Y) · 김기범 · [Flutter Festival Korea](../events/2022-flutter-festival-korea.md) · 20분
+- [예비 창업자로서 플러터를 선택한 이유와 활용계획](https://www.youtube.com/watch?v=_WJMcLx6Hoo) · 김진섭 · [Flutter Festival Korea](../events/2022-flutter-festival-korea.md) · 25분
+- [플러터 업데이트 모아보기](https://www.youtube.com/watch?v=fhOGL_6XGTg) · 홍종표 · [Flutter Festival Korea](../events/2022-flutter-festival-korea.md) · 25분
+- [\[알잘딱깔쎈\] Flutter Embedded](https://www.youtube.com/watch?v=jW3pqIpQtQE) · 박제창 · [Flutter Festival Korea](../events/2022-flutter-festival-korea.md) · 26분
+- [5G 네트워크 기반의 모바일 사용자와 이동형 모바일 장치를 위한 AWS Cloud, AWS Wavelength](https://www.youtube.com/watch?v=zaIJ0Z6Obo0) · 강동환, AWS · [AWS Innovate 2022](../events/2022-aws-innovate.md) · 16분
 
 ## 2021년
 
 - [배달의민족에 Jetpack Compose 적용을 시도해보았다](https://www.youtube.com/watch?v=BX0rQvYgf1I) · [우아콘 2021](../events/2021-woowacon.md) · 31분
+- [티스토리 컴포즈 적용기](https://www.youtube.com/watch?v=C4w3FAPXGQk) · [if(kakao) 2021](../events/2021-ifkakao.md) · 18분
+- [안드로이드 기반 키오스크 개발 시작하기](https://www.youtube.com/watch?v=8nMtCy71cvg) · [if(kakao) 2021](../events/2021-ifkakao.md) · 20분
 - [SQLCipher와 Room/CoreData의 호환성에 대해](https://www.youtube.com/watch?v=pzJkHkKG128) · [LINE DEVELOPER DAY 2021](../events/2021-line-devday.md) · 37분
 - [LINE Android 앱을 SPDY에서 HTTP/2로 마이그레이션](https://www.youtube.com/watch?v=gkuXXWPhReQ) · [LINE DEVELOPER DAY 2021](../events/2021-line-devday.md) · 17분
 - [푸시 알림 도착률 100%를 목표로 - 데이터 분석을 통해 얻은 지식](https://www.youtube.com/watch?v=IGVn7wKVQH8) · [LINE DEVELOPER DAY 2021](../events/2021-line-devday.md) · 36분
 - [Wear OS용 LINE 앱 개발기](https://www.youtube.com/watch?v=Nyz91kGVU6o) · [LINE DEVELOPER DAY 2021](../events/2021-line-devday.md) · 19분
 - [데마에칸의 React Native 앱 개발의 현재와 미래](https://www.youtube.com/watch?v=ND8XPyOCHns) · [LINE DEVELOPER DAY 2021](../events/2021-line-devday.md) · 37분
 - [대규모 클라이언트 앱 개발 팀의 생산성을 개선한 여러 가지 방법](https://www.youtube.com/watch?v=64mPag1rP2A) · [LINE DEVELOPER DAY 2021](../events/2021-line-devday.md) · 37분
+- [디자인 시스템 반영기](https://www.youtube.com/watch?v=VPoxaE7w7wk) · [adiOS 2021 Oct](../events/2021-adios-oct.md) · 16분
+- [나의 아키택처 패턴 일대기](https://www.youtube.com/watch?v=fgF0tDnumfQ) · [adiOS 2021 Oct](../events/2021-adios-oct.md) · 21분
+- [코드를 짜면서 겪은 오해의 순간들](https://www.youtube.com/watch?v=5UVvRsKEsDI) · [adiOS 2021 Oct](../events/2021-adios-oct.md) · 26분
+- [Android Native 모듈을 안정적으로 개발하기](https://www.youtube.com/watch?v=3Wt_2ImRhNo) · 박한범 · [DroidKnights 2021](../events/2021-droidknights.md) · 32분
+- [Jetpack Windows Manager와 함께하는 폴더블 디바이스 지원](https://www.youtube.com/watch?v=XeKJ4yyxFsA) · 양찬석 · [DroidKnights 2021](../events/2021-droidknights.md) · 41분
+- [다시 살펴보는 AndroidX](https://www.youtube.com/watch?v=QICJtfvsYc8) · Pluu · [DroidKnights 2021](../events/2021-droidknights.md) · 31분
+- [안드로이드 앱에서 Koin걷어내고 Hilt로 마이그레이션하기](https://www.youtube.com/watch?v=G2gaUnFGGV0) · 이기정 · [DroidKnights 2021](../events/2021-droidknights.md) · 29분
+- [2021 Junior Jetpack](https://www.youtube.com/watch?v=KgpsS2IOLV4) · 김민식 · [DroidKnights 2021](../events/2021-droidknights.md) · 7분
+- [AppBundle 괴담](https://www.youtube.com/watch?v=EVYnTe6aXWQ) · 차영호 · [DroidKnights 2021](../events/2021-droidknights.md) · 21분
+- [Jetpack Compose에 있는것, 없는것](https://www.youtube.com/watch?v=Wx_arIKIvM8) · 안성용 · [DroidKnights 2021](../events/2021-droidknights.md) · 29분
+- [앱 성능분석 어떻게 시작할까?](https://www.youtube.com/watch?v=1NelJuMzig4) · 최대순 · [DroidKnights 2021](../events/2021-droidknights.md) · 31분
+- [액티비티:코드제로](https://www.youtube.com/watch?v=lkrEfYO54xU) · 정승욱 · [DroidKnights 2021](../events/2021-droidknights.md) · 27분
+- [복잡한 RecyclerView, 군더더기 없이 데이터로 표현하기](https://www.youtube.com/watch?v=mqY3GWid7ug) · 김호중 · [DroidKnights 2021](../events/2021-droidknights.md) · 28분
+- [해커 입장에서 생각해보고 안전한 앱 개발하기](https://www.youtube.com/watch?v=xwrSg8RkJx0) · 송성현 · [DroidKnights 2021](../events/2021-droidknights.md) · 36분
+- [비디오에 Component View 및 Redux 적용기](https://www.youtube.com/watch?v=deDauQfNUQA) · 유영혁 · [DroidKnights 2021](../events/2021-droidknights.md) · 12분
+- [Android Testing Best Practices](https://www.youtube.com/watch?v=D_tWlb2deX8) · 강사룡 · [DroidKnights 2021](../events/2021-droidknights.md) · 28분
+- [Asynchronous Programming for Android](https://www.youtube.com/watch?v=Pr-k84Vv1gg) · 권혁신 · [DroidKnights 2021](../events/2021-droidknights.md) · 31분
+- [Compose 시작하기](https://www.youtube.com/watch?v=G2sZ_Q4NsZk) · 배필주 · [I/O Extended 2021 with doubleS](../events/2021-io-extended-doubles.md) · 27분
+- [What's New in Jetpack](https://www.youtube.com/watch?v=-jqBsn6Vn8o) · 안성용 · [I/O Extended 2021 with doubleS](../events/2021-io-extended-doubles.md) · 32분
+- [What's new in Android Develop](https://www.youtube.com/watch?v=eKzSzKhr1MI) · 노현석 · [I/O Extended 2021 with doubleS](../events/2021-io-extended-doubles.md) · 32분
+- [타입에 별명을 붙여주자](https://www.youtube.com/watch?v=uNm-2H98dK4) · 홍종표 · [I/O Extended 2021 with doubleS](../events/2021-io-extended-doubles.md) · 18분
+- [Android 12를 위한 Background 처리 방법](https://www.youtube.com/watch?v=3jW6o7Q8ddg) · 김종찬 · [I/O Extended 2021 with doubleS](../events/2021-io-extended-doubles.md) · 24분
+- [Flutter Desktop](https://www.youtube.com/watch?v=H9rmLzINE8Q) · 박제창 · [I/O Extended 2021 with doubleS](../events/2021-io-extended-doubles.md) · 36분
+- [만화경 앱 개발기](https://www.youtube.com/watch?v=W_1FoBtaV7A) · [4월 우아한테크세미나 · 만화경 앱 개발기](../events/2021-woowa-seminar-04.md) · 1시간 36분
 - [Flutter Day 2020 Review](https://www.youtube.com/watch?v=DtLsINin7m0) · 유병욱 · [Flutter Day Extended Korea](../events/2021-flutter-day-extended.md) · 15분
 - [이제 Null 안전하게 지켜줄게](https://www.youtube.com/watch?v=h-LoVm6NMYs) · 박제창 · [Flutter Day Extended Korea](../events/2021-flutter-day-extended.md) · 22분
 - [TDD로 Widget 개발하기](https://www.youtube.com/watch?v=3vCxsHM2BWI) · 남반석 · [Flutter Day Extended Korea](../events/2021-flutter-day-extended.md) · 34분
+- [KeyNote & Flutter Engage WrapUp](https://www.youtube.com/watch?v=4aswx0w4jt4) · 유병욱 · [Flutter Engage Extended Korea](../events/2021-flutter-engage-extended.md) · 17분
+- [Firebase Dynamic Link로 Deep Link 구현하기](https://www.youtube.com/watch?v=J2S0c99G7OU) · 홍승호 · [Flutter Engage Extended Korea](../events/2021-flutter-engage-extended.md) · 15분
+- [백엔더 플러터와 뒹굴다](https://www.youtube.com/watch?v=aaOP37jJ1mA) · 유승현 · [Flutter Engage Extended Korea](../events/2021-flutter-engage-extended.md) · 19분
+- [Image Album 구현 (Android / iOS Plugin)](https://www.youtube.com/watch?v=zOj6dmX4SQk) · 김경환 · [Flutter Engage Extended Korea](../events/2021-flutter-engage-extended.md) · 9분
+- [throw 안쓰고 에러 의미있게 처리하기](https://www.youtube.com/watch?v=9E6EeIzp2FQ) · 고두혁 · [Flutter Engage Extended Korea](../events/2021-flutter-engage-extended.md) · 31분
+- [Dart Mixin 활용법 & 팁](https://www.youtube.com/watch?v=svBjV3-fBNk) · 남반석 · [Flutter Engage Extended Korea](../events/2021-flutter-engage-extended.md) · 33분
+- [Live Q&A](https://www.youtube.com/watch?v=g2LC8rx2r3M) · [Flutter Engage Extended Korea](../events/2021-flutter-engage-extended.md) · 49분
 
 ## 2020년
 
+- [Xcode가 익숙하지 않은 개발자를 위한 iOS 앱 개발 트러블 슈팅](https://www.youtube.com/watch?v=Z29N4BJPl7I) · [NHN FORWARD 2020](../events/2020-nhn-forward.md) · 29분
 - [테크토크 Day 1](https://www.youtube.com/watch?v=MMyfZ3pX2TA) · [Let'Swift 2020](../events/2020-letswift.md) · 2시간 15분
 - [테크토크 Day 2](https://www.youtube.com/watch?v=1KWRic-e5gg) · [Let'Swift 2020](../events/2020-letswift.md) · 2시간 17분
 - [테크토크 Day 3](https://www.youtube.com/watch?v=yXcRDHrHnik) · [Let'Swift 2020](../events/2020-letswift.md) · 2시간 9분
@@ -138,11 +370,31 @@
 - [Flutter로 글로벌앱 출시를 위한 꿀팁](https://www.youtube.com/watch?v=gTYou3Ru1QM) · 남반석 · [DroidKnights 2020](../events/2020-droidknights.md) · 40분
 - [Custom Lint 개발기](https://www.youtube.com/watch?v=HKT8tkUfRKk) · 황인성 · [DroidKnights 2020](../events/2020-droidknights.md) · 46분
 - [Android 11 Privacy Changes](https://www.youtube.com/watch?v=1PhYv0f1xvI) · Yachine Rezgui · [DroidKnights 2020](../events/2020-droidknights.md) · 34분
+- [iOS Audio Programming Mechanism](https://www.youtube.com/watch?v=JGRrrjhWYVg) · [if(kakao) 2020](../events/2020-ifkakao.md) · 17분
+- [애플워치로 어디서든 카카오톡을 읽어보자](https://www.youtube.com/watch?v=2trzveYqJnE) · [if(kakao) 2020](../events/2020-ifkakao.md) · 6분
+- [SwiftUI를 망설이고 있다면](https://www.youtube.com/watch?v=72vxHVoWBZg) · [if(kakao) 2020](../events/2020-ifkakao.md) · 13분
+- [스토리 안드로이드 앱의 화면 전환 애니메이션 적용기](https://www.youtube.com/watch?v=hHOXn5vqKmo) · [if(kakao) 2020](../events/2020-ifkakao.md) · 19분
+- [안드로이드 버전 카카오 T SDK 개발기](https://www.youtube.com/watch?v=ds5GR3CI7vc) · [if(kakao) 2020](../events/2020-ifkakao.md) · 14분
+- [같지만 다른 카카오뱅크의 안드로이드 테스트](https://www.youtube.com/watch?v=JaNO7bvnixM) · [if(kakao) 2020](../events/2020-ifkakao.md) · 15분
+- [유연한 해외 현지화를 위한 iOS 앱 구성](https://www.youtube.com/watch?v=hLdZd7UooeE) · [if(kakao) 2020](../events/2020-ifkakao.md) · 21분
+- [다크 모드로 알아보는 카카오페이지의 iOS 업데이트](https://www.youtube.com/watch?v=Rip89i4cjVs) · [if(kakao) 2020](../events/2020-ifkakao.md) · 16분
+- [어서오세요 RIBs입니다 - 카카오페이 비즈니스앱 개발기](https://www.youtube.com/watch?v=M0jJxQaDtmo) · [if(kakao) 2020](../events/2020-ifkakao.md) · 28분
+- [iOS 14 WidgetKit 카카오톡 적용기](https://www.youtube.com/watch?v=heI7mXUWuW4) · [if(kakao) 2020](../events/2020-ifkakao.md) · 9분
+- [카카오톡 사례로 살펴보는 견고한 안드로이드 앱 만들기](https://www.youtube.com/watch?v=72Wj0uk1Vbs) · [if(kakao) 2020](../events/2020-ifkakao.md) · 22분
+- [Fireside Chat with Android GDE](https://www.youtube.com/watch?v=WA2E9hz6hWU) · [DevFest Korea 2020](../events/2020-devfest-korea.md) · 16분
 - [Sharing experience of adapting AppBundle on LINE Android CI.](https://www.youtube.com/watch?v=qfjyVkalo5c) · [LINE DEVELOPER DAY 2020](../events/2020-line-devday.md) · 9분
+- [Honey, Python inside Android is under control](https://www.youtube.com/watch?v=WAg21xbYJCo) · James Ing Wei Tang · [파이콘 한국 2020](../events/2020-pycon.md) · 26분
 - [친절한 사육사의 좌충우돌 동물의 숲 앱 만들기](https://www.youtube.com/watch?v=kP-4afpr6Jg) · 전미정 · [Global Azure Virtual Korea 2020](../events/2020-global-azure-virtual.md) · 52분
 - [파워 앱과 안면 인식 서비스로 학교 온라인 출석체크 앱 만들기](https://www.youtube.com/watch?v=qZSaBuxYlR4) · 유정협 · [Global Azure Virtual Korea 2020](../events/2020-global-azure-virtual.md) · 55분
 - [Amplify를 통해 클라우드 기반 모바일 앱 개발하기](https://www.youtube.com/watch?v=4Am7n5F-S7Q) · 박태성 (IDEASAM) · [AWS Community Day 2020](../events/2020-aws-community-day.md) · 1시간 8분
 
+## 2018년
+
+- [다음웹툰의 UXAnimation, Transition, Custom View](https://www.youtube.com/watch?v=gzJI03KW7d4) · [if(kakao)dev 2018](../events/2018-ifkakao.md) · 52분
+- [카카오뱅크 모바일앱 개발 이야기](https://www.youtube.com/watch?v=lUPkFNimN9Q) · [if(kakao)dev 2018](../events/2018-ifkakao.md) · 40분
+- [모두가 쉽게 쓰는 그날까지... 함께 만드는 접근성](https://www.youtube.com/watch?v=sBgx_gKUnSA) · 백인호, 안현진 (삼성전자) · [2018 제6회 널리 세미나](../events/2018-nuli-6.md) · 27분
+- [모바일 인앱 실무에 활용한 접근성 해결 방안](https://www.youtube.com/watch?v=ywU2yRBfVYU) · 이현경 (NTS) · [2018 제6회 널리 세미나](../events/2018-nuli-6.md) · 21분
+
 ---
 
-다른 주제: [AI (489)](./ai.md) · [백엔드 (252)](./backend.md) · [프론트엔드 (144)](./frontend.md) · [인프라·DevOps (335)](./infra-devops.md) · [데이터 (171)](./data.md) · [보안 (134)](./security.md) · [게임 (128)](./game.md) · [디자인·기획 (71)](./design-product.md) · [문화·커리어 (167)](./culture-career.md) · [기타 (150)](./etc.md)
+다른 주제: [AI (1283)](./ai.md) · [백엔드 (682)](./backend.md) · [프론트엔드 (269)](./frontend.md) · [인프라·DevOps (1161)](./infra-devops.md) · [데이터 (501)](./data.md) · [보안 (281)](./security.md) · [게임 (352)](./game.md) · [디자인·기획 (106)](./design-product.md) · [문화·커리어 (397)](./culture-career.md) · [기타 (578)](./etc.md)

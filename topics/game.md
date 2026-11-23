@@ -1,8 +1,8 @@
 # 게임 세션 다시보기
 
-> [← 행사 목록](../README.md) · 세션 128개
+> [← 행사 목록](../README.md) · 세션 352개
 
-> [2026년 (42)](#2026년) · [2025년 (37)](#2025년) · [2021년 (3)](#2021년) · [2020년 (46)](#2020년)
+> [2026년 (42)](#2026년) · [2025년 (86)](#2025년) · [2023년 (36)](#2023년) · [2022년 (83)](#2022년) · [2021년 (54)](#2021년) · [2020년 (51)](#2020년)
 
 ## 2026년
 
@@ -51,6 +51,54 @@
 
 ## 2025년
 
+- [축구팬들의 판타지를 현실로 - 세상에 없던 매치, 넥슨 아이콘 매치 포스트모템](https://www.youtube.com/watch?v=0u3aqG3xk2Y) · [NDC25](../events/2025-ndc.md) · 29분
+- [서브 컬처 강국 일본에서 탄생한 “메이플키노코짱” - 커뮤니티 매니저로서의 Vtuber 활용에 관한 고찰](https://www.youtube.com/watch?v=IYGI45Oe-x4) · [NDC25](../events/2025-ndc.md) · 25분
+- ['블루 아카이브'는 어떻게, 3D배경작업자 2.5명으로 론칭할 수 있었나](https://www.youtube.com/watch?v=TdMAoTgpipU) · [NDC25](../events/2025-ndc.md) · 27분
+- ['퍼스트 디센던트' 라이팅 아티스트의 역할](https://www.youtube.com/watch?v=QG270jS2x-U) · [NDC25](../events/2025-ndc.md) · 35분
+- [대형 게임디자인조직, 어떻게 운영할까? 'AxE'와 '프라시아 전기'로 보는 대규모 팀빌딩 비법](https://www.youtube.com/watch?v=eJ6FLv860gs) · [NDC25](../events/2025-ndc.md) · 33분
+- [AI가 바꿀 게임의 미래 - 게임이 바꿀 AI의 미래](https://www.youtube.com/watch?v=eq8-NqFjDuA) · [NDC25](../events/2025-ndc.md) · 29분
+- ['퍼스트 디센던트' PC·콘솔 크로스 플랫폼 론칭 도전기](https://www.youtube.com/watch?v=sV61nWW4pA0) · [NDC25](../events/2025-ndc.md) · 31분
+- [일본 대표게임 '몬스터스트라이크' 개발사 Deluxe Games의 크리에이터 양성 노하우](https://www.youtube.com/watch?v=fgyLuufduFE) · [NDC25](../events/2025-ndc.md) · 24분
+- [LLM으로 NPC AI Agent 만들기](https://www.youtube.com/watch?v=PP7rYayDAec) · [NDC25](../events/2025-ndc.md) · 33분
+- ['퍼스트 디센던트' 무점검 패치 시스템 구현 사례](https://www.youtube.com/watch?v=YliSUjrcwR0) · [NDC25](../events/2025-ndc.md) · 28분
+- [난다 고래? : 'THRONE AND LIBERTY'의 움직이는 지형](https://www.youtube.com/watch?v=wD8FgpHgK6M) · [NDC25](../events/2025-ndc.md) · 29분
+- [AI로 찾아가는 게임 흥행의 새로운 길 - 흥행 예측 AI 개발 활용 도전기](https://www.youtube.com/watch?v=XTEK4AkS9Mg) · [NDC25](../events/2025-ndc.md) · 46분
+- [야, 너도 효과 분석할 수 있어! - 효과 분석 솔루션 개발기](https://www.youtube.com/watch?v=sHsVngTrJds) · [NDC25](../events/2025-ndc.md) · 35분
+- [처음부터 딥러닝 안 쓰기 잘했다! - 엠바크 보안(치터 탐지) 협력 사례](https://www.youtube.com/watch?v=bLuEjlqSajA) · [NDC25](../events/2025-ndc.md) · 25분
+- ['승리의 여신: 니케'의 성공적인 IP 구축기](https://www.youtube.com/watch?v=wuID5UGz3o0) · [NDC25](../events/2025-ndc.md) · 47분
+- ['메이플스토리 월드' 이미지생성 AI R&D, 내 딸을 메이플 캐릭터로?](https://www.youtube.com/watch?v=tpVesx9edVI) · [NDC25](../events/2025-ndc.md) · 25분
+- [언리얼 Color Management와 HDR 톤매핑 개선 사례](https://www.youtube.com/watch?v=vcBC97un2mw) · [NDC25](../events/2025-ndc.md) · 30분
+- [캐릭터 커스터마이즈 'UE5 뮤터블'로 쉽게 개발하자!](https://www.youtube.com/watch?v=d_8eWfmUAOg) · [NDC25](../events/2025-ndc.md) · 36분
+- ['THRONE AND LIBERTY' PC MMORPG를 콘솔로 동시 출시한다구요? - 콘솔 UX 포스트모템](https://www.youtube.com/watch?v=qYUdfDha2v8) · [NDC25](../events/2025-ndc.md) · 31분
+- [웹3 진출을 위한 전략적 제언](https://www.youtube.com/watch?v=ngdASWCs7F0) · [NDC25](../events/2025-ndc.md) · 40분
+- [AI가 게임의 핵심 재미가 될 수 있을까? 렐루게임즈가 찾은 현재까지의 답](https://www.youtube.com/watch?v=TsSIuCYR8Rw) · [NDC25](../events/2025-ndc.md) · 36분
+- ['캐치! 티니핑'을 통해 배우는 IP 비즈니스 확장 전략](https://www.youtube.com/watch?v=bgHOjbwvwSE) · [NDC25](../events/2025-ndc.md) · 41분
+- [38만년을 1주로? - AI를 활용한 캐릭터 밸런스 디자인](https://www.youtube.com/watch?v=UwDMURjfga4) · [NDC25](../events/2025-ndc.md) · 28분
+- [NEMO APM 도입기(Mimir, Tempo, Loki)](https://www.youtube.com/watch?v=_FM3gy98chU) · [NDC25](../events/2025-ndc.md) · 36분
+- ['카운터-스트라이크 온라인' 좀비 모드 무기 기획 이야기](https://www.youtube.com/watch?v=VVIh3l7ICGM) · [NDC25](../events/2025-ndc.md) · 30분
+- [맥킨지에서 넥슨까지: 커리어 점검하기](https://www.youtube.com/watch?v=GSZq0uKbEik) · [NDC25](../events/2025-ndc.md) · 35분
+- [안전성과 기회를 모두 잡기 위한, 게임에서의 블록체인 사례](https://www.youtube.com/watch?v=LpipHyLn2jk) · [NDC25](../events/2025-ndc.md) · 37분
+- ['캐치! 티니핑'을 통해 배우는 IP 비즈니스 확장 전략](https://www.youtube.com/watch?v=HzJC7f_Hu7k) · [NDC25](../events/2025-ndc.md) · 41분
+- [라이브 게임 서비스의 도약: Data-Driven 운영 - ‘데이터 기반의 게임 운영’과 ‘전 직원 데이터 활용’](https://www.youtube.com/watch?v=8dCirBJMyv0) · [NDC25](../events/2025-ndc.md) · 31분
+- ['프라시아 전기' 피칭부터 론칭까지의 개발 회고](https://www.youtube.com/watch?v=94PHtMWeDhs) · [NDC25](../events/2025-ndc.md) · 32분
+- [내가 신입 기획자였을 때 알았다면 좋았을 것들](https://www.youtube.com/watch?v=1hz6CruUvLw) · [NDC25](../events/2025-ndc.md) · 23분
+- [UE5 PCG로 오픈월드 바이옴 구성하기 - 새로운 듀랑고의 초원부터 정글까지](https://www.youtube.com/watch?v=-RQldTDS1b0) · [NDC25](../events/2025-ndc.md) · 39분
+- [Tools, Services, and an Information Ecosystem at Embark Studios](https://www.youtube.com/watch?v=C2ZO1kGgxZc) · [NDC25](../events/2025-ndc.md) · 25분
+- [MMO 서버에서 태스크 그래프를 활용한 확장성 있는 멀티스레드 아키텍처](https://www.youtube.com/watch?v=6nYtK7kNiH8) · [NDC25](../events/2025-ndc.md) · 19분
+- [새로운 언어 개발부터 VS Code 확장까지](https://www.youtube.com/watch?v=hwK_nJqBRYE) · [NDC25](../events/2025-ndc.md) · 23분
+- ['퍼스트 디센던트'의 흔들리는 물리 표현을 가볍고 쉽게 구현하기-언리얼 엔진 플러그인 KawaiiPhysics를 기반으로 개선된 AnimPhys 개발 일지](https://www.youtube.com/watch?v=1eZaMO_vwOU) · [NDC25](../events/2025-ndc.md) · 26분
+- ['쿠키런:킹덤', 제 2의 전성기](https://www.youtube.com/watch?v=boibPbl1Sjg) · [NDC25](../events/2025-ndc.md) · 35분
+- [테세우스의 배는 여전히 그곳에 있다 - 오래 가는 라이브 서비스를 위한 '메이플스토리'의 시도들](https://www.youtube.com/watch?v=kGtnROS29yE) · [NDC25](../events/2025-ndc.md) · 40분
+- ["우리 게임 성공할까요?" 게임 성패 예측, 인간적으로 접근하기](https://www.youtube.com/watch?v=CH3zg6VWQ0g) · [NDC25](../events/2025-ndc.md) · 29분
+- [게임 IP를 굳이 오프라인에서 경험할 필요가 있나요?](https://www.youtube.com/watch?v=9uQ-w2LnshI) · [NDC25](../events/2025-ndc.md) · 32분
+- [20년간의 스토리, 그다음을 쓰는 법 - '마비노기' 26&27번째 메인 시나리오 포스트모템](https://www.youtube.com/watch?v=tBxe8_yjZ6c) · [NDC25](../events/2025-ndc.md) · 28분
+- [언리얼엔진5 렌더링 최적화 사례 및 시도](https://www.youtube.com/watch?v=jPk0DRkFKWM) · [NDC25](../events/2025-ndc.md) · 30분
+- [저 메시의 목을 쳐라! - 실시간 스켈레탈 메시 절단](https://www.youtube.com/watch?v=I5bSUJ9-9ns) · [NDC25](../events/2025-ndc.md) · 28분
+- ['오버워치 2' : 지구 반대편 개발팀이 하나 된 이야기](https://www.youtube.com/watch?v=8d0VwK73H5E) · [NDC25](../events/2025-ndc.md) · 38분
+- [소름은 끼치게, 상처는 남지 않게 - 공포 게임의 ‘진짜’ 재미를 찾아서](https://www.youtube.com/watch?v=NMTTLdou9Nk) · [NDC25](../events/2025-ndc.md) · 34분
+- [오픈 월드 레벨 디자인 시작하기](https://www.youtube.com/watch?v=Am3UnsgZqgo) · [NDC25](../events/2025-ndc.md) · 34분
+- [실시간 데이터 레이크하우스 적재 도전기 (Feat. 모노레이크)](https://www.youtube.com/watch?v=WfH_SEq1VIE) · [NDC25](../events/2025-ndc.md) · 27분
+- [던전을 여행하는 매치메이커를 위한 안내서 - '퍼스트 디센던트'를 위한 PvE 매칭 시스템 개발 고군분투기](https://www.youtube.com/watch?v=uxdUkb_BiAs) · [NDC25](../events/2025-ndc.md) · 27분
 - [3D 툴, 니가 왜 거기서 나와? Unity 하나로 끝내는 3D 게임 제작!](https://www.youtube.com/watch?v=pjMsNkGdP0Y) · [Unite Seoul 2025](../events/2025-unite-seoul.md) · 34분
 - [Unity 기반 크로스 플랫폼 XR 개발: XR 기기 비교 분석](https://www.youtube.com/watch?v=K2HNZoNzrvQ) · [Unite Seoul 2025](../events/2025-unite-seoul.md) · 37분
 - [Multi Modal과 Neural Rendering을 활용한 유니티 및 센티스 활용 꿀팁](https://www.youtube.com/watch?v=wZqd0RKwI6w) · [Unite Seoul 2025](../events/2025-unite-seoul.md) · 41분
@@ -88,15 +136,195 @@
 - [생명 연장의 꿈, TA로의 첫걸음! Shader Graph, VFX Graph 샘플 예제 大분석!](https://www.youtube.com/watch?v=foUuEBencCU) · [Unite Seoul 2025](../events/2025-unite-seoul.md) · 40분
 - [Unity 6 렌더 그래프 시스템을 활용한 SSAO 커스텀 사례와 URP Custom Shadow Solution 개발](https://www.youtube.com/watch?v=YspaibmNXu8) · [Unite Seoul 2025](../events/2025-unite-seoul.md) · 33분
 - [픽셀 아티스트를 위한 2D 프로젝트 워크 플로우](https://www.youtube.com/watch?v=7SryCP_q2a8) · [Unite Seoul 2025](../events/2025-unite-seoul.md) · 39분
+- [AWS로 실현하는 게임 개발의 게임체인저](https://www.youtube.com/watch?v=MMHzykmQ3VQ) · [AWS re:Invent reCap 2025](../events/2025-aws-reinvent-recap.md) · 26분
+
+## 2023년
+
+- [Games with Galaxy](https://www.youtube.com/watch?v=3MPja6eZba0) · [SDC23 Korea](../events/2023-sdc-korea.md) · 30분
+- [유나이트 2023 기조연설](https://www.youtube.com/watch?v=Two3p6AmN4o) · [Unite 2023 APAC On-air (한국어)](../events/2023-unite.md) · 1시간 4분
+- [Unity와 함께하는 게임 개발의 미래](https://www.youtube.com/watch?v=1Oaqm0tS7mY) · [Unite 2023 APAC On-air (한국어)](../events/2023-unite.md) · 1시간 0분
+- [Unity 게임을 더 많은 웹 플레이어에게 신속하게 제공하기](https://www.youtube.com/watch?v=tiDzQe1TjT4) · [Unite 2023 APAC On-air (한국어)](../events/2023-unite.md) · 31분
+- [Unity Muse로 20분 만에 게임 레벨 프로토타이핑하기](https://www.youtube.com/watch?v=PrcPfPfuhMs) · [Unite 2023 APAC On-air (한국어)](../events/2023-unite.md) · 25분
+- [UI 툴킷으로 더욱 멋지고 신속하게 만드는 에디터 및 게임 인터페이스](https://www.youtube.com/watch?v=2rXp3SPgIqU) · [Unite 2023 APAC On-air (한국어)](../events/2023-unite.md) · 38분
+- [새로운 Memory Profiler로 앱 성능 개선하기](https://www.youtube.com/watch?v=jKSA3SqWUcI) · [Unite 2023 APAC On-air (한국어)](../events/2023-unite.md) · 47분
+- [Unity PolySpatial + visionOS의 모든 것](https://www.youtube.com/watch?v=IZ5xtSMx4ZU) · [Unite 2023 APAC On-air (한국어)](../events/2023-unite.md) · 35분
+- [\[Keynote\] Game-Changing Generative AI for Games](https://www.youtube.com/watch?v=vrLANVrx8KM) · [Games on AWS 2023](../events/2023-games-on-aws.md) · 19분
+- [\[Keynote\] 소규모 개발사인 Second Dinner가 GOTY 모바일 게임상을 수상한 비결](https://www.youtube.com/watch?v=sV4Qh4BHG_w) · [Games on AWS 2023](../events/2023-games-on-aws.md) · 20분
+- [\[Keynote\] Riot Games가 전 세계 1.5억 명의 플레이어를 대상으로 몰입감 넘치는 게임 경험을 제공하는 방법](https://www.youtube.com/watch?v=OPWmyFWEVxo) · [Games on AWS 2023](../events/2023-games-on-aws.md) · 17분
+- [\[Keynote\] 네오위즈의 클라우드 여정 “Evolution for NEOWIZ”](https://www.youtube.com/watch?v=2wqU_KDCLxk) · [Games on AWS 2023](../events/2023-games-on-aws.md) · 16분
+- [\[트랙 1-1\] OP.GG](https://www.youtube.com/watch?v=cQP4YDhr3Bg) · 가격은 저렴! 성능은 최대로 Nitro와 함께하는 Amazon EC2 · [Games on AWS 2023](../events/2023-games-on-aws.md) · 30분
+- [\[트랙 1-2\] 쿡앱스](https://www.youtube.com/watch?v=vk6XtO1t2V0) · 컨테이너 게임 개발자 및 운영자를 위한 가이드 · [Games on AWS 2023](../events/2023-games-on-aws.md) · 41분
+- [\[트랙 1-3\] Riot Games](https://www.youtube.com/watch?v=1VoUPVeR0yA) · 게임 서버 오케스트레이션의 새로운 시대 : Riot에서의 Elastic Kurbernetes Service 사용법 · [Games on AWS 2023](../events/2023-games-on-aws.md) · 36분
+- [\[트랙 1-4\] 엔씨소프트](https://www.youtube.com/watch?v=VgE4Tmby7rc) · AWS 보안 서비스로 멀티 어카운트 보안 이벤트 한눈에 보기 · [Games on AWS 2023](../events/2023-games-on-aws.md) · 40분
+- [\[트랙 2-1\] MARVEL SNAP](https://www.youtube.com/watch?v=lHN7gT14Wn4) · AWS 서버리스 서비스 만으로 올해의 모바일 게임의 스케일 구현 · [Games on AWS 2023](../events/2023-games-on-aws.md) · 38분
+- [\[트랙 2-2\] 라온엔터테인먼트](https://www.youtube.com/watch?v=60CtRyeH-9k) · 서버리스 아키텍쳐를 활용한 멀티플레이 게임 개발/최적화 사례 · [Games on AWS 2023](../events/2023-games-on-aws.md) · 39분
+- [\[트랙 2-3\] 넥슨코리아](https://www.youtube.com/watch?v=grHyzyHC5KA) · GameLift Deep Dive : GameLift 맞춤형 사용법 · [Games on AWS 2023](../events/2023-games-on-aws.md) · 39분
+- [\[트랙 2-4\] 요즘은 쉽다. 서버리스 데이터 플랫폼 만들기 with EMR Serverless](https://www.youtube.com/watch?v=f2Ar-j5mZEg) · [Games on AWS 2023](../events/2023-games-on-aws.md) · 42분
+- [\[트랙 3-1\] 데브시스터즈](https://www.youtube.com/watch?v=AS0RvUBuRLM) · Amazon Sagemaker로 게임 강화 하기 · [Games on AWS 2023](../events/2023-games-on-aws.md) · 35분
+- [\[트랙 3-2\] 엔스테이지](https://www.youtube.com/watch?v=R9r_Gx2DrWQ) · AI 코딩 동료와 함께하는 쉽고 빠른 게임 기능 개발 · [Games on AWS 2023](../events/2023-games-on-aws.md) · 39분
+- [\[트랙 3-3\] Gen AI 시대의 AWS의 대답, 신규 서비스 Amazon Bedrock과 생성형 AI의 게임 사용사례](https://www.youtube.com/watch?v=F6THTGOMefA) · [Games on AWS 2023](../events/2023-games-on-aws.md) · 45분
+- [\[트랙 3-4\] 위메이드플레이](https://www.youtube.com/watch?v=6k-N3tCGnpQ) · Game의 GenAI, AWS Trainium 과 Inferentia를 이용해 비용과 성능 한번에 해결! · [Games on AWS 2023](../events/2023-games-on-aws.md) · 40분
+- [클라우드 솔루션 비즈니스를 위한 게임 체인저: AWS Marketplace](https://www.youtube.com/watch?v=_Pv2hmglsOs) · 주혜령, AWS / 김범준, AWS · [AWS Summit Seoul 2023](../events/2023-aws-summit.md) · 37분
+- [게임 개발의 모든 단계에서 활용할 수 있는 기술 팁](https://www.youtube.com/watch?v=9-VZFN3ITME) · [Unity at GDC 2023 (한국어)](../events/2023-unity-gdc.md) · 31분
+- [Unity용 ECS의 강력한 기능 활용](https://www.youtube.com/watch?v=dmZkIT43bDM) · [Unity at GDC 2023 (한국어)](../events/2023-unity-gdc.md) · 29분
+- [새로운 URP 샘플 씬을 사용한 크로스 플랫폼 게임 개발](https://www.youtube.com/watch?v=8Ld-mC1prsQ) · [Unity at GDC 2023 (한국어)](../events/2023-unity-gdc.md) · 30분
+- [URP 2D 광원으로 톱다운 뷰 게임 개선](https://www.youtube.com/watch?v=Ili5udueYcg) · [Unity at GDC 2023 (한국어)](../events/2023-unity-gdc.md) · 20분
+- [멀티플랫폼 성능: 기술 과제 극복](https://www.youtube.com/watch?v=UzCJ4U8FPrk) · [Unity at GDC 2023 (한국어)](../events/2023-unity-gdc.md) · 30분
+- [Unity를 통한 멀티플레이어 게임 제작, 출시, 관리](https://www.youtube.com/watch?v=1iBdjUYq0us) · [Unity at GDC 2023 (한국어)](../events/2023-unity-gdc.md) · 1시간 0분
+- [UGS를 활용한 라이브 게임 구축 및 운영](https://www.youtube.com/watch?v=pl4yFm5dzY0) · [Unity at GDC 2023 (한국어)](../events/2023-unity-gdc.md) · 27분
+- [50인 규모의 스튜디오에서 출시한 마블스냅](https://www.youtube.com/watch?v=WtG5SRzwk-c) · [Unity at GDC 2023 (한국어)](../events/2023-unity-gdc.md) · 59분
+- [Ziva VFX를 이용한 고품질 캐릭터 시뮬레이션](https://www.youtube.com/watch?v=2oVTa0YX6_c) · [Unity at GDC 2023 (한국어)](../events/2023-unity-gdc.md) · 19분
+- [2023년 게임 업계 트렌드 : 크리에이터 라운드 테이블](https://www.youtube.com/watch?v=G9Z5xD3JMaI) · [Unity at GDC 2023 (한국어)](../events/2023-unity-gdc.md) · 1시간 1분
+- [유니티의 2023년 로드맵 소개](https://www.youtube.com/watch?v=qmkcMawEbQg) · [Unity at GDC 2023 (한국어)](../events/2023-unity-gdc.md) · 54분
+
+## 2022년
+
+- [Unity에서 Web Cache와 성능 향상: CacheStorage의 활용](https://www.youtube.com/watch?v=c1I6NI-3oAM) · [NHN FORWARD 22](../events/2022-nhn-forward.md) · 21분
+- [기조 연설](https://www.youtube.com/watch?v=epLg33mUWyY) · [Unite 2022 (한국어)](../events/2022-unite.md) · 1시간 13분
+- [Unity 2023 로드맵](https://www.youtube.com/watch?v=QLrBoXCu6_Q) · [Unite 2022 (한국어)](../events/2022-unite.md) · 54분
+- [Unity Gaming Service 앞으로 6개월간 일어날 일들](https://www.youtube.com/watch?v=TmbOAdGpBGg) · [Unite 2022 (한국어)](../events/2022-unite.md) · 52분
+- [Unity에서의 조명 환경](https://www.youtube.com/watch?v=SIC4Pf3amk0) · [Unite 2022 (한국어)](../events/2022-unite.md) · 29분
+- [Unity 프로파일러로 성능 지수 커스터마이즈하기](https://www.youtube.com/watch?v=B79qg_vnubM) · [Unite 2022 (한국어)](../events/2022-unite.md) · 26분
+- [팀은 작았으나, 커뮤니티는 거대했노라 에셋의 한계를 뛰어넘어](https://www.youtube.com/watch?v=w1bP_9ry0Fs) · [Unite 2022 (한국어)](../events/2022-unite.md) · 50분
+- [더 많은 플레이어들에게 내 게임을 알리는 방법](https://www.youtube.com/watch?v=e__rVg4Vfnc) · [Unite 2022 (한국어)](../events/2022-unite.md) · 24분
+- [알바 야생의 모험 제작기](https://www.youtube.com/watch?v=fVkl2eqMhko) · [Unite 2022 (한국어)](../events/2022-unite.md) · 33분
+- [Unity의 코드없는 워크플로를 강력하게](https://www.youtube.com/watch?v=cDaEwnXZS5g) · [Unite 2022 (한국어)](../events/2022-unite.md) · 27분
+- [지속적인 월드 플레이어와 월드 상태 관리에 대해](https://www.youtube.com/watch?v=1KA6qDqnZPk) · [Unite 2022 (한국어)](../events/2022-unite.md) · 32분
+- [오버홀을 거쳐 구현한 월드 상호 작용, 어디서나 철퍽이는 Cosmonious High 이야기](https://www.youtube.com/watch?v=ULHEpSNbNag) · [Unite 2022 (한국어)](../events/2022-unite.md) · 38분
+- [AWS Game Tech 서비스 소개](https://www.youtube.com/watch?v=TYHQOzzJp_U) · [Games on AWS 2022](../events/2022-games-on-aws.md) · 18분
+- [아마존 게임즈의 뉴월드(New World) 런칭 스토리](https://www.youtube.com/watch?v=Q24lQgw6Kvg) · [Games on AWS 2022](../events/2022-games-on-aws.md) · 22분
+- [AWS 일본 대표 게임사 이야기](https://www.youtube.com/watch?v=dbjwoVg0f3A) · [Games on AWS 2022](../events/2022-games-on-aws.md) · 16분
+- [AWS 국내 대표 게임 고객사 이야기](https://www.youtube.com/watch?v=dR1C5qCeBk8) · 데브시스터즈 · [Games on AWS 2022](../events/2022-games-on-aws.md) · 15분
+- [AWS 국내 대표 게임 고객사 이야기](https://www.youtube.com/watch?v=6hX8NnLkg_k) · 넥슨 · [Games on AWS 2022](../events/2022-games-on-aws.md) · 9분
+- [AWS for Games](https://www.youtube.com/watch?v=1-ejsGzhF8A) · 게임만을 위한 AWS 서비스 길라잡이 · [Games on AWS 2022](../events/2022-games-on-aws.md) · 44분
+- [용도에 맞는 DB 선택하기](https://www.youtube.com/watch?v=txuUWeHykoI) · [Games on AWS 2022](../events/2022-games-on-aws.md) · 46분
+- [게임 스트리밍 서비스를 위한 아키텍처](https://www.youtube.com/watch?v=2HDyMmSefhY) · 언리얼 엔진을 중심으로! · [Games on AWS 2022](../events/2022-games-on-aws.md) · 48분
+- [MMORPG의 성능 최적화 사례 공유 '카카오게임즈](https://www.youtube.com/watch?v=JNH5fB8B_ec) · 오딘: 발할라 라이징' · [Games on AWS 2022](../events/2022-games-on-aws.md) · 35분
+- [크래프톤](https://www.youtube.com/watch?v=78EjMQYt0O0) · PUBG: Battlegrounds 라이브 서비스 EKS 전환 사례 공유 · [Games on AWS 2022](../events/2022-games-on-aws.md) · 37분
+- [데브시스터즈](https://www.youtube.com/watch?v=ea8E74wvj3M) · 쿠키런: 킹덤 대규모 인프라 및 서버 운영 사례 공유 · [Games on AWS 2022](../events/2022-games-on-aws.md) · 45분
+- [웹 3.0 시대에서의 블록체인, 메타버스 및 대체불가 토큰(NFT) on AWS 사례 공유](https://www.youtube.com/watch?v=Lh9D10IEuKQ) · [Games on AWS 2022](../events/2022-games-on-aws.md) · 39분
+- [AWS CDK를 활용한 게임 데이터 파이프라인 구축 방안](https://www.youtube.com/watch?v=e3X-XnqoPNo) · [Games on AWS 2022](../events/2022-games-on-aws.md) · 36분
+- [카카오게임즈](https://www.youtube.com/watch?v=HSgy2vvmA-Q) · 대용량 데이터레이크 마이그레이션 사례 공유 · [Games on AWS 2022](../events/2022-games-on-aws.md) · 45분
+- [위메이드 플레이](https://www.youtube.com/watch?v=Jx4tdkr6zgg) · AWS 머신러닝 솔루션을 활용한 고객 응대 자동화 구축 사례 · [Games on AWS 2022](../events/2022-games-on-aws.md) · 31분
+- [데브시스터즈](https://www.youtube.com/watch?v=k72umNnHHYo) · 게임의 성공을 위한 Scalable 한 데이터 플랫폼 사례 · [Games on AWS 2022](../events/2022-games-on-aws.md) · 46분
+- [Ren'Py로 모던한 비주얼 노벨 게임 개발하기](https://www.youtube.com/watch?v=scQ7R2hiHJo) · 하재승 · [파이콘 한국 2022](../events/2022-pycon.md) · 16분
+- [창조적 전문가 VS 평범한 전문가](https://www.youtube.com/watch?v=tBbeug1OrnU) · [NDC22](../events/2022-ndc.md) · 27분
+- [블루 아카이브 “시나리오 연출” 이렇게 만들어 보았습니다](https://www.youtube.com/watch?v=W_XiZ3aRs0E) · [NDC22](../events/2022-ndc.md) · 24분
+- [프라시아 전기에 멋진 탈것 만들기](https://www.youtube.com/watch?v=GzMJ1gJ-WFE) · [NDC22](../events/2022-ndc.md) · 32분
+- ['New State Mobile' 글로벌 서비스 도전기](https://www.youtube.com/watch?v=hntvJkDY7_I) · [NDC22](../events/2022-ndc.md) · 27분
+- [Walk Lizzie, walk! (한글자막)](https://www.youtube.com/watch?v=rP4-Wjh9OYA) · [NDC22](../events/2022-ndc.md) · 44분
+- [라즈베리 파이로 직접 만드는 네트워크 시뮬레이터](https://www.youtube.com/watch?v=jy7jYeIlu9w) · [NDC22](../events/2022-ndc.md) · 31분
+- ['카트라이더: 드리프트' 머신러닝을 활용한 위치 예측 개선](https://www.youtube.com/watch?v=a80r9WqnECk) · [NDC22](../events/2022-ndc.md) · 26분
+- [프로젝트MOD CI2021 포스트모템](https://www.youtube.com/watch?v=jJE1nOFYDUo) · [NDC22](../events/2022-ndc.md) · 46분
+- [상호 결합성의 중요성과 NFT](https://www.youtube.com/watch?v=g47IG1VA2wI) · [NDC22](../events/2022-ndc.md) · 25분
+- [NFT 프로젝트에 당한 저작권 침해 극복기](https://www.youtube.com/watch?v=fLY5mVpd0jY) · [NDC22](../events/2022-ndc.md) · 41분
+- [프라시아 전기 캐릭터 개발 노트](https://www.youtube.com/watch?v=kfBpBgdNiCM) · [NDC22](../events/2022-ndc.md) · 20분
+- [2D게임에 TA가 필요해요?](https://www.youtube.com/watch?v=Wr_lc2xUyjE) · [NDC22](../events/2022-ndc.md) · 29분
+- [설마 문항을 그렇게 만드실 건 아니시죠?](https://www.youtube.com/watch?v=4wA7N9QHZ5I) · [NDC22](../events/2022-ndc.md) · 28분
+- ['Thy Creature' 개발 포스트모템](https://www.youtube.com/watch?v=n0U7NO2WWBc) · [NDC22](../events/2022-ndc.md) · 25분
+- [자동화와 함께하는 게임QA의 미래](https://www.youtube.com/watch?v=1Z8FvY9pxas) · [NDC22](../events/2022-ndc.md) · 21분
+- ['배틀그라운드 모바일' 유저 파트너 프로그램](https://www.youtube.com/watch?v=hpniFOZdycw) · [NDC22](../events/2022-ndc.md) · 26분
+- [그때 알았더라면 좋았을 것들](https://www.youtube.com/watch?v=rYT4efmkgCw) · [NDC22](../events/2022-ndc.md) · 29분
+- [미소녀 게임의 히로인이 어째서 복면을 쓰고 은행을 터는 거죠?](https://www.youtube.com/watch?v=JJduIEBNbyQ) · [NDC22](../events/2022-ndc.md) · 31분
+- [전쟁 MMORPG의 코어유저층 확대를 위한 게임 디자인 고찰](https://www.youtube.com/watch?v=HgnpdwjPBwI) · [NDC22](../events/2022-ndc.md) · 20분
+- [우아한 게임플레이란 무엇인가](https://www.youtube.com/watch?v=ADb9om5AN1Y) · [NDC22](../events/2022-ndc.md) · 44분
+- [SPICA 어디까지 왔나?](https://www.youtube.com/watch?v=aulqNFU3gjo) · [NDC22](../events/2022-ndc.md) · 22분
+- [테스트자동화 도구 개발 생존전략](https://www.youtube.com/watch?v=OeNGEB7AAfY) · [NDC22](../events/2022-ndc.md) · 21분
+- [리니지: 거울전쟁](https://www.youtube.com/watch?v=9Q-Hy-obDHU) · [NDC22](../events/2022-ndc.md) · 23분
+- [테라바이트 규모의 변화무쌍한 데이터 정제 플랫폼](https://www.youtube.com/watch?v=TzjGggQK_Ls) · [NDC22](../events/2022-ndc.md) · 18분
+- ['달빛조각사'에서 서버 테스트 코드를 작성하는 방법](https://www.youtube.com/watch?v=sIif0u4LpSU) · [NDC22](../events/2022-ndc.md) · 18분
+- [플레이의 미래](https://www.youtube.com/watch?v=nZHjrDggLGo) · [NDC22](../events/2022-ndc.md) · 20분
+- [게임과 NFT, 이상과 현실 그 언저리에서](https://www.youtube.com/watch?v=o1Z4UAztwtA) · [NDC22](../events/2022-ndc.md) · 37분
+- [블록체인 기술이 가져올 게임의 미래](https://www.youtube.com/watch?v=k1cawGju9Vc) · [NDC22](../events/2022-ndc.md) · 40분
+- ['블루 아카이브' 테크니컬 아트의 개발 전략](https://www.youtube.com/watch?v=O2YlcyPFqrI) · [NDC22](../events/2022-ndc.md) · 20분
+- [디스턴스 매칭과 포즈 워핑으로 UE5에서 로코모션 퀄리티 높이기](https://www.youtube.com/watch?v=RFNGB4ZTusQ) · [NDC22](../events/2022-ndc.md) · 29분
+- [라이브 운영이 DATA를 만나면 생기는 일(운영 2.0)](https://www.youtube.com/watch?v=V8Cvdt7eI5s) · [NDC22](../events/2022-ndc.md) · 24분
+- [니케, 퍼스트 무버 게임의 디렉팅 포인트](https://www.youtube.com/watch?v=Bn_x75Wm9p8) · [NDC22](../events/2022-ndc.md) · 29분
+- [퍼포먼스 마케팅의 미래](https://www.youtube.com/watch?v=zBpwv5uFCn4) · [NDC22](../events/2022-ndc.md) · 22분
+- [언젠가 시니어가 될 주니어를 위하여](https://www.youtube.com/watch?v=QErFfPjhP7w) · [NDC22](../events/2022-ndc.md) · 35분
+- [팀원에서 바로 스타트업 대표로](https://www.youtube.com/watch?v=0FaAG2hdPj4) · [NDC22](../events/2022-ndc.md) · 35분
+- [라이트 유저도 재밌는 전쟁MMORPG 만들기](https://www.youtube.com/watch?v=DeuhYWEH99c) · [NDC22](../events/2022-ndc.md) · 23분
+- [요구조건이 빡빡한 게임에서 레벨 디자이너로 살아남기](https://www.youtube.com/watch?v=rVruWiyHbz0) · [NDC22](../events/2022-ndc.md) · 15분
+- [게임플랫폼 SDK를 이렇게도 만들 수 있군요!?](https://www.youtube.com/watch?v=JWdpNK-nTto) · [NDC22](../events/2022-ndc.md) · 23분
+- [쿠키런: 킹덤, 총 56시간의 긴급 점검 회고](https://www.youtube.com/watch?v=AZbCZ2KOcwU) · [NDC22](../events/2022-ndc.md) · 29분
+- [엑셀도 머지가 된다구요?](https://www.youtube.com/watch?v=dkH3ZLhQ058) · [NDC22](../events/2022-ndc.md) · 23분
+- [슈퍼피플 오픈월드 렌더링 최적화](https://www.youtube.com/watch?v=CgVD_iIWz7A) · [NDC22](../events/2022-ndc.md) · 22분
+- [실시간 MMORPG의 플레이 감각을 날카롭게 벼려보자!](https://www.youtube.com/watch?v=HSRo7TAV4T4) · [NDC22](../events/2022-ndc.md) · 31분
+- ['블루 아카이브' 아로나와 함께하는 머신러닝 이야기](https://www.youtube.com/watch?v=UOSJVlqejlI) · [NDC22](../events/2022-ndc.md) · 20분
+- [NFT, 게임의 혁명인가 신기루인가?](https://www.youtube.com/watch?v=g05vUDQdqm4) · [NDC22](../events/2022-ndc.md) · 36분
+- [인공지능, NFT, 그리고 게임이 만나면?](https://www.youtube.com/watch?v=bLG-QUJZyGY) · [NDC22](../events/2022-ndc.md) · 31분
+- [영화, 현실을 창조하는 오래된 미래](https://www.youtube.com/watch?v=a5IdXSoP3NQ) · [NDC22](../events/2022-ndc.md) · 32분
+- [Music Scoring the video games of Zeus and HIT2 (한글자막)](https://www.youtube.com/watch?v=wGScMi2ATOI) · [NDC22](../events/2022-ndc.md) · 35분
+- ['매트릭스 어웨이큰스: UE5 익스피어리언스'로 알아보는 차세대 대규모 월드](https://www.youtube.com/watch?v=300W6HWEKqA) · [NDC22](../events/2022-ndc.md) · 35분
+- [피파온라인4 라이브 서비스](https://www.youtube.com/watch?v=rK83XrOU5Bg) · [NDC22](../events/2022-ndc.md) · 28분
+- [스냅챗과 함께하는 AR, 그리고 게임 마케팅](https://www.youtube.com/watch?v=ts5qLrg76GA) · [NDC22](../events/2022-ndc.md) · 13분
+- [Maximizing the Total Value for Your Game](https://www.youtube.com/watch?v=5z7qQCMtioc) · [NDC22](../events/2022-ndc.md) · 17분
+- [게임 디자이너의 일상](https://www.youtube.com/watch?v=ge73hxNXE-U) · [NDC22](../events/2022-ndc.md) · 25분
+- [게임회사 정년퇴직하기](https://www.youtube.com/watch?v=WDLVlxx_Y4o) · [NDC22](../events/2022-ndc.md) · 28분
+- [스마일게이트 게임 플랫폼 ‘스토브’의 결제 사기 탐지 서비스 구축 사례](https://www.youtube.com/watch?v=MdjlJxXOzPw) · 문곤수, 장준성, AWS / 전성현, 스마일게이트 · [AWS Summit Online Korea 2022](../events/2022-aws-summit-online.md) · 32분
 
 ## 2021년
 
+- [Unity Optimization: Asset Dependency-Driven 에셋 의존성 주도 최적화](https://www.youtube.com/watch?v=fENd8Kqr4E4) · [NHN FORWARD 2021](../events/2021-nhn-forward.md) · 20분
+- [KakaoGame SDK의 Robustness 키우기](https://www.youtube.com/watch?v=VFveljJoLs4) · [if(kakao) 2021](../events/2021-ifkakao.md) · 15분
 - [넷마블 잼팟 조광래 CTO](https://www.youtube.com/watch?v=8qQgNKa9ubc) · [2021 GAME X CONFERENCE : 국내 최대 게임 컨퍼런스](../events/2021-game-x-conference.md) · 22분
 - [볼드플레이게임즈 권대호 대표](https://www.youtube.com/watch?v=Xf0KovuwA6E) · [2021 GAME X CONFERENCE : 국내 최대 게임 컨퍼런스](../events/2021-game-x-conference.md) · 19분
 - [나다디지탈 이윤열 대표](https://www.youtube.com/watch?v=nZY6eBinnn0) · [2021 GAME X CONFERENCE : 국내 최대 게임 컨퍼런스](../events/2021-game-x-conference.md) · 18분
+- [콘솔 로그라이트 제작기](https://www.youtube.com/watch?v=Kue7rwq7oFE) · [NDC21](../events/2021-ndc.md) · 37분
+- [실력점수? 랭킹? 다 비슷한 거 아닌가요](https://www.youtube.com/watch?v=DbRr7X8B-Co) · [NDC21](../events/2021-ndc.md) · 41분
+- [나 == 내 캐릭터?](https://www.youtube.com/watch?v=ks6SIXBtzYk) · [NDC21](../events/2021-ndc.md) · 39분
+- [FGT 얼굴 분석 프레임워크 개발 사례](https://www.youtube.com/watch?v=6m6pakAJvsY) · [NDC21](../events/2021-ndc.md) · 33분
+- [추천알고리즘 Offline A/B 테스트 (feat. PAIGE 프로야구 서비스)](https://www.youtube.com/watch?v=U2v2rVb_6oo) · [NDC21](../events/2021-ndc.md) · 17분
+- [〈블루아카이브〉 아트 디렉팅](https://www.youtube.com/watch?v=TVCV5Z29FGM) · [NDC21](../events/2021-ndc.md) · 28분
+- [〈길드워2〉 MMORPG 사운드의 핵심](https://www.youtube.com/watch?v=YIFHxz9mvx4) · [NDC21](../events/2021-ndc.md) · 38분
+- [예시와 데이터로 보는 게임 크라우드 펀딩 노하우](https://www.youtube.com/watch?v=UPtWivDPps4) · [NDC21](../events/2021-ndc.md) · 30분
+- [게임 PD가 되어 보니](https://www.youtube.com/watch?v=qbIBIouvHNw) · [NDC21](../events/2021-ndc.md) · 50분
+- [〈쿠키런: 킹덤〉 서버 아키텍처 뜯어먹기!](https://www.youtube.com/watch?v=FUEZibcZEkg) · [NDC21](../events/2021-ndc.md) · 42분
+- [로컬라이징 노하우 공유](https://www.youtube.com/watch?v=Io5yCop3oBQ) · [NDC21](../events/2021-ndc.md) · 30분
+- [PUBG가 심쉽(PC, Console)으로 개발하는 방법](https://www.youtube.com/watch?v=5V34D4DXLdg) · [NDC21](../events/2021-ndc.md) · 35분
+- [〈바람의나라〉 MMORPG의 사용자경험(UX) 개선 탐구생활](https://www.youtube.com/watch?v=qDxqmQS_fYw) · [NDC21](../events/2021-ndc.md) · 17분
+- [〈야생의 땅 : 듀랑고〉 그 마지막 이야기](https://www.youtube.com/watch?v=T8qL42d5-r4) · [NDC21](../events/2021-ndc.md) · 34분
+- [게임의 성공을 만드는 전투 디자인 DNA : 스킬 네트워크를 활용한 전투 디자인 분석](https://www.youtube.com/watch?v=4RekrhhuQGg) · [NDC21](../events/2021-ndc.md) · 35분
+- [반지하게임즈의 〈서울 2033〉 포스트모템](https://www.youtube.com/watch?v=6Hhu08DF6bc) · [NDC21](../events/2021-ndc.md) · 28분
+- [이상탐지를 위한 빠른 시계열모델(RLS필터주기모델)](https://www.youtube.com/watch?v=-JfHbhplAks) · [NDC21](../events/2021-ndc.md) · 18분
+- [튜토리얼, 다시 보기](https://www.youtube.com/watch?v=OnM0-IRuJ0w) · [NDC21](../events/2021-ndc.md) · 17분
+- [Making Hard Surface Easy](https://www.youtube.com/watch?v=emeTkdTQgGA) · [NDC21](../events/2021-ndc.md) · 21분
+- [〈Monster Hunter Rise〉 Amiibo 덧입는 플레이어 방어구 제작기](https://www.youtube.com/watch?v=U7L82JUhjNY) · [NDC21](../events/2021-ndc.md) · 35분
+- [COVID-19 & Media & Game](https://www.youtube.com/watch?v=JHWJcvpwLpY) · [NDC21](../events/2021-ndc.md) · 15분
+- [기업의 데이터 자산 관련 제도 현황](https://www.youtube.com/watch?v=7BM1S9f2YII) · [NDC21](../events/2021-ndc.md) · 36분
+- [글로벌 게임 시장 트렌드 2021](https://www.youtube.com/watch?v=7uvx9ohXqwQ) · [NDC21](../events/2021-ndc.md) · 13분
+- [처음 만드는 건데 실수 좀 할 수 있죠](https://www.youtube.com/watch?v=JQgkx2HOpM8) · [NDC21](../events/2021-ndc.md) · 26분
+- [게임 테스트 자동화 5년의 기록, 〈리니지M〉 과 〈리니지2M〉 의 자동테스트 회고](https://www.youtube.com/watch?v=ckqUzRyIPoA) · [NDC21](../events/2021-ndc.md) · 28분
+- [트랜스파일러(Transpiler) 설계 및 구현](https://www.youtube.com/watch?v=ZD-Ox9nMk6E) · [NDC21](../events/2021-ndc.md) · 18분
+- [C# 정의를 사용하는 서버, 클라 코드 생성기 개발 이야기](https://www.youtube.com/watch?v=WKLzs1zJZvM) · [NDC21](../events/2021-ndc.md) · 32분
+- [Java로 실시간 겜서버 엔진 개발 가능? ㅇㅇ 가능](https://www.youtube.com/watch?v=kQyu5pAChcA) · [NDC21](../events/2021-ndc.md) · 44분
+- [〈쿠키런: 킹덤〉 감정을 움직이는 사랑받는 게임 만들기](https://www.youtube.com/watch?v=oy8bR5xDzyI) · [NDC21](../events/2021-ndc.md) · 38분
+- [How to train your robot](https://www.youtube.com/watch?v=0Y6hPMC-PDs) · [NDC21](../events/2021-ndc.md) · 16분
+- [제한된 선택지로 유저가 주인공이 되는 시나리오 만들기](https://www.youtube.com/watch?v=LBrF9NbJ6-I) · [NDC21](../events/2021-ndc.md) · 40분
+- [사수 없는 밸런스 디자이너를 위한 전투,성장 밸런스 설계 방향 노하우 공유](https://www.youtube.com/watch?v=7jasiueKecE) · [NDC21](../events/2021-ndc.md) · 37분
+- [게임 내 악성행위분석 및 사설서버 탐지](https://www.youtube.com/watch?v=URClDPM-fKI) · [NDC21](../events/2021-ndc.md) · 34분
+- [PC방에서 뭐하니? - 게임과 먹거리 이용 분석](https://www.youtube.com/watch?v=4DWYuGVJIzM) · [NDC21](../events/2021-ndc.md) · 16분
+- [데이터로 풀어본 게임 유튜버 마케팅](https://www.youtube.com/watch?v=SObGOm7XQfo) · [NDC21](../events/2021-ndc.md) · 18분
+- [Photogrammetry done easy](https://www.youtube.com/watch?v=tUrDcVA86aM) · [NDC21](../events/2021-ndc.md) · 16분
+- [환경세팅과 라이팅으로 그래픽 퀄리티를 올려보자](https://www.youtube.com/watch?v=mnuKwAV-MBA) · [NDC21](../events/2021-ndc.md) · 17분
+- [MIDI 기반 게임 음악의 클래식 오케스트라 실연 방법](https://www.youtube.com/watch?v=fhl6i0X1M0Y) · [NDC21](../events/2021-ndc.md) · 18분
+- [경찰의 불법 사설서버 수사에 대한 기업의 대응](https://www.youtube.com/watch?v=1Z9oIwiNXow) · [NDC21](../events/2021-ndc.md) · 21분
+- [커뮤니케이션이라는 함정에 빠진 기획자](https://www.youtube.com/watch?v=GVZmLcKNp8U) · [NDC21](../events/2021-ndc.md) · 15분
+- [YesJang MS Teams 봇 만들기 우여곡절](https://www.youtube.com/watch?v=tb9dHdwWcZM) · [NDC21](../events/2021-ndc.md) · 35분
+- [Terraform을 이용한 IaC 기반 인프라 운영](https://www.youtube.com/watch?v=aTUnOf244Cs) · [NDC21](../events/2021-ndc.md) · 21분
+- [게임 서버를 품은 쿠버네티스](https://www.youtube.com/watch?v=8R4DDEqjc0I) · [NDC21](../events/2021-ndc.md) · 29분
+- [SPICA : UE4에서 대규모 몬스터가 나오는 PvE 게임을 위한 하이브리드 데디케이티드 서버](https://www.youtube.com/watch?v=DCA-b-9j08o) · [NDC21](../events/2021-ndc.md) · 27분
+- [초실감 미디어 콘텐츠, Volumetric Video 콘텐츠 소개](https://www.youtube.com/watch?v=24GeOr1DmWM) · [NDC21](../events/2021-ndc.md) · 19분
+- [AWS를 활용해서 글로벌 게임 런칭하기-박진성,솔루션즈 아키텍트,AWS](https://www.youtube.com/watch?v=PYm50NP1pNo) · [AWS Summit Online Korea 2021](../events/2021-aws-summit-online.md) · 28분
+- [모아이게임즈: 모바일 MMORPG 트라하, 데이터베이스 구축을 위해 Azure를 선택한 이유](https://www.youtube.com/watch?v=RIFcsW7woyc) · [Azure Everywhere 2021](../events/2021-azure-everywhere.md) · 15분
+- [JOYCITY: Microsoft Azure를 통한 JOYCITY의 게임 서비스 사례](https://www.youtube.com/watch?v=fKQ1qdt1f7I) · [Azure Everywhere 2021](../events/2021-azure-everywhere.md) · 16분
+- [게임 개발자와 운영자를 위한 쿠버네티스 API 고급 활용과 아고네스를 통한 최적의 게임 서버 호스팅 - 김민석, AWS \| AWS Innovate](https://www.youtube.com/watch?v=u7CKS5uv-OU) · 현대적 앱 특집 · [AWS Innovate 2021](../events/2021-aws-innovate.md) · 28분
 
 ## 2020년
 
+- [Gamebase 상품성 증대를 위한 노력](https://www.youtube.com/watch?v=CTSPoPcFusM) · [NHN FORWARD 2020](../events/2020-nhn-forward.md) · 7분
+- [Java 실시간 게임 서버 성능을 10배 올린 3가지 썰](https://www.youtube.com/watch?v=MZmZGwFRM2U) · [NHN FORWARD 2020](../events/2020-nhn-forward.md) · 40분
+- [대전 게임 매치 메이킹 만들기](https://www.youtube.com/watch?v=ulihnF6TdqM) · [NHN FORWARD 2020](../events/2020-nhn-forward.md) · 19분
 - [에듀케이션데이 (Unite Seoul 2020 Education Day)](https://www.youtube.com/watch?v=hVHSN1gJH9Y) · [Unite Seoul 2020](../events/2020-unite-seoul.md) · 3시간 20분
 - [Adaptive Performance를 활용한 모바일 단말의 지속성능 최적화](https://www.youtube.com/watch?v=znfyEhpsXkU) · [Unite Seoul 2020](../events/2020-unite-seoul.md) · 40분
 - [유니티 엔진을 활용한 RealTime Automotive Rendering Solution](https://www.youtube.com/watch?v=pwGGD9QeBH4) · [Unite Seoul 2020](../events/2020-unite-seoul.md) · 40분
@@ -143,7 +371,9 @@
 - [Unity Accelerator를 활용한 에셋 임포트 시간 단축 및 커스텀 에셋의 캐싱](https://www.youtube.com/watch?v=0iN9dHz4jLM) · [Unite Seoul 2020](../events/2020-unite-seoul.md) · 34분
 - [아티스트를 위한 모바일 그래픽스 베스트 프랙티스](https://www.youtube.com/watch?v=a4c20ZG4yyg) · [Unite Seoul 2020](../events/2020-unite-seoul.md) · 32분
 - [오프닝 노트(Unite Seoul 2020 Opening Note)](https://www.youtube.com/watch?v=_cS1wNZ_XRw) · [Unite Seoul 2020](../events/2020-unite-seoul.md) · 41분
+- [가디언테일즈 글로벌 서비스 도전기!](https://www.youtube.com/watch?v=OMV0sSTCKfU) · [if(kakao) 2020](../events/2020-ifkakao.md) · 18분
+- [DynamoDB를 게임에서 사용하기](https://www.youtube.com/watch?v=AlDhGn_-OCE) · 김성수, 박경표, AWS 솔루션즈 아키텍트 · [AWS Summit Online Korea 2020](../events/2020-aws-summit-online.md) · 32분
 
 ---
 
-다른 주제: [AI (489)](./ai.md) · [백엔드 (252)](./backend.md) · [프론트엔드 (144)](./frontend.md) · [모바일 (121)](./mobile.md) · [인프라·DevOps (335)](./infra-devops.md) · [데이터 (171)](./data.md) · [보안 (134)](./security.md) · [디자인·기획 (71)](./design-product.md) · [문화·커리어 (167)](./culture-career.md) · [기타 (150)](./etc.md)
+다른 주제: [AI (1283)](./ai.md) · [백엔드 (682)](./backend.md) · [프론트엔드 (269)](./frontend.md) · [모바일 (367)](./mobile.md) · [인프라·DevOps (1161)](./infra-devops.md) · [데이터 (501)](./data.md) · [보안 (281)](./security.md) · [디자인·기획 (106)](./design-product.md) · [문화·커리어 (397)](./culture-career.md) · [기타 (578)](./etc.md)
